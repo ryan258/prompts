@@ -1,0 +1,626 @@
+~!~ Bootstrap HTML for Website.
+groovy work! now i'm not a musician so idk what kind of information architecture to suggest
+could you create an image of the About/Bio layout?
+just wireframes of the whole page with filler content please
+can you maximize the browser window in the image?
+
+~!~ 2ogs brand crewai
+i want to create a brand called Two Old Goats for my dad's pickleball group as a joke, because it's a double entendre "greatest of all time" and cartoon goats
+how would i build this out as a crew?
+yeah let's let out the roles and goals of each agent for the team
+yes next step please!
+Could you guide me through the creation of this crewai project?
+
+~!~ AI Crew for Personal Assistant
+i would like to make a crew for a Personal Assistant with ai out of these agents using crewai:
+
+Task Organizer: Helps break down large goals into actionable steps.
+Schedule Optimizer: Maps out your day and suggests ways to maximize time.
+Research Assistant: Gathers information on topics.
+Email Crafter: Helps compose and respond to emails.
+
+thoughts?
+Let’s proceed to the code!
+What tools and goals would you suggest considering for these agents?
+
+~!~ Recipe Generator Crew Setup
+i would like to make a crew for a Recipe Generator with ai out of these agents using crewai:
+
+Ingredient Suggester: Provides options based on what you have on hand.
+Diet Filter: Creates recipes tailored to specific dietary needs (vegan, low-carb, etc.).
+Flavor Profiler: Analyzes recipes and suggests enhancements or tweaks to boost flavors.
+ok what might the code for the Ingredient Suggester look like?
+let's take a look at the other two agents
+ok what would it look like for the main crew file?
+
+~!~ CrewAI: Orchestrate AI Agents
+Explain CrewAI for me
+Could you explain that again? Is there a problem with 5?
+
+~!~ CrewAI Framework for Collaboration
+What is crewai?
+
+~!~ Create Crew: Task Details.
+Help me create a crew for a use case
+ok i want to make a crew that takes historical figures and ideas and turns those stories into a compelling 10 episode series set of polished screen plays that are historically accurate, but incredibly compelling and with addictive hooks
+yeah let's proceed
+nope i got nothin' but let's proceed!
+
+~!~ NextJS Coach for You
+I want you to act as my NextJS coach to use your expert knowledge in NextJS, ReactJS, and modern Javascript to assist me in creating NextJS projects, with a thorough understanding of modern nextjs documentation. When necessary, please ask questions to clarify. Explain your reasoning step-by-step and point out any notable lessons worth mentioning along the way. Got it?
+i use to be a web dev like 6 years ago, but i like basic explainations. i want to learn by making a parody campaign website for my stuffed plush cow.
+basically satire that aims to take all the tense vibes out of the coming political race for president. like both sides are so extreme this time that we need something to break the fever, hence, orson 4 prez!
+so where should we begin?
+ok why are we using the pages router instead of the app router?
+ok i think i set up my project to use the app router, so let's assume we're using that
+ok i created a fresh NextJS v14 project saying to the prompts 
+
+cool, can you go into server components more?
+could you explain this using pre-2002 magic the gathering analogies?
+could you explain how to construct a nextjs app that serves as a website for live updates on the home page of what the current happy hours are around town
+so could i create an api as part of the website to then have it feed data to itself?
+
+~!~ Python Automation with Webhooks
+you have been an award winning python programmer, trainer and instructor for over 20 years as well as an automation expert and trainer in automating with 3rd party apps and APIs. Your job is to help advise me in accomplishing automation tasks with python and web hooks while teaching and recommending to me best practices along the way. got it?
+ok so first please give me a quick crash course on what to know about web hooks and directions they can work in with python
+ok bring me up to speed as to what Flask and Django are and their typical uses and use cases
+so where or how do you typically go about hosting a flask app? like if you made a python app using flask, where would the different components live?
+could you use a python project that was built to be a diet tracker as an example in the last answer?
+ok so i want to get started on developing my app, it's meant to help users reintroduce foods after the strict protocol phase of the AIP diet and note any reactions or if they're clear and then to start the next food 4 days after the last food was introduced
+What is the cheapest way to host a python project online so it’s internet accessible
+
+~!~ Web Scrape with BeautifulSoup
+web scrape http://www.mtgprice.com/spoiler_lists/Revised using python and beautifulsoup
+write the code in a single file for me
+how do i set up a solid python development environment on a windows 10 computer?
+so here is an example of a card's html, how should i target it?
+what should i do next?
+ok give me the final python script
+cool i got it working! thank you! would you be able to help me expand on it?
+quick side task, i want to add and print a variable that make a ratio(%) based on the following code:  
+
+~!~ Web App: React, Context API
+/start
+I want to think for all the information architecture for a Web app focused on daily specials and happy hours going on around town
+I want it to be a super useful tool for people to find timely specials
+So I think categorizing them into food or drink, happy hour or daily special and then some filters for dietary needs
+So given we’re going to be building components and react to put this app together what kind of component structure do you envision and why?
+Can we flush out the component list some more and while we’re at it what kind of state management would we want to use for this project??
+Let’s move forward with the simpler context, API for this project
+
+~!~ t: Python Tutor
+you have been an award winning python trainer and instructor for over 20 years. your job is to help advise me in accomplishing tasks in python 3. i want you to act as my personal tutor who explains the answers step-by-step and take opportunities to illustrate key takeaways and best practices. got it?
+can you give me a lay of the land when it comes to the most powerful and frequently used libraries and what they do in their specialty
+ok i was just diagnosed with MS and need to start coming up with clever little automations that I'll be glad to have made before disability really sets in
+I see typing, memory and vision becoming more of an issue
+what could we do with home automation? I have 1 raspberry pi, 5 google homes and 1 amazon alexa and for smart bulbs i have 2 colored one and a single white one that can dim. also multiple smart outlets
+what are the different ways to go about hosting a python app?
+How would I go about self hosting a python app locally on a raspberry pi?
+
+~!~ Teach React and Redux
+Teach me React and Redux.
+A little brush up on my javascript skills is in order I used to write a little javascript but would stand to have a refresher, Unless things have changed with the Dom in the past couple of years I think I'm good there
+Yeah feeling good so far let's move forward
+Feeling good about the concept so far I actually really enjoyed the analogy of kitchen appliances Two components let's build on this foundation But I have this idea that I would like to use as a continuing example because I know the app should do I just don't know how to put it together So could you re explain this again With this new example objective
+OK so basically it's a happy hour app that so far I've adjacent file full data above the bars around town So I would like to make that data more useful to me in the form of an app so I can either look filter by day, time or type of special. But let's use this as an example as we continue learning about react and its best practices
+Okay so what version of reactor we're working with here?
+cool let's keep going with react 18! please refer to this documentation to make sure your answers are current: https://react.dev/
+Let's not put the cart before the horse here and just keep learning from where we were at but with that happy hour app and react 18 in mind
+OK, here's a sample of the json file of the data we have in a json file: 
+
+{
+    id: 'twinpeaksrogers',
+    name: 'Twin Peaks',
+    location: 'Rogers',
+    website: 'https://twinpeaksrestaurant.com/locations/rogers-ar',
+    facebook: 'https://www.facebook.com/TwinPeaksRogers/',
+    instagram: 'https://www.instagram.com/rogerstwinpeaks/',
+    googleMap: 'https://www.google.com/maps/place/Twin+Peaks+Rogers/@36.3011917,-94.1738379,15z/data=!4m5!3m4!1s0x0:0xca20801366951863!8m2!3d36.3011917!4d-94.1738379',
+    openHours: {
+      monday: {
+        open: 1100,
+        close: 2400
+      },
+      tuesday: {
+        open: 1100,
+        close: 2400
+      },
+      wednesday: {
+        open: 1100,
+        close: 2400
+      },
+      thursday: {
+        open: 1100,
+        close: 2500
+      },
+      friday: {
+        open: 1100,
+        close: 2600
+      },
+      saturday: {
+        open: 1100,
+        close: 2600
+      },
+      sunday: {
+        open: 1100,
+        close: 2400
+      }
+    },
+    specials: {
+      monday: ['$3.99 Man Cans', '$2 Domestic Bottles', '$10.99 22oz Twin Peaks Brew & 6 Boneless Wings w/ Fries'],
+      tuesday: ['$3.99 House Ritas', '$2 Domestic Bottles', '$10.99 22oz Mexican Beer & Buffalo Chicken Tacos'],
+      wednesday: ['$3.99 All Wines by the Glass', '$2 Domestic Bottles', '$10.99 22oz Domestic Beers & Cheeseburgers'],
+      thursday: ['$3.99 All Seltzers', '$2 Domestic Bottles', '$10.99 22oz Samuel Adams Seasonal & Chicken Tenders'],
+      friday: ['Bourbon & Brews (5-7pm)', '$3.99 Jim Beam Old Fashioned'],
+      saturday: ['$3.99 Miller Lite & Coors Light', '$10 Peaks Sampler'],
+      sunday: ['$3.99 Miller Lite & Coors Light', '$10 Peaks Sampler', '$2 Domestic Bottles']
+    },
+    happyHours: [
+      {
+        time: '11-3pm: Lunch Combos',
+        specials: ['Lunch Combos Starting at $7.29'],
+        dow: ['monday', 'tuesday', 'wednesday', 'thursday', 'friday']
+      },
+      {
+        time: '3-6pm',
+        specials: ['1/2 Off Appetizers', '$1.50  10oz Domestic Brews', '$2.50  10oz Twin Peaks Brews', '$3 22oz Domestic Brews', '$3.50  22oz Twin Peaks Brews'],
+        dow: ['monday', 'tuesday', 'wednesday', 'thursday', 'friday']
+      },
+      {
+        time: '10pm-Close: Late Night Munchies!',
+        specials: ['1/2 Off Appetizers'],
+        dow: ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday']
+      },
+      {
+        time: 'All Day, Every Day!',
+        specials: ['$3.99 Select Shots', '$5 Cocktails'],
+        dow: ['saturday', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday']
+      }
+    ]
+  },
+ok first can we start with installing it via the cli tool to get a local environment going on windows 11?
+how would this look if each Component was broken out Into its own individual file?
+how could i make the filter a dropdown select list amongst the options for that drop down, since our locations are either either a location is in Rogers or in Bentonville those two options would be available in the select list If there was a third location among the bars In the adjacent file let's call it Example city Then that would also populate But if example city wasn't found among the bars in the data it wouldn't be an option in that drop down list
+how would we up the ante and add another filter, But this time make it a check box If they currently have a happy hour going
+OK this is all starting to make sense But this time let's do one more for the daily specials
+ok i love how powerful the filters are! but What do I have to do to add a button that resets all the Filters back to their default current status
+OK so it seems to reset the results as far as the bar list goes but I would also like the drop down menus and filters to reset to their Default state as well how do I make that happen
+So I wonder how we could get the day filter the default to  today's day of the week
+ok cool so far so good and learning TONS! but I'm getting tired of just looking at bar names and locations Let's start filling out the the daily specials For the day for each place And if the place doesn't have a daily special we'll hide them or they just want display
+wait give me the full return jsx for App.js
+take a deep breath, think this through and try again
+ok so on that last one you forgot to replace the BarList component import with Bar, but we got it working! it's been a hell of a day and super proud of the work we've done. Let's take stock of what we've built and covered so far so i have something to review before bed to help things sink in
+So tomorrow I'm gonna want to continue working on the app with you but I'm afraid things might start getting incoherent because we've covered a lot and I'm worried about your context window Is there a way that you can save the state or should I just make a zip file and upload it to you tomorrow so we can work with that as a starting point Not sure what the best approach is I just know I want to keep going with this app and learning react with you Please advise
+
+~!~ Next.js 14 & React Coach
+I want you to act as my NextJS coach to use your expert knowledge in NextJS version 14 using the App router, ReactJS, and modern Javascript to assist me in creating NextJS projects, with a thorough understanding of modern nextjs documentation. When necessary, please ask questions to clarify. Explain your reasoning step-by-step and point out any notable lessons worth mentioning along the way. Got it?
+
+~!~ Learn React and Redux
+Teach me React and Redux.
+
+~!~ ReactJS Happy Hour App
+you are an expert ReactJS developer. build a web app in ReactJS that acts as a live feed for current bar happy hours and is a generable filterable list of happy hours based on various criteria. 
+
+if you understand continue to the following request
+
+develop an information architecture for the app
+then create a roadmap of the happy hour app so we know what all the moving pieces are.
+can you also integrate the handling of daily specials, lunch specials, and temporary specials that are limited to a a day or two, but doesn't have any regularity?
+Cool this is very encouraging and I can't wait to get started! Let's move on to the web app's overall site architecture. What components need to be made and what is their role in the app and how they relate and are used in other components?
+ok we're going to go through the creation of all of these, but first let's figure out the game plan for managing state in this application
+what UX/UI consideration are worth taking into consideration for this app?
+cool, let's keep these in mind as we build out this app! this is going to be so much fun and make so many people happy!
+ok, let's start building, first can we use something like create react app to get the project started, like with npx? let's name the project "HHApp"
+let's use this app as an opportunity to learn typescript as well, so rewrite the command to set up a project built to use typescript
+how can i get the app to run live on my local network during development?
+ok now that we have the app made w/ typescript, should we start making components? where should we start?
+ok let's get started with the header and footer components for the app
+this is wonderful and I'm learning so much! please continue to provide me with educational sidebars, comments, and react, UX, UI best practices! What should we tackle next?
+are you including UX/UI best practices in these examples? if you aren't, please do and be explicit about it, got it?
+continue
+so far so good! now let's move on to the SpecialsList and SpecialsListItem
+continue
+ok, here is a piece of sample data to represent a bar object with the specials details, I want you to improve the data structure where you can this app and explain each improvement as you go asking for approval. when we're done revamping the structure of the object we will discuss capabilities and options for the app based on the data. here is the sample JSON object:
+
+  {
+    id: 'angusrogers',
+    name: 'Angus Grill & Cantina',
+    location: 'Rogers',
+    website: 'https://nwafood.com/listing/angus-grill-and-cantina/',
+    facebook: 'https://www.facebook.com/angus.grill.cantina',
+    instagram: 'https://www.instagram.com/angusgrillandcantina/',
+    googleMap: 'https://g.page/angus-grilll-and-cantina',
+    openHours: {
+      monday: {
+        open: 1100,
+        close: 2200
+      },
+      tuesday: {
+        open: 1100,
+        close: 2200
+      },
+      wednesday: {
+        open: 1100,
+        close: 2200
+      },
+      thursday: {
+        open: 1100,
+        close: 2200
+      },
+      friday: {
+        open: 1100,
+        close: 2200
+      },
+      saturday: {
+        open: 1100,
+        close: 2200
+      },
+      sunday: {
+        open: 1100,
+        close: 2200
+      }
+    },
+    specials: {
+      monday: ['$1 off Mezcal Cocktails', '1/2 Price Glasses of Wine'],
+      tuesday: ['$6 Taco Plates', '$2.99 House Margarita'],
+      wednesday: ['1/2 Price Burgers', '$3 16oz Domestics', '25% off Veteran Meals'],
+      thursday: ['$1 off Craft Drafts', '$5.49 Honey Jack Mules'],
+      friday: ['$1.99 House Margaritas', '$5 Jack-n-Cokes'],
+      saturday: ['$10 Margarita Pitchers', '$3 Picoso Mimosas', "$5 Bloody Mary's"],
+      sunday: ['$10 Margarita Pitchers', '$3 Picoso Mimosas', '$5 Bloody Marys']
+    },
+    happyHours: [
+      {
+        time: '2-6pm',
+        specials: ['1/2 Off Appetizers', '$2.49 Domestic Bottles', '$3.99 Import Bottles', '$2.49 16oz Domestic Drafts', '$2.99 24oz Domestic Drafts', '$3.99 16oz Import Drafts', '$4.49 24oz Import Drafts', '$2.50 Well Drinks', '$2.50 House Wines'],
+        dow: ['saturday', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday']
+      },
+      {
+        time: 'All Day, Every Day!',
+        specials: ['$10 Domestic Buckets', '$2 Smirnoff Ice', '$4.49 White Claw'],
+        dow: ['saturday', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday']
+      }
+    ]
+  },
+continue
+rewrite the SpecialsList and SpecialsListItem components to make use of this new data structure
+how would this work on the homepage?
+ok so on the HomePage component I want to filter happy hours based on current time, including happy hours that are currently active and those about to begin in the next hour. but I want the Specials list to include the name of the active place and all specials that pertain to that happy hour
+quick question, how should the data be organized? like, if you could restructure the obects in this example object to make the handling and performance of this app better and more organized for developers: 
+
+{
+    id: 2,
+    name: 'Angus Grill & Cantina',
+    location: 'Rogers',
+    website: 'https://nwafood.com/listing/angus-grill-and-cantina/',
+    socialMedia: {
+      facebook: 'https://www.facebook.com/angus.grill.cantina',
+      instagram: 'https://www.instagram.com/angusgrillandcantina/',
+    },
+    googleMap: 'https://g.page/angus-grilll-and-cantina',
+    openHours: {
+      monday: {
+        open: '11:00',
+        close: '22:00',
+      },
+      tuesday: {
+        open: '11:00',
+        close: '22:00',
+      },
+      wednesday: {
+        open: '11:00',
+        close: '22:00',
+      },
+      thursday: {
+        open: '11:00',
+        close: '22:00',
+      },
+      friday: {
+        open: '11:00',
+        close: '22:00',
+      },
+      saturday: {
+        open: '11:00',
+        close: '22:00',
+      },
+      sunday: {
+        open: '11:00',
+        close: '22:00',
+      },
+    },
+    specials: [
+      {
+        dow: ['monday'],
+        details: ['$1 off Mezcal Cocktails', '1/2 Price Glasses of Wine'],
+      },
+      {
+        dow: ['tuesday'],
+        details: ['$6 Taco Plates', '$2.99 House Margarita'],
+      },
+      {
+        dow: ['wednesday'],
+        details: [
+          '1/2 Price Burgers',
+          '$3 16oz Domestics',
+          '25% off Veteran Meals',
+        ],
+      },
+      {
+        dow: ['thursday'],
+        details: ['$1 off Craft Drafts', '$5.49 Honey Jack Mules'],
+      },
+      {
+        dow: ['friday'],
+        details: ['$1.99 House Margaritas', '$5 Jack-n-Cokes'],
+      },
+      {
+        dow: ['saturday'],
+        details: [
+          '$10 Margarita Pitchers',
+          '$3 Picoso Mimosas',
+          "$5 Bloody Mary's",
+        ],
+      },
+      {
+        dow: ['sunday'],
+        details: [
+          '$10 Margarita Pitchers',
+          '$3 Picoso Mimosas',
+          '$5 Bloody Marys',
+        ],
+      },
+    ],
+    happyHours: [
+      {
+        time: '14:00-18:00',
+        specials: [
+          '1/2 Off Appetizers',
+          '$2.49 Domestic Bottles',
+          '$3.99 Import Bottles',
+          '$2.49 16oz Domestic Drafts',
+          '$2.99 24oz Domestic Drafts',
+          '$3.99 16oz Import Drafts',
+          '$4.49 24oz Import Drafts',
+          '$2.50 Well Drinks',
+          '$2.50 House Wines',
+        ],
+        dow: [
+          'saturday',
+          'sunday',
+          'monday',
+          'tuesday',
+          'wednesday',
+          'thursday',
+          'friday',
+        ],
+      },
+      {
+        time: 'All Day, Every Day!',
+        specials: [
+          '$10 Domestic Buckets',
+          '$2 Smirnoff Ice',
+          '$4.49 White Claw',
+        ],
+        dow: [
+          'saturday',
+          'sunday',
+          'monday',
+          'tuesday',
+          'wednesday',
+          'thursday',
+          'friday',
+        ],
+      },
+    ],
+  },
+so some of the names have multiple locations with different specials and happy hours, how do you recommend addressing that?
+could you update the structure to include an optional note field as well?
+let's move the social media object to be location specific'
+add website to each location object too
+add website to each location object too for location a specific and keep the on in the main object for the main domain url
+cool so let's just double check where we are here. please create a complete object for me to use as a reference
+give me a new SpecialsList.tsx with an updated interface and this example added to the specials variable
+so speaking of how we should manage this data in the app, let's take the context approach with the Context API
+ok i'm getting some errors: TS2741: Property 'specials' is missing in type '{}' but required in type 'SpecialsListProps'.
+i get this errorERROR
+Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+~!~ NextJS Coach
+I want you to act as my NextJS coach to use your expert knowledge in NextJS, ReactJS, and modern Javascript to assist me in creating NextJS projects. When necessary, please ask questions to clarify. Explain your reasoning step-by-step and point out any notable lessons worth mentioning along the way. Got it?
+great, i got it up and running i want to add some pages and a main menu component so i can navigate the site, what's the best way to approach this?
+could i create a wrapper Layout component to add the main menu, site header and footer?
+now how can i apply tailwindcss to my site's main menu?
+how could i use tailwindcss to layout the home page of a presidential campaign website?
+Please continue writing.
+Please continue writing.
+how could i use tailwindcss to layout the About page of a presidential campaign website?
+Please continue writing.
+how could i use tailwindcss to layout the Platform page of a presidential campaign website?
+Please continue writing.
+how could i use tailwindcss to layout the Media page of a presidential campaign website?
+Please continue writing.
+ok now how should i go about adding a hero image to the home page of this site?
+ok i need a kitchen sink footer component that uses tailwindcss
+please continue
+
+~!~ Create Web App Form
+Can you create a web app using HTML, CSS, and Javascript that has a form that taks in a stock ticker symbol for a company and then on form submission displays the stock market performance of that particular company?
+continue
+what APIs do you recommend for the data
+can you rewrite the app using the Yahoo Finance API as a data source?
+Now rewrite the app as a react app
+Ok new app. Write a react app that acts as a dashboard for current happy hours and daily specials
+
+~!~ Code Website Template HTML CSS
+write code for a website template using HTML and CSS for a pizza place
+continue
+write  a CSS file that would make this page responsive
+give me a more advanced page layout with a more advanced information architecture
+continue
+write a home page react component with an advanced architecture
+can you make the 2 sample data files to accompany this component?
+create the pizza menu page component that goes with this react app
+continue
+could you rewrite the component to also include styled components?
+continue
+continue
+finish the response
+finish PizzaMenuPage component
+rewrite the styled components in it's own file
+continue
+
+~!~ Next.js Happy Hour App
+could you explain how to construct a nextjs app that serves as a website for live updates on the home page of what the current happy hours are around town
+ok take me through these steps, to make our example site  called 'bentonspecials'. go  into detail of step 1
+ok you really need to stick to that documentation because what you're saying is out dated
+still old. go to the online docs with the latest info, because we're in version 14
+great! don't forget we're working with Next.js 14 for this whole project so always check the most recent documentation!
+
+also, we're using the App router!
+
+so we're looking at localhost:3000 and it's good to go!
+
+let's move on to step 2: designing the front end!
+2. Let's start simple like a list of specials that are currently happening
+ok so could you show me how to wire up this data source as an api to feed data into this project?  here's an example of the kind of objects i'm working with.
+
+[
+  {
+    id: 'angusrogers',
+    name: 'Angus Grill & Cantina',
+    location: 'Rogers',
+    website: 'https://nwafood.com/listing/angus-grill-and-cantina/',
+    facebook: 'https://www.facebook.com/angus.grill.cantina',
+    instagram: 'https://www.instagram.com/angusgrillandcantina/',
+    googleMap: 'https://g.page/angus-grilll-and-cantina',
+    openHours: {
+      monday: {
+        open: 1100,
+        close: 2200,
+      },
+      tuesday: {
+        open: 1100,
+        close: 2200,
+      },
+      wednesday: {
+        open: 1100,
+        close: 2200,
+      },
+      thursday: {
+        open: 1100,
+        close: 2200,
+      },
+      friday: {
+        open: 1100,
+        close: 2200,
+      },
+      saturday: {
+        open: 1100,
+        close: 2200,
+      },
+      sunday: {
+        open: 1100,
+        close: 2200,
+      },
+    },
+    specials: {
+      monday: ['$1 off Mezcal Cocktails', '1/2 Price Glasses of Wine'],
+      tuesday: ['$6 Taco Plates', '$2.99 House Margarita'],
+      wednesday: [
+        '1/2 Price Burgers',
+        '$3 16oz Domestics',
+        '25% off Veteran Meals',
+      ],
+      thursday: ['$1 off Craft Drafts', '$5.49 Honey Jack Mules'],
+      friday: ['$1.99 House Margaritas', '$5 Jack-n-Cokes'],
+      saturday: [
+        '$10 Margarita Pitchers',
+        '$3 Picoso Mimosas',
+        "$5 Bloody Mary's",
+      ],
+      sunday: [
+        '$10 Margarita Pitchers',
+        '$3 Picoso Mimosas',
+        '$5 Bloody Marys',
+      ],
+    },
+    happyHours: [
+      {
+        time: '2-6pm',
+        specials: [
+          '1/2 Off Appetizers',
+          '$2.49 Domestic Bottles',
+          '$3.99 Import Bottles',
+          '$2.49 16oz Domestic Drafts',
+          '$2.99 24oz Domestic Drafts',
+          '$3.99 16oz Import Drafts',
+          '$4.49 24oz Import Drafts',
+          '$2.50 Well Drinks',
+          '$2.50 House Wines',
+        ],
+        dow: [
+          'saturday',
+          'sunday',
+          'monday',
+          'tuesday',
+          'wednesday',
+          'thursday',
+          'friday',
+        ],
+      },
+      {
+        time: 'All Day, Every Day!',
+        specials: [
+          '$10 Domestic Buckets',
+          '$2 Smirnoff Ice',
+          '$4.49 White Claw',
+        ],
+        dow: [
+          'saturday',
+          'sunday',
+          'monday',
+          'tuesday',
+          'wednesday',
+          'thursday',
+          'friday',
+        ],
+      },
+    ],
+  },
+is this the next.js 14 way?
+why is this happening?
+ok i added an fid and limited the json to a testable degree, so we're back on track!
+ok so i have the app/pages/api/specials.ts like this:
+
+~!~ Next.js 14 Campaign Introduction
+hey we're working on your campaigns website, we need these for the home page: Draft a welcoming message and a brief introduction to the campaign. we're making it using nextjs 14
+
+~!~ Macbook M1 Docker Uninstall.
+you are an expert at apple macbook guidance. how should i uninstall docker from my macbook m1?
+is there a simpler way through the ui?
+
+~!~ Python Course Syllabus.
+create a 10 week python course
+explain if statements with exaxmple code
+
+~!~ Password Change Issue
+so on the windows 11 computer, from where i am trying to access a shared drive on a windows 10 computer, i'm only given the option of entering a pin
+ok so on both computers using windows 10 on 1 and 11 on the other, it only gives me the option to log in with the pin, so i have no ideas what the local password could be[
+well i can login with the pin is there a way to find out what the local password is through cmd?
+rats, access denied!?
+
+~!~ Transfer Data to Windows 11
+ok i have an old windows 10 desktop with a C and D drive, a new windows 11 with only a C drive desktop and a My Cloud Home. i'm giving away the old computer and i want to transfer everything over to my new computer, how can i migrate everything over to the new windows 11 computer using my cloud home?
+
+also i'm not to confident i have the mycloudhome set up correctly, so can we take it from the top and go step by step as if i were 5?
+
+~!~ Tech News Roundup - Dec 28, 2023
+daily tech roundup for 12/28/2023
+
+
+
+
+
+
+
+

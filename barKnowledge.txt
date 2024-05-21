@@ -1,0 +1,71 @@
+~!~ Cricket Basics ELI5
+explain to me how the game of cricket works, eli5
+
+~!~ AI Fears & Concerns
+what fears do people have about AI?
+what unforeseen fears are we likely to see arise is AI becomes more prominent in society?
+
+~!~ Jobs GPT-4 Replaces
+name 20 jobs that GPT-4 can replace. turn it into a table with columns for number, job, and human trait replaced
+now give me 20 jobs that are still safe
+summarize the chat so far please
+
+~!~ Vikings Super Bowl Odds
+tell me a spooky story
+
+~!~ NFL Merch
+What does the merchandising split between the NFL and the individual teams look like?
+So why would it be that coaches on the sideline are wearing their teams logo but for some reason they’re grayscale and this is it unique to one team we’re watching a single game we’re both teams on the sidelines. The coaches have lined some weird grayscale logo team attire.
+
+~!~ Asphalt Racetrack Costs: Missouri
+If I wanted to build an asphalt racetrack in southern Missouri what should I take into consideration?
+What kind of costs are we looking at?
+
+~!~ Cost of Building Racetrack
+how much would it cost to build a car racetrack
+1/4 mile drag strip and a 3 mile road course, in southern missouri, asphalt surface material,
+act as my estimator and price things out for me
+you can give me general ballpark
+ok how much would you generally budget for the operational setup costs and contifencies?
+ok so what are we looking at for the total project
+what do you mean by contingency?
+
+~!~ Acronyms in Fantasy Football
+Look intoit
+Where does the raw product come from?
+
+~!~ College Football Bowl History
+what is the history of college football bowl games coming into and exiting existence
+give me a timeline as to when various bowl games were introduced?
+what are the newest introduction to bowl games?
+how are relations between argentina and chile
+
+~!~ NFL Coaching Advice
+as the most successful coach in NFL history, what advice do you have for the Minnesota Vikings against the Green Bay Packers?
+what weak spots in Aaron Rodger's game exist?
+write a classic rock song about the Minnesota Vikings
+rewrite the lyrics in younger futhark
+Translate those lyrics into spanish
+translate those spanish lyrics into english
+rewrite those lyrics in the style of "The Doors"
+rewrite the lyrics in the style of mindless generic rock
+rewrite the songs as one about a nordic band of norse vikings
+rewrite the lyrical content in the style of Gloryhammer
+create a new set of lyrics for the song
+
+~!~ New chat
+How does pop up’s offer thousand of beverages for being such small establishments
+OK you are a new franchisee of pop-ups and you’re looking at your introductory packet having just bought into your first franchise
+
+~!~ Superconductors: Fast Electricity Slides
+Explain superconductors like I'm five years old.
+
+~!~ Chickens Lay Eggs Daily.
+How do chickens lay an egg every day
+How about turkeys?
+What seasons do turkeys lay eggs
+How does March madness work?
+
+~!~ UFC Championship Main Event
+What are the 48 hours leading up to a ufc championship main event fight typically like?
+

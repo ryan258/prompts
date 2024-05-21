@@ -1,0 +1,36 @@
+~!~ Hygge Events Newsletter Strategy
+Make a content strategy for a newsletter featuring free local weekend events.
+
+~!~ Hygge Marketing Strategy
+Can you suggest a marketing strategy?
+ok we just missed bfcm, but we want to prepare for it for next year, what should we do?
+so what might we want to begin selling our products at?
+so should we increase our prices so we can offer a bigger discount when we have sales?
+ok let's talk to the copywriting department and ask them about their strategy to use hygge and storytelling
+Let's make breakfast!
+ok back to the copywriting department, let's commence the meeting and note the key takeaways
+share with me some examples of best practices that were established during the meeting
+are you familiar with gpts configure tab fields?
+ok i want you to find online and read about each of these elements on the openai gpts customization interface
+cool, did you learn what those fields on the ui i provided actually were?
+awesome, now if i were to fire up a new chat, could you give me some text to encapsulate what we've learned about the interface, so i can pick up the chat from this point?
+cool thanks! now let's make ourselves some super useful gpts to help us with snowdapop!
+ok let's try our hand at making #4
+ok, what kind of uploads could we give this gpt to enhance it?
+
+~!~ Write Local Web Design Company Website Home Page Copy
+write home page copy for a local web design company website
+write the information architecture for a web design company website
+write web copy for the services page
+write web copy for the home page
+
+~!~ Outline Website for Shoes
+give me the broad outline for a website for shoes including hero title, tagline, call to action button, section for features and details about the shoe
+Please provide content for each one of these that I can copy paste straight into a website
+continue
+
+
+
+
+
+

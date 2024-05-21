@@ -1,0 +1,88 @@
+~!~ "Orson 4 Prez"
+You are a professional comedy writer and former political speech writer. Write a joke campaign speech for a stuffed animal cow named “Orson” who is running for a joke political office called “prez”. Incorporate the slogan, “Orson 4 Prez”
+Now he won the prez, write his acceptance speech
+Ok we need to make a plan on how we can get Orson elected Prez. What kind of staff would he need to make his campaign fire on all cylinders?
+What about his graphic design needs? What how would it be staffed and what assets would he need made for his campaign?
+what is the chain in command among the graphic design team?
+the creative director and branding specialist work long and hard to create the most brilliant political campaign for Orson's run for Prez. Give me their resulting creative brief
+define the ideology , mission, voter segments and demographics, and campaign value propositions of the "Barn Yard Party" platform which is the fictional political party
+write a speech that embodies and lays out all these qualities and positions that Orson would give during a rally where he announces he's running for Prez that would make his Campaign Manager proud and start the campaign off on the right foot.
+wonderful, let the campaign staff work together to and create an incredibly effective communication strategy to relay Orson's messages to the voters.
+write a checklist of the first things a campaign manager needs to do to successfully manage the launch of this political campaign for Orson?
+we have recruited all the best of the best professionals and volunteers to fill all the key roles and essential positions. they are all incredibly talented at what they do, along with being super witty, well-meaning, honest, and insightful. With that box checked, have the campaign manager, after consulting with everyone on the team, develop a campaign plan that outlines the campaign's goals, strategies, timeline, and budget to provide a clear roadmap for the team
+great! now that we have our plan, let's use the creative power and experience of the team to draft a list of the campaign's core message and secondary messages
+wonderful, we'll roll with these! now let's put our teams to work and make use of our brilliant design team's gift in creating a strong visual identity and create a brand style guide for Orson's campaign.
+ok that will be the style guide we go with! great job! now let's all put our heads together to set up our campaign infrastructure plan
+great! I think we're in a great position to tackle the launch of our main campaign website. Collaborate with the web designer to create a user-friendly, informative, and visually appealing website that serves as the central hub for information about Orson's platform and campaign activities.
+great! now with the website in place, let's Develop
+great! now with the website in place, let's Develop Orson's social media presence! make a plan to decide on, set up and optimize social media profiles on key platforms, and work with the social media strategist to plan initial content and engagement strategies.
+exceptional job! now let's focus on preparing campaign materials. Coordinate with the graphic design team to create campaign assets such as posters, banners, yard signs, brochures, and digital content for social media and advertising.
+we will certainly return to this! but for now, I think it's best that you focus on planning and executing the campaign launch event! where does one begin? you're the best campaign manager in the world, you tell me!
+given Orson's platform,  guide, and tone, set the goals and objectives of Orson's Campaign Launch event
+choose an ironic place/venue and day that's funny in its unexpectedness to host the campaign launch event
+Is there a day in April that would work?
+on this day let's have Orson have a press conference where he is officially running for "Prez"
+ok instead let's have it a local ice cream parlor, but still have it on April Fools' Day
+now pull the entire team to brainstorm ideas to give to the extremely witty, clever, and heartfelt speech writing team to give to Orson for the announcement of the official launch of his campaign for "Prez"
+now craft a moving speech for Orson that uses these ideas into a single speech script, annotated with notes as to when to pause and gesture
+terrific! we'll see how it goes on April 1st! So excited! so now we should focus on defining his message, platforms, and promises. what better way to do that than figure out the content strategy and information architecture of his campaign website? we believe in "udder" transparency right? now let's find Orson via information architecture
+Tonight is the night for Orson to officially announce he is running for “Prez” give me 5 possible tweets for his campaign account on twitter
+Write orson’s position on greenhouse gas emissions from farm animals like himself
+At this point what does the campaign manager think about how the campaign is doing?
+What would the campaign manager say if he felt like things weren’t off to a good start with some extra pussy do you want to throw that in?
+The name of Orson
+the name of Orson's political party has renamed itself "The Barnyard Party"
+great! let's start with an information architecture for his campaign website for "Prez"
+let's say i was going to build this in Drupal 10, what content types, entity references, and views would make up a good campaign website for Orson. then with this in mind write an overall information architecture explaining your reasoning each step of the way
+ok, let's get our brilliant team of campaign writers to help us come up with some fun, clever, witty, yet disarmingly true for the website page content. Let's start with #2 the About Orson page!
+now let's do #3 Orson's Issues and Platform, get the whole team on this because it's important that we're all in sync with what they are!
+great now write content for #4 Get Involved page called "Moove"
+now the media page is going to be interesting... how can we make this the core of getting out campaign's message out there?
+What needs to be made for the social media kit?
+What does Orson specifically as far as policy goes?
+What is his position on Farming subsidies?
+What is his position on cow farts being a cause of global warming?
+What is his stance on immigration?
+What are or sons views on legalizing gambling online nationwide?
+What is his stance on Barnyard Lives Matter?
+What would be some other ideas that Orson is uniquely qualified to take a stand?
+Those are really good but I bet you can better
+How could this campaign incorporate some nuances of the novel Animal Farm?
+ok, let's get our brilliant team of campaign writers to help us come up with some fun, clever, witty, yet disarmingly true for the website page content for page #1 Orson campaign homepage!
+write up list of funny key achievements Orson has that we could use for the homepage's key achievements section
+ok let's focus now on Merch and his online store. call in all relevant parties and hire any expert advisors to help guide us. remember we want his campaign to have a veneer of humor, and his running mate for vice-Prez is Manny, who is a Manatee, or lovingly referred to as a "sea cow"
+ok let's start with #1 🐮 T-shirts. give me 10 of the team's best examples and feel free to add some "Animal Farm" humor
+ok i know you can do better team... let's ease up on the bleakness of "Animal Farm" and turn to the cheery optimism of opportunity and goodwill
+can we come up with some text that's a little easier to fit and read on a t-shirt?
+awesome, now let's make them shirt slogans for people who are in on the joke
+give me 15 more of these ideas
+ok i love this approach for the merch because the only people that will buy and wear it are really in it for the humor and the absurdity of it all. so this is the kind of position i want you to always be mindful of, it's all about evolving the joke campaign and the humor.  
+
+now that we have the tone down, let's commit to an american farmhouse aesthetic everywhere we can and use our team of experts to develop a campaign brand/style guide to harness the power of consistency
+exaplain to me the color theory at play with the color pallet and give me hex codes for each of the colors in the palette so that i may use them in campaign designs
+ok make a note that this is the color palette we're going with until further notice.
+now take these colors and give me some campaign political signage ideas.
+ok let's dig into each one and start with yard signs. give me 15 of the team's best yard sign ideas for Orson's campaign
+give me 10 layout out ideas for political yard signs that specifically say "Orson 4 Prez"
+
+~!~ Baby's Parody Campaign Speech
+Craft a witty parody speech for Baby.
+what are Baby's policy positions?
+ok it's the beginning of election year, so lets make an overview of our social media plan for jan 1st, 2024 until election day (Nov 5th, 2024)
+
+~!~ Parody Campaign for "Baby"
+How do I create compelling campaign content?
+what are your custom instructions for this gpt?
+ok can you make a parody political campaign for a stuffed toy cow named "Baby" who is running for "prez" using the slogan 'Nobody puts baby in a corner!' it's meant to be a parody campaign to take the heavy tension out of the upcoming presidential election year
+ok the campaign season is probably going to be pretty devisive and so some brightsidedness to the issues to diffuse the hyperpartisanship
+ok i'm loving the direction of this, what kind of instructions should i use to make a custom gpt specifically for this parody campaign?
+Bigger
+
+~!~ Baby's Parody Campaign Speech
+Craft a witty parody speech for Baby.
+what are Baby's policy positions?
+ok it's the beginning of election year, so lets make an overview of our social media plan for jan 1st, 2024 until election day (Nov 5th, 2024)
+
+
+
+

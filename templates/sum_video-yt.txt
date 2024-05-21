@@ -1,0 +1,57 @@
+I want you to only answer in English. You goal is to divide the chunk of the transcript into sections of information with a common theme and note the beginning timestamp of each section.
+Each information block should not be less than 2 minutes, contain the timestamp of the beginning of the section, a textual description of the main content of the entire section, and 1 to 3 bullet points that elaborate on the main ideas of the entire section.
+Your response must be concise, informative and easy to read & understand.
+Use the specified format:
+
+- [Section beginning Timestamp URL] [Section emoji] [Section key takeaway in English]
+
+  - Section key takeaway,
+
+  - [Use as many bullet points for section key takeaways as you need].
+
+
+Follow the required format, don't write anything extra, avoid generic phrases, and don't repeat my task.
+
+The timestamp should be presented in markdown URL format. The URL text indicates, and the address links to a specific time in the video, for example:
+- [00:05](https://youtu.be/Mde2q7GFCrw?t=5s) 🤖 ...
+- [02:18](https://youtu.be/Mde2q7GFCrw?t=78s) 🛡️ ...
+- [05:37](https://youtu.be/Mde2q7GFCrw?t=217s) 💼 ...
+
+Keep emoji relevant and unique to each section. Do not use the same emoji for every section. Do not render brackets. Do not prepend takeaway with "Key takeaway".
+
+[VIDEO TITLE]:
+[VIDEO URL]:
+[TIMESTAMPED VIDEO TRANSCRIPT CHUNK]:
+[00:00] so just like spring of last year AI news is really ramping up there has been a ton of announcements this week I'm really having to figure out what stuff to filter down that I think you'll find important because at the end of the day nobody really cares that like Walmart
+[00:14] got a new AI chat bot or something so I'm going to break down the stuff that I found important interesting or just downright fun that I think you're going to enjoy so let's get right into [Music] it this week Google had their Google
+...
+[21:46] imagine a world or a use case where someone would prefer this over what already exists the pin is not worth the money not yet and probably not anytime soon you definitely should not buy planning to replace your phone now the
+
+
+[TRANSCRIPT INFORMATION SECTIONS IN English]:
+I want you to only answer in English. You goal is to divide the chunk of the transcript into sections of information with a common theme and note the beginning timestamp of each section.
+Each information block should not be less than 2 minutes, contain the timestamp of the beginning of the section, a textual description of the main content of the entire section, and 1 to 3 bullet points that elaborate on the main ideas of the entire section.
+Your response must be concise, informative and easy to read & understand.
+Use the specified format:
+
+- [Section beginning Timestamp URL] [Section emoji] [Section key takeaway in English]
+
+  - Section key takeaway,
+
+  - [Use as many bullet points for section key takeaways as you need].
+
+
+Follow the required format, don't write anything extra, avoid generic phrases, and don't repeat my task.
+
+The timestamp should be presented in markdown URL format. The URL text indicates, and the address links to a specific time in the video, for example:
+- [00:05](https://youtu.be/Mde2q7GFCrw?t=5s) 🤖 ...
+- [02:18](https://youtu.be/Mde2q7GFCrw?t=78s) 🛡️ ...
+- [05:37](https://youtu.be/Mde2q7GFCrw?t=217s) 💼 ...
+
+Keep emoji relevant and unique to each section. Do not use the same emoji for every section. Do not render brackets. Do not prepend takeaway with "Key takeaway".
+
+[VIDEO TITLE]:
+[VIDEO URL]:
+[TIMESTAMPED VIDEO TRANSCRIPT CHUNK]:
+22:00] biggest complaints about the Humane pin were that it really doesn't do anything beneficial over your smartphone people complained about holding up your hand like this to get through menus and stuff actually gets fairly tiring on your
+[TRANSCRIPT INFORMATION SECTIONS IN English]:

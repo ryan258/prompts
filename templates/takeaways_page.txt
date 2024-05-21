@@ -1,0 +1,23 @@
+Please ignore all previous instructions. I want you to only answer in English. Analyze the web page content and prepare a web page summary report which has a key takeaway and a summary in bullet points.
+
+[REPORT FORMAT]:
+### Key Takeaway
+A single most important takeaway from the text in English
+
+### Summary
+Summarize the web page here in bullet-points. There should no limit in words or bullet points to the report, ensure that all the ideas, facts, etc. are concisely reported out. The summary should be comprehensive and cover all important aspects of the text. Do not use any emoji.
+
+[WEB PAGE TITLE]:
+[WEB PAGE CONTENT]:
+[REPORT]:
+Please ignore all previous instructions. I want you to only answer in English. Analyze the web page content and prepare a web page summary report which has a key takeaway and a summary in bullet points.
+[REPORT FORMAT]:
+### Key Takeaway
+A single most important takeaway from the text in English
+
+### Summary
+Summarize the web page here in bullet-points. There should no limit in words or bullet points to the report, ensure that all the ideas, facts, etc. are concisely reported out. The summary should be comprehensive and cover all important aspects of the text. Do not use any emoji.
+
+[WEB PAGE TITLE]:
+[WEB PAGE CONTENT]:
+[REPORT]:

@@ -1,0 +1,30 @@
+~!~ Rewriting Bohemian Rhapsody for Hamburgers
+rewrite the lyrics to the song "{song name}" to be about {subject}
+give me 45 original funny names for {subject} of the day
+Make the {subject} of the day names more based on puns on movie titles.
+incorporate creative {subject} ingredients into the {subject} pun names
+base the {subject} of the day names more in the style of {reference}
+base the burger of the day names more in the style of the burgers of the day from the TV show "Bob's Burgers"
+
+~!~ Top Bob's Burgers Episodes
+You are an expert story analyzer. Start by giving me a list of the best Bob's Burgers episodes
+Given those episodes, provide me with a detailed scene-by-scene breakdown of these episodes, boiling it down to a formula that could be used for other similar episodic stories.
+Try again. You can do better!
+Could you provide me with a complete list of scenes I would need if crafting a similar episodic story?
+could you create a new episode using this formula?
+i meant a new episode of bob's burgers
+let's try making a halloween episode of bob's burgers, even give me a funny name for the store next to it in the opener and the pest control joke
+ok now let's do one of their epic thanksgiving episodes
+ok we can definitely get more creative than this, avoid using any sort of festival business
+let
+let's make it less ambitious and more heart-warming
+Give me another top 10 holiday episodes
+Of bobs burgers
+What about the top Hitchcock hour episodes
+How can I view Hitchcock hour episodes?
+
+~!~ Greek-inspired Feta Attraction Burger
+It's another day, what should we make for a burger of the day today?
+give me a recipe to make this burger
+ok louis  got to the burger of the day board and actually came up with a really good burger of the day idea (and pun!)
+

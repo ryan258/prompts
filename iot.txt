@@ -1,0 +1,31 @@
+~!~ ecobee3 Features and Benefits
+what can a ecobee3 do for me?
+neat, so how do i install it?
+oh i'm sorry it was the ecobee3 lite! how does that change things?
+
+~!~ Reconnect My Home Cloud
+how do i reconnect a my home cloud to the network?
+how can i log into my routers interface
+how the fuck do i access this god damn drive through the fucking finder!?
+
+~!~ Set Up My Cloud
+how should i set up my "my cloud home"?
+
+~!~ Program Custom Google Home Commands
+ok how can i program my own commands into my google home?
+ok so if i want to make something like a garage storage locator app with my google home, what kind of intents and entities should i begin with?
+
+~!~ Garage Inventory with Google
+so i have this idea for a garage management system where it inventories your garage with a google sheet, but then you can ask your google home in the garage where a certain item it. of course each item would be delegated to a designated storage space in the garage
+could you take me through these steps using an example to illustrate
+ok i got my credentials, could we proceed w/ javascript?
+can you go into more detail on the instructions for step 2?
+yeah i don't know where to get this credentials.json file...
+can't i just use the api key?
+how do i find my spreadsheetId?
+ok i think i got it figured out, how do i test it?
+googleGarageApp % node index.js
+The API returned an error: Error: The caller does not have permission
+ok #1 fixed it, hello garage data!  this is SO exciting!
+now how can we connect this to our google home in the garage and put this to use!
+

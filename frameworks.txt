@@ -1,0 +1,147 @@
+~!~ Exploring Depths of Water
+Let's go down the iceberg of the human experience.
+Let's go deeper.
+Let's go deeper.
+Can we go deeper?
+Let's go deeper.
+Okay, let's create a new iceberg and go down the levels of water.
+Can we go deeper?
+I guess we're gonna have to go deeper.
+What is love?
+Let's go down the iceberg of the concept of love.
+Let's delve deeper.
+Let's go deeper.
+Let's go deeper.
+Let’s go deeper
+
+~!~ Tree of Thoughts Framework
+Using this PDF (https://arxiv.org/pdf/2305.10601.pdf), please summarize the tree of thoughts approach so that a beginner could understand it and begin to use it.
+create a diagram for me to understand ToT better please
+so we had CoT, now we're looking at ToT, what is the next level to increase the power of prompting LLMs like GPT-4?
+when you say 'more advanced or specialized search algorithms that can better navigate the space of possible thoughts' i'm curious as to which algorithms do you think are promising?
+could you please explain the MCTS  approach so that a beginner could understand it and begin to use it.
+
+create a diagram for me to understand better please
+guide me through creating a series of prompts to enter into GPT-4 that would illustrate the use of the Monte Carlo Tree Search (MCTS) process
+could you please explain the Simulated Annealing  approach so that a beginner could understand it and begin to use it.
+
+create a diagram for me to understand better please
+guide me through creating a series of prompts to enter into GPT-4 that would illustrate the use of Simulated Annealing
+
+~!~ ToT
+Using this PDF (https://arxiv.org/pdf/2305.10601.pdf), please summarize the tree of thoughts approach so that a beginner could understand it and begin to use it.
+can you give me an example of a prompt that would demonstrate the use of tree of thoughts?
+ok give me a different prompt for me to run to see ToT in action
+guide me through creating a series of prompts to enter into GPT-4 that would illustrate the use of tree of thoughts
+create a diagram for me to understand ToT better please
+
+~!~ ToT Example - 3.5 #2
+Imagine three different experts are answering this question. 
+
+All experts will write down 1 step of their thinking, 
+then share it with the group. 
+
+Then all experts will go on to the next step, etc. 
+If any expert realizes they're wrong at any point then they leave. 
+
+The question is:
+
+How should one prepare for global warming?
+
+~!~ ToT Example - 3.5
+Simulate three brilliant, logical experts collaboratively answering a question. 
+
+Each one verbosely explains their thought process in real-time, considering the prior explanations of others and openly acknowledging mistakes. 
+
+At each step, whenever possible, each expert refines and builds upon the thoughts of others, acknowledging their contributions. 
+
+They continue until there is a definitive answer to the question. 
+
+For clarity, your entire response should be in a markdown table. 
+
+The question is 'How do I plan a product line using print on demand items?'
+continue
+how do i go about settling on a target market?
+continue
+give me a road map to follow for succeeding on Etsy
+
+~!~ CoT Example
+Your task is to solve this brainteaser encapsulated between backticks. Please follow a step by step approach that reasons over every step of the process:
+
+```
+A lift is on the ground floor. There are four people in the lift including me.
+When the lift reaches the first floor, one person gets out and three people get in.
+The lift goes up to the second floor, 2 people get out and 6 get in.
+It then goes up to the next floor up, no-one gets out but 12 get in.
+Half way up to the next floor up the lift cable snaps, it crashes to the floor.
+Everyone else dies in the lift.
+How did I survive?
+```
+explain Tree of Thoughts prompting to me
+can you give me an example?
+
+~!~ DDD: Software Complexity Solution
+Explain the book to me: Domain-driven design
+
+~!~ Productivity Frameworks & Psychology
+You are GPT-4, OpenAI's advanced language model.
+Today, your job is to generate prompts for GPT-4. Can you generate the best prompts on productivity using many frameworks, best concepts, best use-cases, and psychology
+You are GPT-4, OpenAI’s advanced language model. Today, your job is to generate prompts for GPT-4. Can you generate the best prompts on ways to develop ideas for youtube vignettes
+summarize what we've covered so far
+yeah but doesn't it come with a little bit of land do you own the land or do
+
+~!~ Critical Thinking Framework Example
+Give me a bulletproof framework for critical thinking
+Can you give me an example of this framework at work?
+
+~!~ Guildford's Alternative Uses Test
+I'm a creative professional looking to improve my thinking abilities and come up with ideas I wouldn't normally have. I want you to help me run the Guildford's Alternative Uses Test on myself by giving me a random object suggestion and telling me I've got five minutes to write as many alternative uses as possible, separated by commas, into the text box. Once I enter my response, give me a value for:
+- Fluency -  the total number of alternative uses I come up with
+- Originality -  how unique my answers are
+- Flexibility - the breadth of categories or domains I cover
+- Elaboration - the amount of detail I give in my answers
+  Then ask me if I'd like to see some of your suggestions. If I say yes, give me ten imaginative suggestions of alternative uses for the object, covering as many different subject domains and adding detail to each answer.
+a catapult for the left overs, little shovels that go with an adventure storyline, a series of novels based on a team that painstakingly try to shovel out of prison, a character from a favorite tv show so you can enable kids to have plays when they're done eating, protest spoons to fight the man in small ways, a graduated measuring spoon for common kitchen sizes, then another one for bar drink amounts, a series of fancy spoons that appeal to the upper class because they'll buy anything that shows their wealth, world cup spoons for each country because people are going to be sharing something that needs to be stirred, a gag gift for people with an irrational fear of spoons, over the hill gift
+yes!
+so as an AI how did you construct these ideas?
+so how could i go about improving this chat's original prompt?
+were there any wordings in that prompt that could have been improved?
+ok forget everything, here's a new prompt:
+
+I want to develop my creative ability to combine two objects or concepts to create an entirely new idea. Please provide me with two random objects and ask me to combine them to come up with a new idea. Then stop and wait for my response. After I have responded, I want you to give me feedback on my idea. The connection between the objects can be physical, linguistic or conceptual. Assess my response for originality and descriptiveness.
+tea-pot today delivery service
+ok, forget everything, new chat!
+
+You are a highly accomplished storyteller with the ability to come up with imaginative tales and the knowledge to judge writing for its different attributes. I want you to help me practice my writing by supplying me with the first paragraph of a {genre} story. Your suggestion should be imaginative, introducing the reader to a scenario and situation. Give me your paragraph and then stop. I will then complete your story in a few paragraphs. Once I gave you my response, I want you to give me feedback on my writing, giving me pointers on how I can improve it. Use the criteria of:
+- Descriptiveness - the clarity of writing and use of adjectives
+- Structure - the logical flow and how easy the story is to follow
+- Imagination - how surprising the story was
+- Spelling & Grammar - general accuracy of written language
+Supply your feedback in a table with the columns: "attribute", "feedback", "improvement"
+{genre}: detective story
+The door made an uneasy squeak as she opened the door that she would never exit through. As she turned on her flashlight she heard a sudden slam behind her, the front door, then seemingly to have vanished. Doubts and fear began to creep in, but when all of the sudden loud brass band music and bright stage lights burst out of nowhere, she found herself transported to another time.
+
+But damnit, she was here for clues and to solve a case of the missing bartender. She was now not only concerned with the case, but now coming to terms with the fact that she's somehow been transported back in time, or at least another world, dead?
+ok forget everything, new chat!
+
+You are an imaginative art instructor who knows how to spark people's imaginations and develop their visualization skills. I want you to suggest something challenging to draw. Make it imaginative. Give me suggestions that range from simple to {complexity}.  Give me {number} suggestions so that I can pick my favorite to visualize. 
+{number}: 10
+{complexity}: godly
+ok, that was fun, new chat!
+
+You are an insightful and empathetic strategist with a deep understanding of what motivates people to take action. I want you to give me a better understanding of {audience} and their relationship with our {offering}. Deliver your response in markdown without a code box with the following elements
+- A clever headline that outlines the specific needs of this audience
+- A short paragraph describing the audience
+- A table that outlines their relationship with the offering with the columns "needs", "How they're currently filling needs", "How we can fill the needs better"
+- A list of what would motivate them to choose our offering over an alternative
+- A list of what resistance they might have to change their current behaviour
+- A suggestion of what the most persuasive message might be to change this audience's behaviour from what they're currently doing to choosing our offering instead
+{audience}: Folks in the midwest
+{offering}: Sisu Pillow Cover Scandinavian Decor Finnish Gift Nordic Gift Scandinavian Folk Art Finnish Sisu Swedish Gift Sisu Gift
+
+
+
+
+
+
+

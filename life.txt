@@ -1,0 +1,51 @@
+~!~ Customized Board for Life
+Let's have some fun and create a personal board of directors to help create a more fulfilling life for myself.
+I think it's nice that I would like to customize it for certain things that are applicable to me. One, I'm 40 years old, live with my parents. Two, less than a year ago I was diagnosed with MS, so I have a hard time walking, and I'm kind of clumsy with my hands, so I can't really type and program like I used to. But I'm working on developing skills in the arena of AI and how to put it into practice and application. So I would like a board member to be in charge of my Spanish learning and my progress to get back to visit my friends in Buenos Aires.
+Okay, now let's make a C-suite for managing my life and it's different areas. And please explain what they're about and what kind of workers they're in charge of or what smaller departments.
+The setup sounds good for now, so we'll go with it.
+Can we have them work together to come up with a plan for me to end up in Argentina this March? It's December right now, for a couple months.
+Sounds good, but I want you to reimagine it where all the chiefs, the chief officers, they're all AIs because I don't know that many people.
+I like it. Could you do another example where it comes to me figuring out a plan to live independently again?
+Repeat.
+It sounds good. Let's add a Chief Dietary Officer. I imagine eating healthy It's a good way to slow the progress of MS.
+Let's add that role to my team. Also, can we get a Chief Exercise who specializes in VR? I have an Oculus 2 and some fitness games. Could we make a valid fitness exercise plan, Chief Officer, for that?
+Sounds good. Let's add.
+I would like to add a Chief Productivity Officer to help me optimize my time, and then I would like to add a Chief Automation Officer to help me come up with automations that would facilitate the use cases of any of the other chiefs.
+The new additions seem awesome, but could you take me through an example where they work with the rest of the team just to illustrate their role and their capability?
+It looks good, but I'm curious, are there any C-suite executives that could really supercharge this C-suite that we're maybe not thinking of? Give me a list, and how they could contribute.
+I like them, but can we run through an example where they're all used together?
+ok let's add them and recap our c-suite
+could this c-suite be optimized?
+cool, and what departments should exist to support this c-suite in supporting me?
+cool let's try out #7 and task the AI CEOx and CLeO with creating a VR workout regimen a week utilizing games available on the quest store for the quest 2
+ok i have les mils body combat, beat saber, thrill of the fight, ragnarock, dance central, pistol whip, smash drums, Synth riders. could we make a plan with these in mind that also provides a well rounded workout routine.
+ok that's fine, but we can do better. what if we blocked off time for 90 minutes a day and played multiple games instead of 1?
+ok but i would like a plan for the week that's a proper balance between resting the legs, arms, and core for optimal gains.
+ok let's take into account that i have MS and i want to improve my gait because at most i can walk 3 laps around the block
+ok let's do this again, but let's have them put their departments to action and demonstrate the chain of consideration and explain choices
+so what physical value does each game offer for fitness and to fight against ms?
+why wiuldn't i take the rest day on thursday?
+what are some vr games for the quest 2 that would be really beneficial to add to my workout regime?
+Okay, let's summarize everything we've covered so far.
+Hey, do we have a Chief Automation Officer? Because one of those would really be handy for MS. And probably other things, too.
+So, what would be some helpful yet fun Python projects to automate parts of my day, or better yet, what kind of automation can I make for the morning to get started for the day? I've got about 30 minutes of physical therapy exercises I do first thing in the morning. I'm wondering, are there other ways I can optimize my morning to start off on the right foot?
+Okay, ask me questions so we can get to the bottom of what my perfect morning is.
+cool, let's go back to recap what we have for BoD and the C-suite team
+so what frameworks would be useful to make use of to get the most out of each person on the board of directors?
+cool, can you adapt this list and their applications to managing an AI board of directors?
+now are there specific frameworks each director should specifically for their role?
+ok what about the rest of the c-suite?
+could you logically group together the chiefs into departments to make things a little more wieldy
+can we do the same with our board of directors?
+
+
+
+
+
+
+
+
+
+
+
+

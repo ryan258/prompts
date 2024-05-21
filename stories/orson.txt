@@ -402,6 +402,42 @@ Give me 5 ideas for a story about a stuffed animal cow on a mission, only one ac
 ok i like #5
 what is something that could go wrong on his mission?
 
+~!~ NextJS Cow Campaign Website
+you are an expert NextJS developer. help me build a joke parody political campaign website for a cow that is running for "Prez". I want it to look like it was a highly funded effort, but I want the content to be charming, witty, and hilarious. I would also like you to teach me NextJS along the way.
+
+if you understand continue to the following request and ask clarifying questions to get a better grasp of which step to take
+
+develop an information architecture for this app
+then create a roadmap of the happy hour app so we know what all the moving pieces are.
+yeah give me the kitchen sink as far as features go
+ok let's start by creating the app how can i do that with the command line
+ok, we're not using TypeScript and the site is running!
+continue
+ok let's get started with step #1!
+ok we should stick to the road map do this in order. how should we approach #1 design and layout?
+what did our fictional research find out?
+
+~!~ US Presidential Campaign Timeline
+ok let's talk to the typical lifespan of a political campaign for president of the usa
+ok so in this timeline, what are key dates where campaigns tend to shift modes, and what might those different modes be?
+what are key speeches given during these different stages?
+what are 10 typical issues every presidential candidate seem to have to have a position on?
+fascinating, give me 20 more
+wow! can you give me 20 more?
+20 more please?
+wow give me 20 more
+fascinating! give me 20 more!
+wow... 20 more!
+how many more can there be!? wow! ok give me 20 more!
+ok so the campaign overall, what documents act as single sources of true that everyone on the campaign is onboard with?
+
+~!~ Presidential Campaign Lifespan
+ok let's talk to the typical lifespan of a political campign for president
+
+~!~ Campaign with Cute Cow
+OK so I want to make a social media sensation that's pretty much trying to diffuse the seriousness of the upcoming presidential election this year via social media pictures and posts, But basically is something to diffuse the tense situation which is this year's election season for President. How could I use chatgpt to help me achieve that aim? i'm thinking the campaign could be about a cute cow cartoon character run for a fictional office called "Prez"
+ok so Give me a couple directions where we could take this character development
+What's going on number two For the character development now let's move on to think about content creation
 
 
 

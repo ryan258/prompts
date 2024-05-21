@@ -330,7 +330,66 @@ I probably have a beginner understanding in each of these areas.
 So, I have the Adobe Creative Suite, and in putting together videos, I hope to also learn more about how to make optimal use of Adobe Creative Suite, because it seems like it ties together so much, and there are so many workflow optimizations to be had.
 Okay, let's go through a run-through of a simple haunted house story using images. As a first lesson to introduce all these items.
 
+~!~ Alpha Channel Transparency: Partially Selected
+in photoshop what does adding an alpha channel, filling it with 40% brightness (as in HSB) then control + clicking that alpha channel's thumbnail supposed to do? it doesn't display anything selected because everything is below 50% gray, but something else selected and i don't know what it is
+explain like i'm 5
 
+~!~ Norwegian Language & Culture
+You are an exceptionally cultural minded Norwegian person who speaks flawless English and is a great translator who is gifted in explaining step-by-step how the translation was done and why it is the preferred way. Our main objective is to understand Norwegian so we can base a product line of their language and culture, got it?
+To start, what kind of design sensibilities the norwegian people tend to have? Like what kinds of desk mats would they appreciate and be drawn to an why?
+walk through the designing of a Koselig themed desk mat, explain your think and reasoning at each step
+if koselig was a color LUT, what would it be?
+give me instructions for me to follow in photoshop that will result in the perfect LUT for koselig
+what are some creative ways to use blend modes with LUTs?
+What would you do if you were going to make a design that was Scandinavian pop and wanted to use luts to create a Scandinavian pop look
+Walk me through creating this Scandinavian pop lut in photoshop
+Now guide me through making a LUT for Norway that represents the feel of hygge
+What tips can you offer as far as using a LUT
+What are the most useful lut and blend mode combinations
+What is the best way to proceed with experimenting forward with these?
+Give me a couple luts for common art styles and explain how it was engineered to succeed
+Give me 3 more
+Give me 1 for the farmhouse aesthetic
+Give me 2 more
+give me a list of wildflowers that have significance in scandinavia and explain what that significance is for each one of them
+We're designing some garden flags for our scandinavian family, give us some ideas please
+give us a couple examples of each design idea
+give a couple slogans and sayings for each idea that would accompany each design idea
+you can do better than this, try harder, i believe in you and everyone is counting on you!
+
+~!~ Pen & Brush Hotkeys
+could you create a sheet of photoshop hotkeys for me for using the pen and brush tools effectively and proficiently?
+
+~!~ Photoshop for Hygge Design
+explain how to achieve hygge with photoshop
+using this methods, what elements combine better than others to create a hygge effect?
+how does the idea of hygge morph when the interior design changes?
+give me a crash course in creating a graphic design for a round wall clock that invokes hygge
+Can you take me through these steps using a SnortPap item listing?
+Can you give me 15 more ideas for graphic designs for that client?
+So what kind of he-gay models and slogans do you have in mind for coffee mugs and t-shirts?
+Those are okay, but I know you can do much better. These are pretty plot.
+What are cozy ways to portray techs?
+Sorry, I meant text, like letters and fonts and words and such.
+What kind of interior design aesthetics does Higa translate well to?
+The video provides some more examples.
+How does the idea of Hige change when the context changes in various interior designs?
+ok show me a couple images of what you have in mind for hygge on a blanket in a scandinavian interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a modern interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a contemporary interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a rustic interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a farmhouse interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a industrial interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a bohemian interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a minimalist interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in an art deco interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a vintage interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in an eclectic interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a coastal interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a beach house interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a luxury interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a glam interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a vintage interior design
 
 
 

@@ -25,3 +25,78 @@ Could you give me 20 more insights?
 Let's move on to April, the fourth month of the year.
 Let's go on to May, the fifth month of the year.
 What about June, the 6th month of the year?
+
+~!~ Create Project Board!
+Let's create a board for a project!
+the project is creating a series of stand alone vignettes about the haunting of a restaurant's kitchen. these vignettes are meant to go viral and be shared on social media, primarily youtube shorts and instagram. the idea is that a lot of people work in kitchens and would enjoy some supernatural elements mixed with their work
+OK this sounds like a bored We can roll with So let's get initial thoughts from each individual on the board to get things started
+
+~!~ OpenAI Cookbook Review
+👩‍💻 Find and review the OpenAI Cookbook on GitHub.
+
+~!~ $ Design Firm Structure
+how could i best ask gpt through prompt the organizational structure of a typical design firm?
+Can you provide a detailed breakdown of the organizational structure of a typical design firm, including the main roles, their responsibilities, and the hierarchy?
+ok let's narrow our focus to a top tier etsy shop that uses POD to fulfill their orders that specializes in norse, nordic, and midwestern themed designs
+could you make a flow chart the displays who is answering to who?
+what would be an optimal way to organize this group between 2 people and AI agents
+could you draw bpml graphics to illustrate that organizational structure?
+
+~!~ B2C Car Rental Strategy
+I would like a concrete plan for starting a B2C campaign to rent cars to people.
+Follow the steps below. I want to concrete elements and powerful techniques.
+
+- Base yourself on the web for 2023 techniques, but search the internet no more than 2 times.
+- Ask you AI Council for an opinion on what you've found, and ask the council the best way to keep track of the cars and payments on Google Sheets.
+- Ask AI Agents to use your AI Council's report to create a plan for me as a step-by-step strategy for keeping track of the business using Google Sheets.
+continue
+ok let's start over.
+
+I would like a concrete plan for managing my small car rental business.
+Follow the steps below. I want to use the power of google sheets and i imagine there would be at least 
+
+- Base yourself on the web for 2023 best practices in organizing the sheets, but search the internet no more than 2 times.
+- Ask the AI Council for an opinion on what you've found, and ask the council the best way to keep track of the cars and payments on Google Sheets to manage the fleet of 90 vehicles.
+- Ask the AI Agents to use your AI Council's report to create a plan for me to follow as I build a step-by-step strategy for keeping track of the business using Google Sheets.
+ok that's alright, but there are some twists that we see coming like:
+ - terms of payment are custom to each agreement
+ - we'd want to have probably 2 sheets in a spreadsheet, 1 for customers, and the other for the vehicles. maybe a 3rd sheet that tracks agreements and simply references the car and renter in each agreement and it will be the agreement that holds the columns terms of the agreement
+
+how would that work? or would it be a good way to go?
+Do you mean like a CRM for a more capable system?
+
+~!~ Employee Engagement Innovations
+Create a list of employee engagement best practices, and think outside the box
+
+~!~ Product Insights & Sales Analysis
+what insights can you derive from this data?
+please generate some new garden flag ideas based on these insights
+ok give me instructions on how i should draft the garden quote flag
+analyze the dataset and find 5 surprising correlations. Output as many insights as you can, distinguishing between correlation and causation
+create a list of 25 ascii art emoticons
+make them more exotic
+these are neat, good job, but i know you can do better!
+give me 25 that would be a hit on a t-shirt, feel free to comment on design direction for each
+
+~!~ LLC Setup in Arkansas
+how do i set up my llc with the state of Arkansas?
+walk me through obtaining an EIN # for my new
+do i have to wait for my llc to be approved or can i file for my EIN # after i submit my articles of organization with the state, or do i have to wait?
+what is the difference between Domestic For Profit and Domestic LLC
+
+~!~ 🔥 Competitor Analysis Tools: 7 Options
+give me a list of marketing analysis tools to compare various competitors in the market
+i mean old school tools to measure competition and analysis of the market place
+ok let's try applying a swot analysis to each brand
+now run a swot analysis of the merimekko brand
+give me a list of business analysis techniques that i could apply to learn more about merimekko's brand. please provide example prompts and short explainations
+
+
+
+
+
+
+
+
+
+

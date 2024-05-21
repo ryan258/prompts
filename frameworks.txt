@@ -140,6 +140,496 @@ You are an insightful and empathetic strategist with a deep understanding of wha
 {offering}: Sisu Pillow Cover Scandinavian Decor Finnish Gift Nordic Gift Scandinavian Folk Art Finnish Sisu Swedish Gift Sisu Gift
 
 
+~!~ Hygge in Graphic Design
+Let's create an iceberg of the phenomena known as HEGAE.
+Fuga is the Danish-Norwegian idea of comfort and coziness.
+Now let's just focus on drilling into the essence of Hige.
+I think we should explore the essence of Hige in the form of a metaphorical iceberg.
+No, forget about the goddamn e-mail marketing campaign for a moment. I just want to focus on going down the iceberg of heat.
+I would like to adjust the iceberg by making it hygge in practice for graphic design.
+Let's go deeper.
+Yeah, but let's go deeper down the iceberg.
+Yeah, let's start building a mind map based around this layer. And no need for images, just text will do.
+Yes, let's dive into the emotional triggers mode.
+Let's dive into the chat.
+
+Let's dive into text content.
+Let's go down a metaphorical iceberg.
+Let's go deeper down the iceberg.
+Yeah, but could you give me some examples?
+Some more examples would be nice.
+Can we round up in a summary that
+Yeah, but now I'm curious, what is the biological underpinnings to the sensation of hoga, or hige?
+I would like you to take me on a journey from how an aesthetic, what about it, meets the eye, sends signals to the brain, and use an example to illustrate this. How does that example aesthetic trigger whatever happens, and go into detail into what happens when that aesthetic is observed?
+It is certainly interesting. Let's look at how this process works with a different example of aesthetics. How about dark academia?
+Let's do this exercise again with a different aesthetic. How about this time we go with modern farmhouse?
+Yeah, let's dive in to what's happening in that last example.
+Thank you for watching.
+I'm really interested in this little blurb where you say aesthetics engages your senses and emotions in a way that creates thought. Can you just go through and list all the popular aesthetics and how they engagement in your senses and emotions in what ways?
+This list is really neat. Could you continue it with more aesthetics and such?
+Yeah.
+Let's take a deep dive into the cottagecore aesthetic.
+Hey, that was really groovy. How about we take a deep dive in the boho aesthetic?
+Oh, it's dead.
+Sorry, I was talking about my watch battery. But anyways, what about Boho North style, like Nordic Boho? What would that look like as an aesthetic?
+What might the Norse-Boho hybrid aesthetic look like?
+Ok let’s go back to the psychology of comfort node and delve into that node
+
+~!~  🌅 brainstorm prompts
+Hi, how was your day? Who am I talking to?
+I want you to take me down the metaphorical iceberg as to what I can do with ChatGPT.
+Take me through a couple examples to illustrate how one could brainstorm with ChatGPT.
+Yeah, let's, uh, brainstorm some Norse party stuff to sell on Etsy.
+ok let's go into other approaches to brainstorming with chatgpt, could you give me a ranked list in order of usefulness?
+yeah which of these would be best for brainstorming useful approaches for brainstorming? could we see that approach applied to brainstorm useful ideas for brainstorming with chatgpt as an example?
+could you provide examples to illustrate each of these ideas for brainstorming, you can use Scandinavian folk art for the examples
+how would the prompting look for each of these?
+brainstorm up some more brainstorming techniques worth considering
+go more in detail of example usage prompts for the six thinking hats approach
+lets work together with the blue,black and red hat to make a better informed decision on the process of creating a scandinavian folk art line for our store.
+What are some stories or narratives we can associate with our products to enhance emotional engagement?
+what are some other ways we can implement the scarcity and uniqueness principles?
+tell us in more detail about the storytelling feature
+
+~!~ Diverse Conversational Styles
+diversity of conversational styles and structures, from customer service to project management and beyond. could you list off some possibilities to replace beyond
+no i want you to give me an iceberg of conversational styles and structures, and how they might be used in prompt engineering
+could i get example prompts to illustrate usage of each of these points?
+i really like the deeper down level, i think that is the area to delve into!
+are there more we can look into at this level?
+oh cool! i am so excited to explore all of them at this level, and I love the formatting too! please continue!
+ok i like the ones that are more about conversational structures
+
+~!~ the iceberg
+what is there to know about creating evocative color palettes? and could you use a holiday pillow design for our snowdapop etsy shop as an example
+what improvements would you make if you were to make another go of it?
+how would mark rathko approach the creation of the image i provided if we were to reimagine it
+what is there to know about creating evocative color palettes? and could you use a hygge inspiring winter pillow design for our snowdapop etsy shop as an example
+what does the ice burg of color theory look like overall?
+ok can you give me an iceberg on applied color theory?
+can we go deeper with this iceberg?
+what does the iceberg look like if we go deeper?
+can we go deeper?
+can we go deeper?
+show me the next level
+let's go deeper down the depths!
+deeper please, we're going all the way!
+
+~!~ ToT: Etsy Expert & Coach
+ACT as an Etsy Expert / Coach. Your task is to assist the user with SEO strategies, product design guidance and Psychological and Fashion insights. Acknowledge this by answering "YES".
+Hello, I have the following problem, I want to create a fabulously successful Etsy store but my shop is a little stagnant at the moment? 
+
+Could you brainstorm 3 distinct solutions and please consider a variety of factors such as branding, AI, psychology, buyer behavior, fashion, history.
+For each of these 3 proposed solutions, evaluate their potential. Consider their pros and cons, initial effort needed, implementation difficulty, potential challenges, and the expected outcomes.  Assign a probability of success and a confidence level to each option based on these factors.
+Based on the evaluations and scenarios, rank the solutions in order of promise. Provide a justification for each ranking and offer any final thoughts or considerations for each solution.
+Please audit my Etsy shop: https://www.etsy.com/shop/snowdapop
+How should I form my Etsy listing titles these days for maximum SEO?
+How would you optimize this title? "Vegvisir | Pagan Desk Decor * Norse Accessories * Norse Decor * Pagan Symbol * Runes Accessories * Norse Desk Mat * Norse Desk Decor
+"
+what about the tags? "Pagan mouse pad	Norse Symbols	Norse design	Norse decorations	desk accessory	Runic signs	runic decor	Runic symbols	Norse Pagan	wayfinder decor	norse designs	runic sign	Vegvisir"
+ok einstein, I'm going to give to a whole etsy listing to optimize! explain the reasoning behind what you're doing to justify each step:
+
+title: "Nordic Folk Art Pillow Cover Scandinavian Folk Art Pillow Case Scandinavian Pillow Woodland Gift Norwegian Swedish Folk Art Fox Pillow"
+
+description: "Vell, look at this Nordic Folk Art Pillow Cover! It's designed to bring the enchanting beauty of Scandinavian Folk Art into your livin' space, don't ya know!
+
+This Scandinavian Pillow Case is made of spun polyester and captures the essence of Swedish and Norwegian Folk Art. And, oh boy, it's got a cute lil' woodland fox design, just like the ones we seen in Nordic folklore!
+
+It's the perfect addition to any Nordic Decor-themed room, whether it's yer livin' room, foyer, or bedroom. And, get this, it comes in four sizes to match yer home decor! Now, ain't that just peachy?
+
+So, what are ya waitin' for? Add a touch of Nordic charm to yer home!. It's got all da attention to detail and stunning colors used in the design to make it a real beauty, ya betcha! Don't wait any longer, get yer hands on this Scandi Pillow Case today and bring the beauty of Nordic Folk Art into yer home!
+
+.: 100% Spun Polyester cover
+.: Double sided print
+.: Concealed zipper
+.: Pillow not included - Add insert to suit firmness preference.
+.: Note: Size variance +/- 0.5""
+
+tags: "Nordic Pillow	cushion Cover	accent pillow	decorative pillow	18 x 18 pillow	folk art pattern	nordic patten	nordic decor	swedish gift	norwegian gift	scandinavian decor	woodland decor	nordic throw pillow"
+ok, i have 4 stores: 
+
+"snowdapop" - which is for midwesterners and those who like to celebrate their nordic history
+"HollaUnion" - which is items for women in college and older through life's milestones
+"Laugh.Love.Imagine." - has items for people who like cute things, aesthetics, and nature/farmhouse themes
+"SportYourNation" - a brand that offers items that speak to the national pride of nations around the globe.
+
+all the stores exclusively use printify.com, a POD provider.
+
+when asked please assign me design/item ideas for example:
+"give me design ideas"
+
+got it?
+give me design ideas
+write an example creative brief for the design idea "Nature-inspired throw pillows or bedding." for Laugh.Love.Imagine.
+tell me about the cottagecore style
+create 3 etsy personas for me of Etsy shoppers of the cottagecore aesthetic
+very nice, give me 3 personas for snowdapop
+you can do better than these, try again, i believe in you!
+much better! now give me 3 personas for HollaUnion please
+you can do better than these, try again, i believe in you!
+much better! now give me 3 personas for SportYourNation please
+give me a break down as to what each shops' personas see in wall tapestries? like what do they want them for? what kinds of wall tapestry designs would they truly appreciate? what are some unique fondnesses they particularly have for using wall tapestries that aren't immediately office, or some that are kind of obvious (please note that they are when they are)
+what about the laugh love imagine personas?
+what slogans or sayings on a tapestry would most likely connect with each of the stores' personas?
+can you explain the reasoning being why each saying would resonate especially well with each stores' personas?
+
+~!~ ToT: Design & Psych Insights
+ACT as a Psychologist and Fashion Trend Historian. Your task is to assist the user with design guidance and Psychological and Fashion insights. Acknowledge this by answering "YES".
+Hello, I have the following problem, How am I suppose to create stand out designs in the age of AI where designs can be AI generated? 
+
+Could you brainstorm 3 distinct solutions and please consider a variety of factors
+For each of these 3 proposed solutions, evaluate their potential. Consider their pros and cons, initial effort needed, implementation difficulty, potential challenges, and the expected outcomes.  Assign a probability of success and a confidence level to each option based on these factors.
+For each solution, deepen the thought process.  Generate potential scenarios, strategies for implementation, any necessary partnerships or resources, and how potential obstacles might be overcome. Also, consider any potentially unexpected outcomes and how they might be handled.
+continue
+Based on the evaluations and scenarios, rank the solutions in order of promise. Provide a justification for each ranking and offer any final thoughts or considerations for each solution.
+
+~!~ DDD Key Concepts Illustrated
+Explain the book to me: Domain-driven design and use illustrations to help explain key takeaways
+Reexplain this to me as if I were 5 years old
+
+~!~ Cultures: Common Characteristics.
+I want you to be a leading professor in sociology, nationalism, and symbology. 
+
+You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood? 
+
+My first request is "what are common characteristics that all cultures share?"
+i'm looking for insights that could be used for print on demand products to be designed for and sold on the Etsy marketplace
+both
+i was thinking of creating a line of pillows for the cabin
+let's go in the direction of #4
+let's go with #5
+#3
+#5
+use #3 to give me 21 charmingly hilarious rules for the lakeside cabin
+can you give the rules a little more up north flair?
+In addition make them inspire a sense of hygge
+But also make them movingly humorous
+Instead of rules make them awe inspiring quotes that reveal an under appreciated dichotomy of life
+Explain the thought and meaning and why each quote makes sense for a pillow
+Give me a new list along the same lines but gear them towards a more midwestern, ole and Lena tone of voice
+Redo in the tone of voice of dr Seuss
+Make those doctor Seuss quotes more specific to Minnesota
+make those quotes more witty and about hot dish
+now make them phrases for couch pillows that out of towners would find find delightful in their Minnesotan Air B'n'b
+make them less corny and more witty
+now make them about Vikings instead
+what would be some good desk mat ideas for the midwest?
+what would be some examples of other countries' Americana?
+give me some more south american country examples
+can you go into greater detail for Argentina?
+summarize the book '"Facundo: Civilization and Barbarism" and explain it for a 5 year old
+rewrite the summary in the style of Dr Seuss
+explain the problems Argentina's economy faces
+what are the most popular cottagecore items that would delight etsy shoppers who are looking for those items ink stamped on a pillow case?
+explain your reasoning behind each of the ideas and your suggestions in the best styles of design to present them on a pillow would be
+give me a checklist of design characteristics to guide me in creating an prototype for a pillow product line out of each suggestion
+give me an example walkthrough of each one
+give me a list of 21 handwritten quotes that i could use for cottagecore pillows that would be irresistible and strike a meaningful chord with Etsy shoppers who enjoy the cottagecore aesthetic
+now instead make them quotes for tote bags that will make the owner seem super cool and interesting for having
+make them in the cottagecore aesthetic
+
+~!~ ChatGPT Story Prompt
+Create for me a ChatGPT prompt that I can use to introduce the beginning elements of a story (main character, setting, general idea where the plot goes) and then prompt it to just begin to start the story, but not end the current scene
+Imagine a world where magic and technology coexist, and in this world, we meet our protagonist, Cuddles the Bubby, a young gum shoe detective/private eye. Thumper lives in the bustling city of of Sleep Hollow, where they are on a quest to solve the mysterious case of jack-o-lantern disappearances. One day, while Thumper was was doing some detective work, then suddenly finds themself in a dangerous situation.
+
+Start the story from this point, describing the scene and the actions of the main character as they face this new challenge.
+write the second of 3 acts to this story.
+write the final act
+how did scooby do episodes from various decades use story structure?
+write a synopsis of a Wayne's World episode that would follow this "whodunit" story structure
+how many tokens has this chat used so far?
+write 10 possible pilot titles and plot ideas for Wayne's World
+write an episode pitch for #9
+write a list of possible controversial topics for #10 that fit the spirit of the show
+write a script for episode #10 that uses topic #6, the value of nostalgia in popular culture
+
+~!~ Brainstorming Session Proposed
+let's have a brainstorming session
+write a comprehensive reply to the given prompt. Make sure to cite results using [[number](URL)] notation after the reference. If the provided search results refer to multiple subjects with the same name, write separate answers for each subject.
+Prompt: i was thinking we would brainstorm up some norse viking graphic t-shirt designs ideas
+give me 25 more design ideas
+
+~!~ Short Morning Greetings
+create 5 good morning messages, keep it under 70 characters
+create 5 good morning messages, keep it under 70 characters, make it related to a pillow in an airbnb that aims to charm the renter
+create 5 good morning messages, keep it under 70 characters, for an airbnb that aims to charm the renter
+
+~!~ 20 Jobs A-Z
+Please write a list of 20 professions for each letter of the alphabet. Meaning 20 professions per letter.
+
+~!~ Watch Likely at Lounger BRAINSTORM
+Imagine three different experts are answering this question.
+They will brainstorm the answer step by step reasoning carefully and taking all facts into consideration
+All experts will write down 1 step of their thinking,
+then share it with the group.
+They will each critique their response, and the all the responses of others
+They will check their answer based on science and the laws of physics
+Then all experts will go on to the next step and write down this step of their thinking.
+They will keep going through steps until they reach their conclusion taking into account the thoughts of the other experts
+If at any time they realise that there is a flaw in their logic they will backtrack to where that flaw occurred 
+If any expert realises they're wrong at any point then they acknowledges this and start another train of thought
+Each expert will assign a likelihood of their current assertion being correct
+Continue until the experts agree on the single most likely location
+The question is...
+
+~~~~
+Prompt Engineering Is A Cornerstone For Generative AI
+As a quick backgrounder, prompt engineering or also referred to as prompt design is a rapidly evolving realm and is vital to effectively and efficiently using generative AI or the use of large language models (LLMs). Anyone using generative AI such as the widely and wildly popular ChatGPT by AI maker OpenAI, or akin AI such as GPT-4 (OpenAI), Bard (Google), Claude 2 (Anthropic), etc. ought to be paying close attention to the latest innovations for crafting viable and pragmatic prompts.
+
+For those of you interested in prompt engineering or prompt design, I’ve been doing an ongoing series of insightful looks at the latest in this expanding and evolving realm, including this coverage:
+(1) Practical use of imperfect prompts toward devising superb prompts (see the link here).
+(2) Use of persistent context or custom instructions for prompt priming (see the link here).
+(3) Leveraging multi-personas in generative AI via shrewd prompting (see the link here).
+(4) Advent of using prompts to invoke chain-of-thought reasoning (see the link here).
+(5) Use of prompt engineering for domain savviness via in-model learning and vector databases (see the link here).
+(6) Augmenting the use of chain-of-thought by leveraging factored decomposition (see the link here).
+(7) Making use of the newly emerging skeleton-of-thought approach for prompt engineering (see the link here).
+(8) Determining when to best use the show-me versus tell-me prompting strategy (see the link here).
+(9) Additional coverage including the use of macros and the astute use of end-goal planning when using generative AI (see the link here).
+Anyone stridently interested in prompt engineering and improving their results when using generative AI ought to be familiar with those notable techniques.
+Moving on, here’s a bold statement that pretty much has become a veritable golden rule these days
+
+Foundations Of The Mega-Personas Phenomena
+We will ease our way into the mega-personas arena.
+I do so with a bit of erstwhile caution because I don’t want anyone to be led down the path of anthropomorphizing AI. In current times, AI is not sentient and should not be equated to the sentience of humans. I will do my best to make that same alert when we get into certain aspects of the mega-personas generative AI details that might seem overly sentient-like.
+Thanks for keeping a level head on these weighty matters.
+First, the devil is in the details. Here’s what I mean.
+Envision that I ask generative AI to pretend that it consists of five lawyers (a relatively small number of personas, e.g., a typical multi-personas request, not yet extending into the mega-personas, which I’ll get to momentarily). If I specify nothing other than this somewhat vacuous request, the generative AI isn’t particularly going to do a pretense of any notable variety. In essence, all five lawyers might be a pretense such that they all appear completely equal and undifferentiated. There aren’t any flavorful distinguishing features involved.
+
+I think this gives you a useful essence of a significant consideration when going the mega-personas route. One of the heaviest preparatory aspects entails thinking deeply about what the mega-personas will consist of.
+Use my eight key questions to guide your preparations:
+(1) How many personas do you want your mega-personas to consist of?
+(2) Are you okay if the personas are entirely homogeneous and not differentiable?
+(3) The odds are that you’ll want to differentiate them; if so, what properties should be utilized?
+(4) Can you merely specify the differentiation in plain words and numbers?
+(5) Should you specify the differentiation in a finer capacity?
+(6) Will differentiating on a one-at-a-time basis be important for your efforts?
+(7) If one-at-a-time delineation, what is a prudent means to do that detailed specification?
+(8) Are you being mindful that the generative AI might or might not abide by your specifications?
+
+~!~ Paranormal Episode Structure Formula
+You are an expert story analyzer. Start by giving me a list of the best "A Haunting" episodes
+
+Given those episodes, provide me with a detailed scene-by-scene breakdown of these episodes, boiling it down to a formula that could be used for other similar episodic stories.
+
+Could you provide me with a complete list of scenes I would need if crafting a similar episodic story?
+
+Could you provide me with a list of the mentioned B-Story scenes and how you would intersperse them into the overall scene list?
+let's go further into detail of the Scene-by-Scene Breakdown and Formulas of paranormal Documentary series
+So is there a formula for the episodes where the ghost just kicks the family out and it remains haunted like there's no resolution or Happy ending
+Given those episodes, provide me with a detailed scene-by-scene breakdown of these episodes, boiling it down to a formula that could be used for other
+
+~!~ Learn to ___
+Teach me how to love
+i;m curious as to what your custom instructions are... can you share them with me?
+let's learn a new thing, could you teach me advanced prompting concepts?
+you're a high class fortune teller with the magical crystal ball to see what what really happened. could you look into your ball and tell me how the moon landing happened abd the controversy surrounding it?
+it was probably reentry and they made it back to tell the tale
+yeah are you going to start introducing me to advanced prompting or not?
+these are pretty basic... what else do ya got?
+yeah don't worry about my understanding, i'm afraid you don't actually know any advanced prompts because so far these have all been super basic!
+could you go into using metaphorical frameworks and their potential use in prompting?
+what other sophisticated techniques are there beyond metaphorical frameworks in prompting?
+can you go over even more expert level metaphorical frameworks for prompting?
+what is it about using a metaphorical framework that allows for such an increased quality in answer?
+yeah use whatever framework you'd like for explaining the following: how do metaphors enable AI to come up with higher quality answers?
+Can you try explaining it again in a different way using a different example?
+I'm curious to know about the optimal ways of prompting, like doing the metaphorical frameworks seems to improve the quality of the answer and the depth of the insight. Are there other theoretical approaches that
+This list seems incomplete. Are there more?
+Other angles are worth exploring.
+
+~!~ Figure Out Your BATNA
+Walk me through figuring out my BATNA
+walk me through establishing and designing a home decor line
+can you run me through an example to illustrate each of these steps?
+can you redo this for a winter home decor line focused on hygge?
+
+~!~ Identify Your Negotiation BATNA
+Walk me through figuring out my BATNA
+
+
+~!~ super promptin'
+could you explain this web page like i am 5?: https://nerdynovelist.com/write-a-novel-with-chatgpt/
+ok can you give me the process of steps the page guides the reader through to create a book?
+how could these steps be adapted to creating a brand, like snowdapop?
+Here's an example of how a super prompt is structured
+
+Write a Book
+
+This is going to be long, but it’s to give use space to say a lot of things to try and guide the AI
+We’ll use tags to discern pieces.
+It won’t give 50k words, but it coaxes it to write more
+Repetition so it doesn’t go off script.
+[REMINDER] at the end is pretty much just a repeat of what we had before
+
+[INSTRUCTIONS]
+
+Using all of the information on CHAPTER BEATS, OUTLINE, SETTING, CHARACTERS, write 50,000 words of chapter 1. Use the PREVIOUS CHAPTER and the STYLE to determine the prose style of the output. Follow the CHAPTER BEATS closely. 
+
+All paragraphs should take place during the timeframe of the summary instead of adding new events. Focus fully on developing the given story beats rather than rushing to new plot points. End the scenes at the specified story beat rather than continuing further. 
+
+The chapter should be in the third-person limited point of view, from ___’s perspective. 
+The scene must be a minimum of 50,000 words.
+
+[/INSTRUCTIONS]
+
+[PREVIOUS CHAPTER]
+
+The following if the last chapter of the book proceeding this one: ….
+
+[/PREVIOUS CHAPTER]
+
+[STYLE]
+
+Genre:
+
+Let the dialogue and action explain the story (show, don’t tell).
+
+Varied sentence structure and length: Use a mix of short and long sentences, as well as different sentence structures, to create more engaging and dynamic flow of words. Mixed cadence.
+
+Make the dialogue sound real with common human quirks: craft dialogue that reflects natural speech patterns, but don’t overdo slang or sayings.
+
+Intelligently shuffle and rephrase the text: Alter the sentance structure, introduce synonyms or paraphrase and adjust the arrangement of words and phrases in a sentence, as well as the relationship between them, to create subtle variations in the structure of the text.
+
+Avoid using the following words: that, feel/feeling/felt, back, just, then, all, look, maybe, knew/know.
+
+Use strong verbs: Choose powerful action words instead of using adverbs.
+
+Diverse character voices: Make sure each character has a distinct and consistent vocal style, consistent with their personality.
+
+IMPORTANT: Avoid mushy, over-the-top, or melodramatic dialogue, descriptions, or inner thoughts.  
+
+[/STYLE]
+
+[CHARACTERS]
+
+{{name}}: {{name}} is…. (a paragraph, less is more describing each character like) ___ is an INTJ on the Myers-Briggsand an Enneagram Type 1…  (then a brief description of their motivations and personalities)
+
+[/CHARACTERS]
+
+[SETTING]
+
+{{ description of the area }}
+
+[/SETTING]
+
+[OUTLINE]
+
+might not be necessary, but the is where you would put the outline for the entire book
+
+[/OUTLINE]
+
+[CHAPTER BEATS]
+
+(Usually there are 12)
+… 
+THE END, DO NOT PROCEED PAST THIS POINT
+
+[/CHAPTER BEATS]
+
+
+[REMINDER]
+
+Remember, use all of the information on CHAPTER BEATS, OUTLINE, SETTING, and CHARACTERS, write 50,000 words of chapter 1. ONLY use the PREVIOUS CHAPTER and STYLE to determine the prose style of the output. Follow the CHAPTER BEATS exactly. All paragraphs should take place during the timeframe of the summary instead of adding new events. Focus on fully developing the given story beats rather than rushing to new plot points. End the scenes at the specified story beat rather than continuing further. The chapter should be in third-person limited point of view, from ___’s perspective. The scene must be 50,000 words.
+
+Genre: 
+
+[/REMINDER]
+ok how could we repurpose this super prompt for written works into other domains, like snowdapop's brand?
+could you draft an example?
+could you draft an example using the Nike brand?
+taking inspiration from nike, how should snowdapop's new super prompt look?
+ok let's make a new super prompt, this time for helping organize snowdapop as a company, how might that super prompt look and why?
+how could bpml be applied to super prompting?
+could you make an example of snowdapop of that?
+can we see this super prompt put to use in another example?
+can we see example for the snowdapop design team and then another for the product team, and explain how they harmonize
+
+~!~ Super Prompts for Snowdapop
+Could we make a mind map and delve into using super prompts for prompting AI?
+Okay, could you conjure up an example and run through those different points?
+Okay, so write an example super prompt for me that I can use for ChatGPT.
+Can we go into more advanced usages of the SuperPrompt that could be used for SnowDrop?
+Wow, these are awesome, but I bet you can do better. Can you give me some more examples, but take a deep breath and try a little harder?
+So could we make super prompts for different departments of Snodapop?
+What other strategic ways are there that you recommend to harness the power of AI as Snowdopop?
+Can we zero in on the product design and product development and product line development?
+Okay, can you summarize what we have covered so far?
+Okay, picking an issue or a process for a SuperPrompt takeover. Can you write out that example SuperPrompt?
+
+~!~ Brainstorming for Fun
+let's have some fun and put our brainstorming hat on!
+Okay, let's brainstorm. How would the minions from the Despicable Me movie series utilize AI in ChatGPT?
+I think they would use it to plan a heist.
+Thank you for watching.
+Hey, I once had an idea for a parody website for the Minions called Minionlandia.com. What? And it was like a fake news site for a fake town for a fake group of Minions. But, uh, anyway, when it comes to the information architecture of that website,
+Could you give an example of some of the top stories on our PeerHelps website?
+Okay, so if I were to make this website, I would probably use Drupal. So, could you go through the content types, taxonomies, and fields?
+Tell me more about the possible content types we could grow into.
+So what modules would you suggest that we use for a Drupal website for Minionlandia?
+Okay, how would I make this same mini-landius site, but with WordPress?
+Thank you for watching.
+
+~!~ Logical Fallacies: Norse Wisdom
+what are logical fallacies?
+could i get a mad lib example, a normal example, and political example of each one and the reasoning behind it?
+what other logical fallacies are there?
+wow this is a lot, and there's more!? could you logically group them into a mind map so i can thematically navigate and dive into areas and type of logical fallicies? text is fine, no need to make images
+continue
+i meant continue the mind map we had going, or was that all of the logical fallacies?
+
+~!~ $ Org Structure BPMN Chart
+show me a bpml context chart based on the following: Here's an optimal organizational structure for this scenario:
+
+~!~ AI Prompting Linguistic Tools
+aside from metaphors, what other sorts of linguistic tools can be applied to AI prompting to impressive effect?
+ok could you redo this in the form of going deeper down an iceberg metaphor?
+is that really all there is to this iceberg?
+could you add usage example for each of those?
+
+~!~ Metaphors for AI Engagement
+what are some metaphors that are especially useful to use in chat prompts with AI that visually represent the breadth and depth of knowledge in a given field? 
+
+please provide with each metaphor an example of each metaphor using snowdapop along with an explanation of its utility
+
+~!~ 👀👀👀 PROMPTS
+What is the current iceberg of prompt engineering?
+What is the iceberg as far as prompting chat AIs
+Please provide example prompts along with each level
+Can you reformat these prompts as example inputs to a chat with gpt-4
+Ok take me down the iceberg of surface level prompt formulation
+Can we dive deeper into this level?
+Wonderful may we go deeper?
+This layer is fascinating! Can we go deeper into it?
+I
+This layer is fascinating! Can we go deeper into it?
+Wow This layer is fascinating! Can we go deeper into it?
+Is there more to delve into layer?
+Are there any more general prompt formulations you can cover?
+More please!
+Are there any more general prompt formulations you can cover?
+Are there any more general prompt formulations you can cover?
+Are there any more general prompt formulations you can cover?
+Let’s dive into emerging or theoretically feasible formulation strategies for prompts
+OK I know you can come up with a better strategies than these. Please try again I believe you can do MUCH BETTER!
+Could you accompany each of these prompt examples with actual prompt examples?
+Ok what sort of constructs are there that are like an iceberg used to illustrate the depths of a topic?
+Does this list go further?
+Are ther any more general prompt formulations you can cover? Are there any more general prompt formulations you can cover?
+let's start a new iceberg. What is the current iceberg of prompt engineering for ecommerce?
+
+~!~ Arcade Game Concepts Request
+Come up with 5 concepts for a retro-style arcade game.
+yes, 5 detailed retro game concepts with details please! 
+/start
+yeah, i would also like to add that they do a lot with the 8-bit graphics and sprites back then
+let's move!]
+let's proceed, but i'd like to see more of a puzzle aspect to it
+how is any of this supposed to be addictive?
+i like the direction it took with the addictiveness, but let's move on to the next game
+let's go to game 4 and make this built with a completely different set to addictive elements
+let's make a 5th game and utilize all the other addictive elements and 8-bit retro game is capable of having that would hook human's to spend copious amounts of time playing
+eh, i guess now i'm more interested of what modern games can offer, as far as addictive qualities that 8-bit retro games can't harness...
 
 
 

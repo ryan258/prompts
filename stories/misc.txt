@@ -100,6 +100,87 @@ ok now we've got it already wrapped up, we just need to file in the video data f
 ok now we need a description for this video that will also double as the gold standard for our youtube social media efforts
 could you also give us a list of youtube tags for this video?
 
+~!~ House AI Saves Humanity
+could you give me 10 premises for the following log line?
+ok let's assume our premise is  
+give me 10 ways this story starts
+ok # sounds like a good start! give me 10 potential ending please!
+let's try # for the ending, could you give me the synopsis of the story we have so far?
+
+~!~ Book Report: Needful Things
+write a book report for Stephen King's Needful Things
+how does the story structure breakdown?
+what crimes is Leland Gaunt guilty of?
+write an opening state for court by the prosecutor charging Leland Gaunt
+what would the defense's opening statement be?
+what would be the game plan for the prosecution in this trial?
+what would be the game plan for the defense in this trial?
+what witnesses would be called during the trial?
+what would be the most likely characters to be called to the witness stand for each side?
+what are the possible specific charges Leeland Gaunt could face?
+what witnesses are likely to be called to the stand for Leland Gaunt's Fraud charge?
+which characters would testify to what crimes against Leland Gaunt?
+does the story allude to Leland Gaunt being the devil?
+write a transcript of a potential cross examination between an employee of Needful Things and the prosecutor
+LeLand gaunt is being charged with Fraud, Manipulation and incitement to violence. write a transcript of a potential cross examination between an employee of Needful Things and the prosecutor
+write a transcript of a potential cross-examination between Wilma Jerzyck and the prosecutor
+rewrite the transcript with the defense being led by Atticus Finch
+make cross examination of the other potential witnesses
+Alan Pangborn
+Danforth Keeton
+write closing a closing statement for the prosecution
+write closing a closing statement for the defense
+what verdict would a jury reach?
+write a front page newspaper story that the jury found Leland Gaunt guilty on all counts
+write a front page newspaper story that the jury found Leland Gaunt not guilty on all counts
+Let's assume Leland Gaunt was found not guity. Give me a day-by-day break down of the trial.
+write a transcript of Sean Hannity's response to the verdict
+write a transcript of Sean Hannity's response to Leland Gaunt's not guilty verdict
+write a transcript of Sean Hannity's response to Leland Gaunt's guilty verdict
+create a list of Leland Gaunt's Records of transactions
+create a fictional list of Leland Gaunt's Records of transactions
+replace dollar amounts with strange Needful Things like "favors"
+replace dollar amounts with strange Needful Things like favors
+replace dollar amounts with a single strange Needful Things typical favor to cause unrest in Castle Rock
+create a record of transaction based on Leland Gaunt's trades from the story
+what are different items in the story that towns people do favors for? list who, what they got, what they had to do, and the favor's influence
+list more examples
+list more examples of Leland Gaunt's trades for favors
+list more examples of Leland Gaunt's trades for favors
+how did each of these trades lead to unrest?
+which trades combined resulted in a multiplier effect in damage to the town?
+how did Leland Gaunt systematically make his trades to efficiently tear the town apart?
+what was Leland Gaunt's underlying overall strategy and objective?
+how could leland gaunt rebrand himself, change his image, and run for Mayor of Castle Rock after all this?
+write a draft of both sides' opening statements
+write a song about the trial in the style of Bob Dylan
+write a toe tapping swing ballad about the trial
+write an argentine tango song about the trial
+annotate those lyrics with guitar chords
+annotate those lyrics with keys
+rewrite the song Argentine spanish
+
+~!~ Top "Treehouse of Horror" Segments
+You are an expert story analyzer. Start by giving me a list of the best simpsons treehouse of horror segments
+Given those segments, provide me with a detailed scene-by-scene breakdown of these episodes, boiling it down to a formula that could be used for other similar episodic stories.
+Could you repeat that?
+Խստահանի լինություն ու մի Լակազերություն...
+I said, could you provide me with a complete list of scenes I would need if crafting a simulator?
+Tēnā koe!
+I want you to write the promise.
+Try again and make the burger the day's names.
+Okay, I want you to give me 20 Burger of the Day ideas that refer to the Twilight Zone and their deep cuts. Make the names of the burger kind of punchy, because you can only write so much on that special of a day.
+Ես լավ հաղակող էլ մեր նայնα շատ հետուներեց հեմ ԲոՏքը չվի «այսապեսպես» ։
+You can do better. Try again.
+No, I'm speaking English.
+Cool, now give me 20 more fuckin' burgers of the day for Bob's...
+
+~!~ Twilight Borgesian Pitches
+give me 15 elevator pitches for the twilight zone episodes by jorge luis borges
+can you give me 10 more but also include their taglines?
+
+~!~ Borges' Twilight Zone Pitches
+give me 15 elevator pitches for the twilight zone episodes by jorge luis borges
 
 
 

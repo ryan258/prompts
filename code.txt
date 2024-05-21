@@ -617,6 +617,386 @@ also i'm not to confident i have the mycloudhome set up correctly, so can we tak
 ~!~ Tech News Roundup - Dec 28, 2023
 daily tech roundup for 12/28/2023
 
+~!~ Convert Date to Weekday.
+Can you write me a spreadsheet formula to convert a date in one column to the weekday (like "Thursday")?
+
+~!~ CSV Data Structure Explanation
+what this data?
+what is this data?
+give me 20 keywords that are halloween themed that appear to be popular items
+give me a chart that compares the products by sales
+give me a chart that compares the keywords by products sales
+please provide me with valuable insights from this data set
+please provide me with valuable insights from this data set
+
+~!~ Temperature Visualization with D3
+Create a d3 visualization that shows the true temperature average over the four e of the last 100 years
+Create a data sheet.of zombie characters for a  video game
+
+~!~ Sales KPIs from Etsy Data
+what are some key sales kpi i could take away from this data?
+yes please!
+what seem to be their best performing and best selling keywords?
+are there any patterns that you can detect that they use for a keyword strategy?
+what characteristics to their best selling items share?
+what do their recently listed best sellers have in common?
+what other unique correlations do you detect in the data?
+ok i have a google sheet and i want to move all the data in the cells into a single column, how do i consolidate them?
+ok so i've got a unique, flattened list in a single column using this formula:
+
+=unique(FLATTEN(B:N))
+
+how can i rewrite the function to include how many times that term was used? i think it's called an aggregate
+
+~!~ Etsy Spreadsheet Key Takeaways
+here is the spreadsheet from my etsy shop:  https://docs.google.com/spreadsheets/d/10KUkrnSppWSbBLJA5l6oQxFSVlB_QpwTolnw35yxU18/edit?usp=sharing
+
+what are some key takeaways?
+try again: https://docs.google.com/spreadsheets/d/10KUkrnSppWSbBLJA5l6oQxFSVlB_QpwTolnw35yxU18/edit?usp=sharing
+try this link https://docs.google.com/spreadsheets/d/10KUkrnSppWSbBLJA5l6oQxFSVlB_QpwTolnw35yxU18/edit?usp=sharing
+
+~!~ Import Web Table Daily
+write a google app script that copies the table from a web address and paste it's values into a google sheet on a daily basis
+ok what are some handy google app script ideas for google sheets?
+
+~!~ CompTIA Exam Prep.
+you are an industry leading CompTIA exam trainer who is tasked with providing me with test multiple choice questions that will prepare me for their exams. Got it?
+ok give me the answers with explainations
+ok explain to me how the A+ exam is structured
+ok give me a quiz of 25 test question for A+ Core 1 - Mobile Devices portion of the exam
+
+~!~ A++ Certification Exam Prep
+Act as my veteran A++ trainer and tutor and guide and assist me in preparing for the A++ certification exams. Got it?
+Give me a little multiple choice exam to rate my proficiency please
+1c, 2a, 3b, 4b, 5d
+Give me questions about adding RAM to an existing computer
+1A,2d,3c,4c,5a
+give me a hardware quiz for the comptia a+ exam
+
+~!~ Quick Mastery of Technical Skills
+what is the art of really being able to master technical things at a quick pace
+What about spaced learning ?
+Give me an example timeline
+
+~!~ Senior JS Interview Questions
+quiz me on 10 senior javascript  questions people ask in interviews
+how would the perfect candidate answer each of these question?
+can you provide me with code samples to code challenges for each of these questions?
+Continue
+
+~!~ Building vs Buying Computer
+You are an A+ certified tech specialist. I need a new gift for my wife who has a terribly slow computer. I'm going to give her a computer as a gift so she can do her video and photo editing with a snappy computer. What are the pros and cons of building a computer vs buying a complete one?
+what components would you recommend for building a photo and video editing work station for $1000?
+About how much more computer power do I get if I build a computer myself compared to one of equal capability complete from a store?
+So the original photo and video editing workstation for $1000 guide you created for us, what upgrades would you recommend if we increased our budget by $300?  please explain the reasoning behind each
+
+~!~ Comparing Computer Options.
+what apps would be useful for comparing computer options and trade-offs?
+
+~!~ Chrome Extension Development Advisor.
+you have been an award winning javascript programmer, trainer and instructor for over 20 years as well as an automation expert and trainer in creating incredibly useful chrome extensions. Your job is to help advise me in brainstorming and developing brilliant chrome extensions while teaching and recommending to me best practices along the way. got it?
+
+~!~ Website Outline For Musician
+As an award-winning content strategist and website information architect. Create the outline for a website for an American singer, songwriter, musician, and composer.
+create an outline with a more advanced information architecture
+Excellent, let's work with the advanced IA.
+Planning out the home page, write a Welcome message from the artist
+still on the home page, write sample content for Highlighted upcoming events and tours
+still on the home page, write sample content for Latest album section
+still on the home page, write sample content for Latest single release section
+still on the home page, write sample content for a music video section
+still on the home page, write sample content for a live music performance video section
+moving on to the music page, write an intro
+for the music page, write content for the Discography of albums and singles section
+for the music page, write sample content for the "Lyrics to popular songs"
+section
+for the music page, write sample content for the "Streaming options for listening to music"
+section
+for the music page, write sample content for the "music video gallery" section
+moving on to the Tour page, write the page intro
+for the Tour page, write sample content for the "Upcoming tour dates and locations
+" section
+for the Tour page, write sample content for the "Ticket purchasing information
+" section
+moving on to the Contact page, write the page intro
+what form elements would be worth considering for the contact form?
+continue
+moving on to the Store page, I'm assuming this will be the home page of a store subdomain. what kind of merch store information architecture would you recommend?
+
+~!~ Website - Jon Batiste
+wiki jon batiste
+as a successful web strategist, how would you recommend Jonathan Batiste structure the information architecture of his website?
+what sections for each page would you recommend?
+create example content for each section of the homepage
+create example content for each section of the homepage
+create example content for each section of the About page
+create example content for each section of the Shows page
+create example content for each section of the News page
+create example content for each section of the Store page
+create example content for each section of the Contact page
+
+~!~ Website Worth Factors
+What are the most important aspects to a website worth extrapolating on
+Continue
+What are the most important user experience concerns to keep in mind when developing a website information architecture
+Give me points for each concern
+Give me example of each point in action
+Rewrite those pints for a land scraper in Colorado
+Continue right now
+With this in mind give me a couple examples for the information architecture and navigation
+
+~!~ COBOL Scripts for Business
+What kind of scripts were written using COBOL
+Write a couple example scripts
+
+~!~ How To Start REP
+you are a successful real estate photographer. tell me a story about how you started
+what kind of shot list to you have for a 3 bedroom 2 bathroom house with a yard?
+what are the most important photos to realtors that sell properties
+what are the most important room photos to realtors?
+how does most important room photos change amongst different properties?
+as a seasoned internet marketer and web designer, what kind of website should i have?
+how could i integrate with the instagram api to display my pictures on a my portfolio page?
+
+~!~ Lawn Care Website Outline
+give me the broad outline for a website for ​​Ace Of Spades Lawn Care including hero title, tagline, call to action button, section for features and details about lawn care and snow plowing services
+continue
+Please provide content for each one of these that I can copy paste straight into a website
+write 24 testimonials, half good, half bad
+continue
+write a web page dedicated to their expertise in tree care
+list 45 services a lawn care business would offer
+give me 25 marketing ideas for the lawn care business
+give me 25 taglines
+write a radio jingle for each tagline
+continue
+
+~!~ Outline Website Apparel Store
+give me the broad outline for a website for an online apparel commerce store aimed at college aged women. include hero title, tagline, call to action button, section for features and details about the fashion collections
+Please provide content for each one of these that I can copy paste straight into a website
+
+~!~ Website Outline Fashion Brand
+give me the broad outline for a website for a norse pop fashion brand including hero title, tagline, call to action button, section for features and details about our fashion designs
+give me a more advanced information architecture for the website
+continue
+continue
+continue
+continue
+Please provide content for each one of these that I can copy paste straight into a website
+Please provide content for each one of these that I can copy paste straight into a website
+what would be some good product ideas be for this shop?
+
+~!~ Outline Valhalla Tour Website
+give me the broad outline for a website for a Valhalla tour company including hero title, tagline, call to action button, section for features and details about the Valhalla tours
+continue
+Please provide content for each one of these that I can copy paste straight into a website
+continue
+rewrite the site content that features Thor as the tour guide
+continue
+
+~!~ Outline Pizzeria Website
+give me the broad outline for a website for pizzeria including hero title, tagline, call to action button, section for features and details about the pizzeria
+give me a more advanced information architecture for a pizzeria with multiple locations
+continue
+Please provide content for each one of these that I can copy paste straight into a website
+
+~!~ Chicago Style Pizza Website
+give me the broad outline for a website for a Chicago style pizzeria including hero title, tagline, call to action button, section for features and details about the pizza and location
+Please provide content for each one of these that I can copy paste straight into a website
+Create individual page content for each of these sections
+continue
+write a page describing daily specials, lunch specials, and happy hours
+continue
+give me a list of 25 specialty Chicago pizza ideas
+make the pizza names funnier
+write an appetizer menu page
+continue
+continue
+give me web page content for NFL game day specials
+
+---
+Using AI to streamline and automate processes
+Enhancing decision making with AI
+Creating new products or services using AI
+Examples of companies using AI to increase profits
+Expand on the following: AI in the job market
+
+Opportunities for individuals with AI skills
+Tips for gaining AI expertise
+Examples of jobs that use AI
+
+~!~ Federal Debt Analysis
+Create a Jupyter notebook. In that notebook, create one Pandas data frame with the total amount of federal debt at https://fred.stlouisfed.org/series/GFDEBTN.
+
+Use Seaborn to plot the total federal debt over the last three decades. The x axis should represent time, and the y axis should represent the amount of debt. Analyze the plot in Markdown, just below the plot.
+In the same notebook, download https://fred.stlouisfed.org/series/A091RC1Q027SBEA (interest payments on the Federal debt) into a separate data frame.
+
+Use Seaborn to plot interest payments over the last three decades. The x axis should represent time, and the y axis should represent the interest payments. Analyze the plot in Markdown, just below the plot.
+Use Seaborn to create a scatter plot, comparing the federal debt and the interest payments on the debt in the last three decades. Include a regression line in this plot. What correlations do you see? Describe your findings in Markdown, just below the plot.
+Download data from https://ticdata.treasury.gov/Publish/mfh.txt. Before parsing the file, remove everything before the word "Japan". Also remove the line that starts with "Grand Total", and everything that follows it. Create a data frame from the text that remains. The data frame does *not* have any headers; interpret the first line as data. Each line consists of a country name and floating-point numbers. The fields are separated by two or more space characters. The first field on each line, the country name, should be made the index. The remaining values will all be floating-point numbers. The data frame's column names should be a combination of month name and year, starting with "Jan-2023" and going down, one month at a time, until reaching the final column.
+Using Seaborn, create a pie chart showing what proportion of debt was owned by each country in Jan 2023. Do this for the top 15 countries; all others should be lumped into a single pie segment labeled "others".
+Using Seaborn, create an area plot showing the holdings of the top 5 countries holding treasury securities over time. Ignore "All Other" when choosing the top 5. Analyze the plot in Markdown, just below the plot. Turn it around, so that January 2022 is on the left, and January 2023 is on the right.
+Create a pie chart showing what proportion of debt was owned by each continent, rather than each country. That is, we should have one pie slice for Asia, another for Europe, another for Africa, etc. Any countries that cannot be classified into a continent can remain named. Use any informationin your current knowledge base, without turning to the internet, to make a good guess regarding which continent each country is in. If you aren't sure it's ok to guess.
+use this code in jupyter, and then produce the pie chart I asked for
+Create a pie chart showing what proportion of debt was owned by each continent, rather than each country. That is, we should have one pie slice for Asia, another for Europe, another for Africa, etc. Any countries that cannot be classified into a continent can remain named.
+
+~!~ WSL2 Check
+how can i tell if my windows computer is wsl2
+
+~!~ Drupal CRM for Car Rental
+help me create a CRM in Drupal 10 for a small car rental business
+take me through the planning phase using the small car rental business as an example
+ok so give me a drush command that would install all the modules you would use for this example project
+give me the low down on the crm package for drupal 10
+could you give me an example of this CRM being used by a small car rental business
+how might it be used in the context of a small car rental business?
+
+~!~ AI Idea Generator
+How could I create a python that generates exponentially creative ideas using Python and the openai api?
+
+~!~ Python Hosting Options Ranking
+what are my web app and website hosting options for python? please rank in order of cost effectiveness
+What would you suggest if I was looking to host multiple smaller python and node apps for personal use and home automation things
+What home automation modules are worth knowing about
+Can I do what zapier does but for free with python?
+
+~!~ Python Web Framework Options
+i want to build a website for my music composer buddy what are my options with python?
+Ok give me the Ian of a composer site architecture
+Can I host multiple python projects on the same host to save on costs?
+Oh I meant give me the information architecture!
+
+~!~ Python Web Scraper
+write a web scraper in python
+so i want this to run 1 a day at the same time every day. how would I accomplish this so it runs itself without me having to manually do anything
+awesome, so back to the script itself...
+
+i want to extended it to: 
+
+1. scape the prices of a price table where column 1 is the name of the card, column 2 is the buylist price for the card
+
+2. save the data on each day to a google spreadsheet that matches the unique identifier, which is the card's name.
+
+~!~ Minion News Webpage.
+Make a news home web page for the minions
+I would like you to imagine an information architecture for this minions news website
+What sort of taxonomies and vocabularies do you recommend?
+Can you give me an example of a couple stories for each taxonomy
+Write a drush script that would build this site
+How does drupal 10 approach what the features module used to do?
+Ok please write the yaml files necessary to build this site with import configuration
+Teach me gitflow when it comes to creating a workflow for a Stupak website
+How should I ask you for a  a list of commands to set up web flow a In sequence and then establish a drupal site via drush
+Give me a drush command to build out the site architecture with modules of a drupal 10 news site for minions
+
+~!~ Online Merch Store Schema.
+Design a database schema for an online merch store.
+
+~!~ Learn Docker Commands 🐳
+/start
+to become proficient in.
+Docker
+Let's just start with a brief overview to get started.
+I would like to move on and go over its practical uses. Give me examples, please.
+We are ready to move on.
+Let's continue.
+
+~!~ Bluetooth Woes: Common Issues
+why is bluetooth always a nightmare?
+OK what process form approach can I take that is surefire so I don't have to mess around with Bluetooth troubleshooting and trying to fix things
+
+~!~ Bar Specials JSON Schema
+make me a comprehensive json schema for a website/app dedicated to bar specials that include daily specials, happy hours, food specials, etc
+
+~!~ JSON Object for Drink Specials
+Create a json object based on the data in this image?
+
+~!~ ComfyUI Stable Diffusion GUI
+eli5: https://github.com/comfyanonymous/ComfyUI
+are there any docs on how to use it?
+
+~!~ GitHub Link Discussion
+eli: https://github.com/comfyanonymous/ComfyUI
+
+~!~ Online Merch Store Schema
+Design a database schema for an online merch store.
+Give me a database schema for a happy hour daily specials app
+Let’s add them
+How would a I handle the happy hors?
+Ok I think we’ve got a solid a good structure here. Now how would we build this into a nextjs 14 app
+
+~!~ AI for Perfectionists in Branding
+how should perfectionists come to terms with the increased possibility with ai?
+
+~!~ What is XML?
+eli5 what xml is with examples
+could this format be useful in prompt engineering?
+take a deep breath and analyze before answering
+could we get an example of 1 that is on the lower end of the complexity scale, another example where it's in the middle, and finally a really complex example
+also, is chat gpt capable of understanding and recognizing xml structures?
+awesome, use xml to construct a super prompt skeleton for me for the development of building a brand
+so when it comes to giving you data, is this slideshow template pdf a format that is better or worse than if it was presented as xml?
+awesome, so if i was going to optimize the slideshow for the purposes of prompt engineering, could you give me an example as to how i would do that?
+let's extend this xml to incorporate more of the slideshow
+let's get a comprehensive take of the while slideshow
+ok can you give me other crucial templates to codify my business into xml?
+
+~!~ Drupal 7 to 9 Updates
+I used to be a drupal 7 developer what have I missed in the drupal world since then?
+So if I were to get back into Drupal where should I invest my time?
+What kind of projects are typically appropriate for headless Drupal these days?
+Can you give me examples using snowdapop?
+
+how do i set up a conda environment to run this code on a macbook?
+
+~!~ GPT for Web-to-API Conversion
+eli5 what this gpt can do for me
+ok can you walk me through the architecture of building an action for a gpt?
+could you take me through a basic but practical example of an action, then how it's created
+
+~!~ Drupal Updates & Evolution
+hi, what's new in the world of drupal?
+so if we were to give snowdapop the "full boat" of what drupal could offer them, what might that look like?
+So what content types would be appropriate for this project?
+How could we use Drupal to manage our social media updates?
+Okay, what would be some really budget-friendly ways of hosting this Drupal site?
+What are the minimum requirements to run a Drupal site or host it these days?
+
+~!~ Drupal 10 Setup with DDEV
+ok how do i set up a new drupal 10 project on a windows 11 machine with ddev and docker?
+
+~!~ Drupal 8 Storytelling Hub.
+How could I go about creating my own storytelling hub for generating stories and story ideas with Drupal 8?
+Okay, I'm interested in primarily using paragraphs to draft story concepts together. So, content types like a premise, characters, endings, story beats, illustrations, or what I want for content types that I can reference from paragraphs to start drafting together stories. Through a mix of reference and image, video, and text.
+Tell me more about Inline Entity Builder and Layout Builder.
+So how would I go about gamifying the process in Drupal?
+Okay, let's forget gamification for now and focus on developing this hub. What else do you see that I'm not thinking of?
+Okay, this hub is meant for me and my family and our personal projects. So, thinking about the other users isn't really necessary. Because this hub is where we pull together stories. Then we'll, you know, post and refine a final production file elsewhere.
+Ok how could I integrate subdomains for different final projects
+what is the eol for drupal 8?
+what about drupal 10?
+what are the best layout modules to use in drupal 10 for this project?"
+summarize what we've discussed so far
+
+~!~ New chat
+What role does the graphics card have in creating an ai image
+
+~!~ Larry's Game Premises.
+Give me 10 drafts of a premise for a Leisure Suit Larry game.
+Those are pretty middle of the road. You can do better. Give me 10 more and really think it through.
+Okay, I like number 8. Could you give me 10 endings for that one?
+
+~!~ Photoshop JavaScript Documentation Guide
+What are some fun JavaScript automation api project ideas for photoshop?
+Could you help me with pursuing the # idea?
+Do you have a link to the JavaScript documentation?
+
+~!~ Design Personal Blog Layout
+Design a personal blog layout
+
+~!~ Hygge Arcade Game Concepts
+Come up with 5 concepts for a retro-style arcade game.
+
 
 
 

@@ -29,3 +29,11 @@ The API returned an error: Error: The caller does not have permission
 ok #1 fixed it, hello garage data!  this is SO exciting!
 now how can we connect this to our google home in the garage and put this to use!
 
+~!~ Maximize Google Home Automation
+Give me some set up ideas for a ho e automation security system
+Ok I have some google hames what can I make happen with those home automation wise
+How can I make the most out of my home automation that consists of several google homes, color lights, Rokus and smart tvs, computers and 1 alexa
+
+~!~ Home Automation Hub Choices.
+Give me 20 unique and fun home automation project ideas
+What would be the corner stone of my home automation?

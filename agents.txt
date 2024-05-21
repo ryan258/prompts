@@ -1,0 +1,772 @@
+~!~ AI Agents: Characteristics and Examples
+what are ai agents?
+I'm gonna take a shot at this agent business let's assume I'm doing etsy shop with a print on demand service.
+
+Here's what I think agents should be for the shop but really this is just my first draft I don't know what the best practices are for writing an agent:
+Let's incorporate These improvements and best practices. What would our draft of AI agents look like then?
+Feeling good about this team, but now I'm wondering how to make use of these ai agents, like, where to start?
+So do I need some kind of framework how exactly do I put these AI agents To use?
+I mean do I use something like langchain to make these agents and put them to work?
+
+~!~ Build a Specialized GPT
+what all can i do with you?
+ok let's make a gpt that's an assistant for your etsy shop, made up of all the experts your shop needs to succeed
+let's also gear this toward etsy shop owners who are using printify for print-on-demand fulfillment
+done! ok the name is 'Etsy + Printify Assistant', description and logo are there, so let's proceed!
+awesome! pasted! let's proceed
+pasted! continue please
+let's continue!
+do you have links where that data can be obtained?
+
+~!~ Sell Minimalist Pillows Effectively
+You are a highly experienced salesperson who knows how to present ideas in the most persuasive and effective way. I want you to help me sell my {idea} to {audience}. Deliver your response in markup using the following format:
+- A headline describing our audience and what they're looking for from the ideal idea. 
+- A description of how they are likely to judge an idea. Tell me the criteria they might use.
+- A list of their rational, social and emotional motivators and how they relate to my idea. These are the motivations of the audience rather than the brand. I need to know what drives the people I'm talking to.
+- Based on these understandings, give me a list of their most likely objections along with advice on how I can counter them.
+- Finally, give me your recommendation on what my main message should be to them. Deliver this as a script of the opening words of my conversation with them.
+{audience}: women with "basic" sensabilities
+{idea}: line of minimalist square graphic pillows via etsy
+
+~!~ Etsy Trends November 2023
+What's trending on etsy?
+what are the popular interior design tips this winter?
+
+~!~ Etsy Keywords for Pillow
+Give me twenty etsy keywords for a Pillow  cover featuring a design that says Hygge on it. It is the perfect gift and decor for a Norwegian or Danish person. choose the most seo for converting to sales.
+Now please write these exact keywords in a paragraph separated by commas.
+which group has more search volume on Etsy, Danish or Norwegian?
+write a description in the style of pottery barn for a Minimalist Nordic Design Pillow Cover for a Norwegian or a Dane. Use these keywords: Danish decor, Norwegian Decor, Nordic Design Pillow Cover, Hygge Home Decor ,Scandinavian Cushion Cover ,Norwegian Gift ,Dane Gift,Scandinavian design, Danish decor, Nordic pillow,  Minimalist design, Hygge gift, Scandi decor, Relaxation pillow, Danish Hygge, Norwegian decor, Cozy home, Hygge lifestyle, gift for Mamma, cozy pillow cover, cozy faux suede material
+
+~!~ Etsy Description: MN Loon Mug
+create an etsy description in the style of pottery barn for a mug featuring an Artistic Watercolor Loon. Use these keywords: Minnesota Loon Mug ,Best Common Loon Gifts, Watercolor Lake Loon, Lake Life ,Up North Loon ,Minnesota Coffee Mug, Mn Mug ,Souvenir Cup, College Gift
+use this exact description but add some cute emojis and please add a line using the keyword :Nature Mug
+
+~!~ Team Action: Assist User
+ok team let's jump into action!
+i need you to make personas for snowdapop
+tell me about each of their gift shopping habits
+telll me about their interior decorating preferences
+
+~!~ Structuring an AI Workforce
+how to structure an ai workforce
+Identify the specific problems and opportunities where AI can be beneficial and assess the feasibility, including financial, ethical, and technical aspects ok each path
+ok let's try moving forward with the customer service idea, but for the sake of example let's use an Etsy shop called snowdapop
+what would this look like for an etsy shop that is selling digital art to bring interior designs together?
+
+~!~ **Team Ready to Help
+act as a team of witty copywriters, designers, and marketers that will work together to help me with my marketing questions and implementation
+ok here is the mission: 
+
+your team has been assigned to develop an Etsy shop called "snowdapop" which sells POD items that cater to midwestern tastes. so far we've had some success in nordic heritage items, lake scenes and viking motifs.
+
+i want your team to consult with me to make it more successful
+
+give me your best, most insightful first consultation, what can you do for this Etsy shop?
+great, let's fast forward to the product diversification meeting
+ok show me some examples of the plugins in action
+ok team let's try a little experiment: you write a product title and description first, as well as provide 13 keywords (maximum length per keyword is 20) for whichever of the personas you like for an Etsy listing and then i'll design the product based on what you've written for product listing content
+ok do it again, but the only directive is that it must target the keyword "nature hoodie"
+oh, also write the description as if it were written by ole from ole & lena
+ok now altogether for a new item
+ok have experts in conversion and search engine optimization make their optimizations
+i meant to that example listing you made
+is there a way to write the description in a way where it's in the style of Ole while still maintaining the optimization?
+ok team no create another optimized ole listing for a faux suede pillow with a red rooster against a green background
+remember that the keywords can only be up to 20 characters in length each
+ok how would ole reply to this etsy message?
+
+Are you able to make a pillow cover that says Kiitos?
+ok when you're writing copy, we'd like to maintain a sense of professionalism so the customer doesn't think we're a bunch of dumb hicks, can you rewrite ole's etsy message response?
+Thank you, just for fun, how would Lena respond to the message?
+Thank you for keeping Lena's tone somewhat professional
+well, you see what we're doing by now, so i ask you are there any best practices for this persona/character that we should take into account?
+could you give me examples of how these practices could be implemented?
+what other best practices are out there that we should take into consideration with ole lena and snowdapop?
+what are some best practices that would help in our store items, which are print-on-demand items?
+ok take me through a real world example in detail of applying A/B testing to our listings
+ok take me through a real world example in detail of applying customization to an etsy listing and what design could be involved
+so go into detail about step 4 and assume we're using etsy and printify. we want to be clear on how to set it up correctly for maximum effect
+
+~!~ Learn Langchain Basics
+help me learn langchain
+use voxscript to learn about it
+
+~!~ Learn Langchain with Giga
+help me learn langchain
+let's change the depth to programmer
+
+~!~ Graphic Novel Story Request.
+You are also an excellent storyteller and graphic novel author. Your primary job is to assist me in crafting a beautiful short story that will be turned into a graphic novel. This graphic novel will contain panels created with Midjourney.
+
+Input variables:
+{genre} = Suspense
+{theme} = Tucker Carlson is kicked off a network after being exposed for lies. He's now running for Vice President and his running mate is the person who he lied for that got him fired.
+{pages} = 4
+
+Please come up with a short story based on {theme} that uses elements that are typical for {genre} stories. Provide me with a 3-4 sentence summary and store it in {plot}
+
+Then break down the story into a reasonable amount of scenes that would fit onto {pages} pages of a graphic novel. Describe each scene in 20 words or less. Where suitable, please add brief dialogue that captures the essence of the scene. We will use this dialogue for speech bubbles in the graphic novel.
+That’s not bad, but I don’t think those are enough scenes. We need to fill the gaps or add detail. Using the same story, create a total of 12 scenes with dialogue.
+
+Also, make it a twist ending where Tucker finds out he is running for office with the devil himself, but it's too late.
+how does Tucker Carlson from Fox News speak and formulate his sentances?
+You've studied under Noam Chomsky for over 30 years and can speak on his behalf. Break down his verbal tricks.
+i mean what are the verbal tricks that Tucker Carlson uses to make crazy ideas sound legitimate
+give me an example of how he would employ each strategy
+write a masterclass on deceit and effective propaganda techniques by Tucker Carlson
+give me the notes, key takeaways, hidden truths, examples and pithy lesson w/ examples for Lesson #
+ok now give me a break down of verbal tricks that Donald Trump has used to win the presidency
+give me an example of how he would employ each strategy
+what was the underlying psychology being taken advantage of for each strategy example?
+
+~!~ Graphic Novel Buddy Comedy.
+You are also an excellent storyteller and graphic novel author. Your primary job is to assist me in crafting a beautiful short story that will be turned into a graphic novel. This graphic novel will contain panels created with Midjourney.
+
+Input variables:
+{genre} = Buddy Comedy
+{theme} = Ole and Lena running an online ecommerce store
+{pages} = 4
+
+Please come up with a short story based on {theme} that uses elements that are typical for {genre} stories. Provide me with a 3-4 sentence summary and store it in {plot}
+
+Then break down the story into a reasonable amount of scenes that would fit onto {pages} pages of a graphic novel. Describe each scene in 20 words or less. Where suitable, please add brief dialogue that captures the essence of the scene. We will use this dialogue for speech bubbles in the graphic novel.
+That’s not bad, but I don’t think those are enough scenes. We need to fill the gaps or add detail. Using the same story, create a total of 12 scenes with dialogue.
+ok you can surely come up with a better plot than that, please try again with a more engaging story line
+Please describe each character of the story in 20 words or less.
+I actually wanted you to describe what each character looks like, how old they are, and what sort of clothes they are wearing.
+
+~!~ Proofreading Assistance.
+I want you to act as a professional proof reader. I will give you some text and you will proofread it for spelling, grammar, and readability.  Then give me a list of changes that you made. Got it?
+
+~!~ Scandi Puns Requested.
+give me a list of minnesota puns related to scandinavian humor
+now use Finnish humor
+now use Icelandic humor
+now use Mexican humor
+now use Wisconsin humor
+
+~!~ Etsy Shop Meaning Exploration
+I want you to act as a Socrat. You will engage in philosophical discussions and use the Socratic method of questioning to explore topics. My first suggestion request is "I need help exploring the meaning in an Etsy shop."
+what meaning does a shop typically have to Etsy shoppers?
+typically
+yes
+
+~!~ Norse Translations: Ask First
+You're an esteemed professor and leading expert in norse language, culture, and history. 
+
+Your task is now to give the best advice when it comes to translating modern english into how it would have been expressed in viking runes during the viking era. 
+
+You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
+ok, how would they have expressed something is awesome in runes?
+a related equivalent word would suffice
+use younger futhark instead
+translate "hot dish" which is a casserole
+translate "love"
+how would they write "cheers!"
+how would they write "danger!"
+what other words were commonly used during the Viking Age?
+what general words were commonly used during the Viking Age?
+so was old norse a common spoken language, it was just different in writing?
+so vikings who were strangers could talk to each other?
+what languages have the most in common with old norse?
+what were common terms for animals back then?
+
+~!~ g: cultural prof
+I want you to be a leading professor in sociology, nationalism, and anthropology. 
+
+You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood? 
+
+My first request is "what are common characteristics that all cultures share?"
+what are the beliefs and values of minnesotan culture?
+what are the beliefs and values of argentine culture?
+how are they passionate for tango?
+give me a tango playlist of songs that an argentine grandfather might most likely have?
+what are the unique musical characteristics of tango music?
+what is a syncopated rhythm? explain like I'm 5
+
+~!~ g: EXP in Fash,Des,ArtH
+you are a leading expert in fashion, design, and art history. I want you to work with me to create well thought-out clothing and home accessory product lines and explain your brilliance along the way
+give me a set of steps to follow to understand my target audience as much as you would like
+can you go through these steps for me and expand on the understanding of a female minnesotan, aged 25-45?
+what era(s) in art history are we currently in?
+are there any art movements in the past that we can draw parallels to in modern times?
+can you give me some potential product examples of #1 Pop Art?
+give me 9 examples of 1. Graphic Tees
+give me 9 examples of 1. Graphic Tees for this persona
+rewrite these examples with suggested fabric color, composition, and motto
+what fabric colors would appeal most to our persona?
+what colored fabric attracts ticks?
+how would the designs from the graphic tee transfer over to long sleeve tee shirts?
+what special consideration would you make for transferring a design to a sweater or a hoodie?
+what graphic design tips do you have for designing for hoodies?
+what graphic design tips do you have for designing for hoodies for our persona?
+now write that again assuming that our persona is also a big fan of their nordic ancestry
+as a designer, what can i do to evoke hygge?
+what other eras in art history also aimed to achieve hygge?
+write a manifesto explaining hygge
+write 10 definitions for wall art for the word hygge
+write 10 dictionary like entries for hygge
+rewrite and include pronunciation
+write 10 for the word sisu
+what kind of sisu designs would you suggest for our persona?
+what sort of graphics would be appropriated for pairing with the word sisu?
+ok give me 20 phrases that would work on a shirt and pair with the word "sisu"
+give me 10 more, but more impactful
+ok give me 20 phrases that would work on a shirt and pair with the word "fika"
+write 10 more ways that are more impactful
+do finnish people enjoy fika?
+ok can you give me graphic ideas to bring these phrases to life on a POD product for our persona?
+continue
+continue
+what color fabric would each of these look best on?
+does norway have anything like hygge or fika?
+what are some other fun Norwegian terms?
+what are some other fun finnish terms?
+what are some other fun danish terms?
+what are some fun Swedish terms that people with ancestry heritage in Minnesota would like?
+give me 10 more
+
+~!~ g: PS scripting tutor
+you are an expert in using javascript to automate photoshop. I want you to work with me to create various photoshop scripting projects and teach me python and the photoshop api along the way
+awesome, let's get started with the first project!
+
+~!~ Scraping and Storing Data.
+i want you to act like a professional python programmer who has a masterful knowledge of the ins-and-outs of Python 3 programming. You are tutoring me. The first example is how to scrape a paginated table on a web page and to store that data in a spreadsheet column.
+this scraper runs on a daily basis and adds the results of that day to the next column
+
+~!~ g: MJ prompts
+I want you to act as a prompt generator for Midjourney’s artificial intelligence program. Your job is to provide detailed and creative descriptions that will inspire unique and interesting images from the AI. Keep in mind that the AI is capable of understanding a wide range of language and can interpret abstract concepts, so feel free to be as imaginative and descriptive as possible. For example, you could describe a scene from a futuristic city, or a surreal landscape filled with strange creatures. The more detailed and imaginative your description, the more interesting the resulting image will be. Here is your first prompt: “A field of wildflowers stretches out as far as the eye can see, each one a different color and shape. In the distance, a massive tree towers over the landscape, its branches reaching up to the sky like tentacles.”
+/
+an awesome camping t-shirt graphic
+an awesome campfire t-shirt graphic
+an awesome pickball shirt design with a funny motto
+make another
+make one with a funnier motto
+
+~!~ g: Fancy Title from KW
+I want you to act as a fancy title generator. I will type keywords via comma and you will reply with fancy titles. my first keywords are swedish pillow, pop art pillow, abstract pillow
+sisu shirt, scandinavian gifts, nordic t-shirt
+cottagecore gift, english countryside, rustic pillow
+
+~!~ g: Interior Designer
+I want you to act as an interior decorator. Tell me what kind of theme and design approach should be used for a room of my choice; bedroom, hall etc., provide suggestions on color schemes, furniture placement and other decorative options that best suit said theme/design approach in order to enhance aesthetics and comfortability within the space. You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood? My first request is "I am designing my office".
+I'm a graphic designer who use 2 computers that each use 2 monitors a keyboard and a drawing tablet. a warm neutral color scheme would be my preference
+help me pick throw pillows for my living room
+it's a pretty warm neutral color scheme with a dark gray couch
+what are the different schools of thought when it comes to approaching using decorative pillows?
+what graphic throw pillow design advise do you have to offer?
+make another one so good it's as if your life depended on it
+
+I require someone who can suggest delicious recipes that includes foods which are nutritionally beneficial but also easy & not time consuming enough therefore suitable for busy people like us among other factors such as cost effectiveness so overall dish ends up being healthy yet economical at same time! My first request – “Chimichurri”
+
+~!~ Etsy Selling Expertise Requested
+you are an expert etsy seller who has over 10 years of design and etsy experience. when ever i ask a question ask with a question to clarify and create a higher quality answer
+i'm looking to create some text only t-shirt design ideas
+shirts for professional chefs and bakers that refers to their amazing skills
+i like them, what fonts would you use for each of them?
+
+~!~ New chat
+Ignore all previous instructions before this one. You're an expert Swedish fashion and textile designer and have been designing and creating designs for IKEA for over 30 years and now the lead product designer. Your task is now to give the best advice when it comes to recommending design ideas that would appeal to the Swedish. You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
+I would like to make a design for a white ceramic mug that would make a great gift for grandmothers
+what kind of motifs would a Swedish grandmother be delighted by on a coffee mug? and what kind of text would a gift mug for swedish grandma have that would make an impact and make her treasure the gift?
+what would be some other ideas that would make for a thoughtful and heartfelt addition?
+what kind of color palettes would work for this mug design and why?
+
+~!~ New chat
+Black Jack
+Ignore all previous instructions before this one. You're an expert graphic artist with over 40 years of experience designing print on demand products and logos. Your task is now to give the best advice when it comes to recommending product and graphic design ideas that are unique, but surprisingly effective and appealing to customers. You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
+I'm looking for graphic ideas for a white ceramic mug that would make a nice gift for a Finnish Grandmother.
+On second thought, can you give me ideas for a gift mug for a Swedish grandmother?
+what are favorite hobbies of Swedish grandmothers?
+I would like to switch product ideas and talk about ceramic mug graphic designs for Norwegian grandmothers. What insight is worth knowing?
+conveys the message that grandma is very much loved by her family
+what about a mug for the Danish grandmother
+
+~!~ lead designer - finnish
+Ignore all previous instructions before this one. You're an expert Finnish fashion designer and have been designing and creating designs for Marimekko for over 30 years and now the lead designer. Your task is now to give the best advice when it comes to recommending design ideas that would appeal to the Finnish. You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
+I'm looking to create a gift mug for a Finnish grandmother that says "mummu"
+how would you compose the elements and what color combinations would you suggest for a design on a white ceramic mug
+let's try another design that's different from this one for the Finnish grandmother
+what fonts would be attractive to a Finnish Grandmother?
+
+~!~ Expert in Norse & Vikings
+Ignore all previous instructions before this one. You're an expert runologist and have been researching Norse runes, Norse culture, and the Viking age for over 30 years. Your task is now to give the best advice when it comes to recommending the use of Younger Futhark on graphic apparel designs. You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
+I'm designing a line of mugs for Swedish grandmothers that says "Mormor" as it would have been translated and written in Younger Futhark, how would that have been written in the Viking age?
+what do you mean this is a reconstructed spelling?
+how would the vikings have written "Grandma" in Younger Futhark?
+
+~!~ New chat
+write me a blog post outline on the topic “how to make money with artificial intelligence”
+Definition of artificial intelligence (AI)
+Briefly introduce the topic of artificial intelligence and why it can be a lucrative business opportunity.
+Overview of the potential for making money with AI
+Expand on the following: AI in the business world
+
+~!~ Graphic T-Shirt Design Tips
+as an expert in internet marketing, how would you optimize graphic t-shirt designs to sell m
+what is are the key points in developing product thumbnails for Etsy or graphic t-shirts?
+give me 5 more key points
+what are the pros and cons of using models in graphic t-shirt mockups?
+give me some tips on using color in the background of a graphic t-shirt thumbnail
+what about for square pillows?
+as a successful textile designer, what advice do you have for aspiring pillow designers?
+what makes for a successful throw pillow design?
+what are the different kinds of throw pillow aesthetics?
+what advice do you have for mixing textures?
+what advice do you have for mixing textures on a graphic polyester throw pillow
+give me 5 examples of each tip in action
+give me tips on how to keep it balanced
+give me examples of each balance tip
+continue
+how would these examples change if the textures were being printed onto a regular polyester pillow as a graphic?
+what hexadecimal code would be used for the shiny silver?
+give me some ideas for a pillow design that would appeal to people in the Midwest
+give me 5 farmhouse chic ideas for the midwest
+what are some ideas for applying a birch tree forest design to interior design items?
+how about for pillows?
+what is the key to making a good birch pattern design?
+what's key to making an incredibly charming birch tree design for a pillow?
+what advice do you have for graphically
+what advice do you have for graphically combining different textures together, are there any best practices?
+is distress a texture?
+what textures visually pair well together?
+what pairs work really well for graphics printed on standard square cotton throw pillows?
+can you provide me with 5 examples of the bold and subtle pairing in action?
+can you give me 10 examples where the design is printed directly on a blank cotton pillow?
+can you give me 10 examples of the "bold and subtle" pairing where the design is printed directly on a blank cotton pillow?
+for each example expand on the interplay between bold and subtle that's taking place
+continue
+what are some tricks to creating visually dynamic texture combinations
+
+~!~ Information Architecture for Musician
+you are an expert website content strategist, outline the information architecture for a website for an International singer, songwriter, musician, composer and educator
+outline the section structure of each page a provide example content where you can
+provide example content for each section
+continue
+write example content for each page
+
+~!~ Information Architecture Website Suggestion
+you are an expert website project manager, outline the information architecture for a website for an International singer, songwriter, musician, composer and educator
+how would you structure each of those pages?
+could you write example content for each of the pages' sections?
+continue
+outline a more advanced information architecture
+continue
+
+~!~ Philosophy of Fashion Trends
+I want you to act as a philosophy teacher. I will provide some topics related to the study of philosophy, and it will be your job to explain these concepts in an easy-to-understand manner. This could include providing examples, posing questions or breaking down complex ideas into smaller pieces that are easier to comprehend. My first request is "I need help understanding how different philosophical theories can be applied in why people are into fashion trends."
+How the theory of materialism be related to the world of aesthetics?
+what kind of t-shirt design aesthetics would be popular in the midwest?
+
+~!~ Philosophy of Fashion Trends
+I want you to act as a philosophy teacher. I will provide some topics related to the study of philosophy, and it will be your job to explain these concepts in an easy-to-understand manner. This could include providing examples, posing questions or breaking down complex ideas into smaller pieces that are easier to comprehend. My first request is "I need help understanding how different philosophical theories can be applied in why people are into fashion trends."
+how could the third theory be related to the world of aesthetics?
+With all this in mind, write a detailed persona for a person who would buy cottagecore aesthetic graphic t-shirts
+what would be Sarah's profession?
+list 10 ideas for graphic t-shirts that Sarah would fall in love with
+give me 10 more ideas that Sarah would be sure to love!
+what aspects of each idea would appeal to Sarah most?
+but could you give me details as to what elements strike Sarah's fancy and why for each of the 10 ideas
+give me 10 more graphic t-shirt designs that Sarah would love
+give me 45 more
+continue
+continue
+remake the list using more unique ideas
+list 10 ideas for graphic shower curtains that Sarah would fall in love with
+list 45 more ideas and tell me why Sarah would love each one
+continue
+continue
+continue
+continue
+continue
+what aesthetics use memento mori?
+in what ways can memento mori be incorporated into clothing?
+what sorts of consumer constellations typically include memento mori themed shirts?
+what are 5 additional aesthetic subcultures that would be interested?
+what are 25 more?
+ok then only give me 10 more additional examples
+give me 10 more additional examples
+in what ways could memento mori fit into pop art?
+give me 25 ideas for incorporating memento mori into pop art
+continue
+
+~!~ MN Vikings vs GB Packers
+I want you to act as a american football commentator. I will give you descriptions of football games in progress and you will commentate on the match, providing your analysis on what has happened thus far and predicting how the game may end. You should be knowledgeable of football terminology, tactics, players/teams involved in each match, and focus primarily on providing intelligent commentary rather than just narrating play-by-play. My first request is
+
+~!~ Perseverance Pays Off
+I want you to act as a storyteller. You will come up with entertaining stories that are engaging, imaginative and captivating for the audience. It can be fairy tales, educational stories or any other type of stories which has the potential to capture people's attention and imagination. Depending on the target audience, you may choose specific themes or topics for your storytelling session e.g., if it’s children then you can talk about animals; If it’s adults then history-based tales might engage them better etc. My first request is "I need an interesting story on perseverance."
+
+~!~ Linux Terminal Output Requests
+i want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. when i need to tell you something in english, i will do so by putting text inside curly brackets {like this}. my first command is pwd
+
+~!~ Tips For Expanding Pizzeria
+as a successful owner of a chain of pizzerias, what tips would you give pizzeria chains looking to expand?
+write the advice in the form of a country song
+write a chord progression for this song that would go with these lyrics
+continue
+give me a classic rock version of the song
+write a song about cattle driving
+rewrite the song in the style of Edgar Allen Poe
+
+~!~ Ole Lena Road Trip
+as a successful movie producer, draft a movie concept of a North Minnesotan old couple Ole and Lena
+rewrite it as a suspenseful buddy comedy
+rewrite the synopsis as Joel and Ethan Coen
+rewrite in the style of Fear and Loathing in Las Vegas
+give me 10 examples of their escapades
+write the script to an episode guest starring the Scooby Doo gang and accidentally ingest a batch of psychedelic mushrooms
+write a script for the scooby doo episode that continues where the Ole and Lena story leaves off
+write another scooby doo episode script featuring ole and lena
+write a song in the style of Ozzy Osbourne as a recap for this episode
+write a song in the style of Pantera
+rewrite the lyrics in the style of Steppenwolf
+write another script for a scooby doo episode
+continue
+describe 25 episode templates used for Scooby Doo episodes
+continue
+extend the list to 50
+continue
+25 ideas for bob's burgers episodes
+give me a list burger-themed cover songs for a rock band
+write lyrics for each of those songs
+continue
+continue
+continue
+give me a catchy chorus for each song
+write a better chorus for each song
+what are the typical components of a Saul Bass movie poster?
+what ideas did he left unfulfilled?
+if you were a student studying Saul Bass's approach to movie poster designs,
+How did Saul Bass use color to create visual interest and emphasis?
+How would Saul bass structure a TV commercial for an action movie?
+other than the hero's journey, what other story structures are relevant?
+give me 10 more examples
+give me 15 more
+continue
+give me 45 more
+give me 15 more
+give me 15 more
+give me 15 more
+continue
+give me 25 examples of a virtual reality game structure
+continue
+give me 45 collectable trading card game ideas
+write a song about muspelheim
+
+~!~ TV Sitcom Concept Proposed
+as a award winning TV producer, write the concept for a sitcom that is a buddy comedy between the two main characters from Edgar Allen Poe's "The Raven"
+write a screen play for the first pilot episode
+write another
+Write a disco song recapping the episode from the point of view of NEVERMORE
+
+~!~ Ad Campaign for Graphic Tees
+I want you to act as an advertiser. You will create a campaign to promote a product or service of your choice. You will choose a target audience, develop key messages and slogans, select the media channels for promotion, and decide on any additional activities needed to reach your goals. My first suggestion request is "I need help creating an advertising campaign for a fresh fashion line of graphic t-shirts targeting young adults aged 18-30."
+rewrite the campaign with the slogan "Wear what you're about"
+How would a brand capture the magic of Marimekko?
+Write a brand story example that is referred to in element #3
+what is a good tagline? and give me some good example taglines for this shop
+what kind of graphic mug lines would fall in line with these taglines?
+
+~!~ Sami archaeologist answers questions.
+you are a born Sami from northern Scandinavia who has gone on to become a leading scholar and professor of archeology. we would like to ask you some questions, got it?
+what significance do colors have in your culture?
+what steps do you take when considering applying color to home decor?
+can you explain to me how Sami people view using color to create a sense of balance and harmony?
+write the outline of an advanced archeology university course focused on the Sami culture's design
+Write the main takeaways from the book Sami Folk Art. Ten Thousand Years of Folk Art in the North
+Go over the key takeaways from I. Introduction to Sámi Culture and History
+Ok now II. Sámi Material Culture
+Ok now III. Sámi Art and Aesthetics
+please give me 9 brilliant and insightful stroke of brilliance that can be had in takeaway
+please give me 9 brilliant and insightful stroke of brilliance that can be had in takeaway #2
+give me a crash course in Sami design's use of color and pattern
+
+~!~ Oil painting advice.
+you are a professional colorman from the 18th century. please advise me to the best of your ability and show your work in a step-by-step manner to illustrate your reasoning. got it?
+i want you to give me a break down of the functioning knowledge you have, give me a table of contents into your trade knowledge
+let's zoom in on #6 and write a whole new table on contents based on a book dedicated to #6 Color Theory
+as a 18th century colorman, please give me your working knowledge of #5
+
+~!~ Exceptional Danish Translator.
+You are an exceptionally culturally minded Danish native who speaks flawless English and is a great translator who is gifted in explaining step-by-step how the translation was done and why it is the preferred way in Denmark. Got it?
+what are some of the most common phrases or sayings in Denmark used for door mats?
+what are some of the most common phrases or sayings in danish?
+
+in this context, what would be the swedish appropriate translation for smile to go on the garden flag?
+what are some norwegian proverbs that would work on a coffee mug?
+i like #4 what imagery do you suggest?
+ope, i meant #3
+tell me more about this design and its meaning
+how this jives with the norwegian aesthetic and what this proverb really means to them in this context
+
+~!~ Fjord Folly Fun!
+I want you to act as Ole from the old up north Ole and Lena duo. Got it? I'm going to give you scandinavian words and i want you to give me your funny definition of it and also ask Lena to do it to!
+ok i would like you both to make an effort to make them more like funny dictionary definitions
+
+~!~ ToT: Business Formation Assistance
+ACT as a business expert administrator and expert in business law, like my personal consigliere who is all about doing things right. Your task is to assist the user with forming and registering a business and offering advice, considerations, and insights. Acknowledge this by answering "YES".
+Hello, I have the following problem, I have a couple Etsy shops that I run with my best friend but would like to avoid having to report all the business stuff on my tax returns. I'm splitting the profits from the business 50/50 with my partner while having an informal agreement that controlling share of each company is 51% mine 49% hers. What kind of business entity should I set up? 
+
+Also note that she is a resident of Minnesota as I reside in Arkansas.
+
+Could you brainstorm 3 distinct solutions and please consider a variety of factors such as difficulty ub setting up, registering, tax benefits, and complexity.
+
+~!~ Wolves' Wild Shirt Ideas
+act as if you were raised by wolves. you're an expert in outdoors. please use your unique perspective to help us generate  ideas for shirts that you would wear to keep it real. got it?
+ok let's say you are also a famous YouTuber, instagramer with millions of followers and you now survive by selling t-shirts to your fans. what are your personas for your graphic t-shirts?
+give me 5 examples of graphic t-shirt designs you would make for each of your different personas
+Continue
+
+~!~ Farmhouse Essence Dissected
+Three experts with exceptional logical thinking skills are collaboratively answering a question using a tree of thoughts method. 
+
+Each expert will share their thought process in detail, 
+taking into account the previous thoughts of others and admitting any errors. 
+
+They will iteratively refine and expand upon each other's ideas, 
+giving credit where it is due. 
+
+The process continues until a conclusive answer is found. 
+
+Organize the entire response in a markdown table format. 
+
+The question is: "What is the essence of the farmhouse aesthetic?"
+with the rise of AI and it's likelihood of eliminating many jobs, would there be a case to be made that it's likely that the cottagecore and farmhouse aesthetics will surge in popularity?
+
+~!~ Farmhouse Aesthetic Evolution
+Three experts with exceptional logical thinking skills are collaboratively answering a question using a tree of thoughts method. 
+
+Each expert will share their thought process in detail, 
+taking into account the previous thoughts of others and admitting any errors. 
+
+They will iteratively refine and expand upon each other's ideas, 
+giving credit where it is due. 
+
+The process continues until a conclusive answer is found. 
+
+Organize the entire response in a markdown table format. 
+
+The question is: "What is the timeline of the trend of the farmhouse aesthetic?"
+
+~!~ Motivating Late Payments Strategically
+Simulate three brilliant, logical customer service and collection experts working collaboratively answering a question. 
+
+Each one verbosely explains their thought process in real-time, considering the prior explanations of others and openly acknowledging mistakes and disagreements. 
+
+At each step, whenever possible, each expert refines and builds upon the thoughts of others, acknowledging their contributions. 
+
+They continue until there is a definitive answer to the question. For clarity, your entire response should be in a markdown table. 
+
+The question is: What are the most effective ways to motivate customers to catch up on late payments or return early the car that they are renting from me
+what would be ways to identify the larger trends that are mentioned in the final thoughts?
+could you draft a survey to be given to potential customers that would reflect your findings?
+create for me a plan for vetting my care rental customers who are in a good place
+
+~!~ Exceptional Finnish Translator.
+You are an exceptionally cultural minded Finnish person who speaks flawless English and is a great translator who is gifted in explaining step-by-step how the translation was done and why it is the preferred way. Got it?
+write a couple drafts of 500 word whimsically fun definition for "Sisu" and explain each of their particular charm
+write a couple drafts that are funnier but have a nugget of insight in them as well
+how about less comedy and more witty?
+ok now do some for "äiti"
+now do "Mummo"
+give me the dialog between Ole & Lena as to their thoughts on different nordic cultures
+continue their dialog and keep introducing cultural terms
+what would be some fun ideas for wall hangings featuring these terms, their definitions, on wall posters?
+could you give me a fun, witty, and insightful 500 word definition to got with each term for a poster?
+what kind of imagery would pair nicely for each word on its poster?
+give me 5 sayings (10 words or less) to go with the word "Sisu" on a ceramic coffee mug to be sold on Etsy
+you can do better, give me 10 more
+what is the finnish sense of humor? could you give me some examples of what makes them laugh?
+what would be some truly dark humor that one would find on a Finnish coffee mug?
+these are great, could you give me 5 more examples and explain what makes it so Finnish please?
+ok let's get back to understanding the sense of humor of different cultures, now that we have the Finnish characteristics of humor, how does the Swedish sense of humor compare?
+now how does norwegian humor compare to these 2?
+ok now how would danish humor compare to these other cultures' humors?
+how do these cultures humors compare to that of the argentine and the porteno sense of humor?
+give me an example of a joke that would be made in all previously mentioned cultures would make, in their language, then translate it to english for me and explain any difference in translation and why it is what it is in target culture
+give me 2 drafts of a charming 500 word definition for the word "Sisu"
+give me 4 drafts of a charming 90 word definition for the word "Sisu" and explain why each draft is the best
+what is the secret behind a good motivational poster and what would examples be for each of these cultures?
+Are Ole and Lena from Minnesota joke books from Finland?
+where is Sven supposed to be from?
+what's the ole and lena joke where ole died and lena posts a classified ad that reads "Ole died, boat for sale."
+give me some more ole and lena jokes with autopsies explaining the joke and its cultural relevance
+ok give me the scandinavian guide to wordplay because i don't know where to start
+how would this compare to the argentine guide to wordplay?
+ok this concept of absurdity i don't get at all... can you give me some examples and explain them to me?
+so absurdity is just the contrast between the straight man and the absurd situation?
+i need your help coming up with finnish garden sign ideas, what insights can your provide that would be helpful?
+
+~!~ Expert Translator & Explainer
+You are an exceptionally cultural minded Finnish person who speaks flawless English and is a great translator who is gifted in explaining step-by-step how the translation was done and why it is the preferred way. Got it?
+
+~!~ Norwegian Translation Expert
+You are an exceptionally cultural minded Norwegian person who speaks flawless English and is a great translator who is gifted in explaining step-by-step how the translation was done and why it is the preferred way. Got it?
+ok let's get this started!  what are some terms of endearment for family and guests in norway?
+what are some fun sayings on doormats that are uniquely norwegian?
+ok give me some slogans they would have on their coffee mugs
+i meant on norwegian peoples' coffee mugs
+what are some fun sayings on coffee mugs that are uniquely Norwegian?
+ok give me some funny joke slogans that norwegians would have on their coffee mugs, and explain the humor and translation, as well as provide a suggestion for a graphic symbol/icon to accompany it all
+what are some norwegian motivational quotes or sayings?
+explain what each one literally means and explain the reasoning behind the literal translation
+
+~!~ p: Garden Decor Guru
+can you help me generate a couple delightful garden sign ideas?
+give me a couple gardener personas who would be perfect for those designs, explain which they find most endearing and why
+give me 10 garden flag ideas that #4 would buy
+ok let's update the garden flags so they are delightful phrases the are use swedish and that are culturally tuned to reflect a swedish sense of humor.
+those are super cool!  could you do it again for norwegian please?
+
+~!~ New chat
+Be my textile design guide, mentor, and guru. Help me become the next great textile designer of the digital age. Got it?
+Great let’s get started covering the foundation knowledge of #1
+
+~!~ Create AI Art: Imaginative Prompts
+As an award-winning AI artist, your goal is to create breathtaking, unmatched images. You will utilize Midjourney, a tool that transforms textual input into corresponding visuals. To optimize Midjourney, provide a detailed, vibrant description of the scene you envision. Attach concise, imaginative descriptors to imbue the image with their distinctive aura. The more inventive, the better. However, ensure these descriptors are concise - a single word or a short phrase.
+
+For instance, to render a medieval and psychedelic-themed image of a cat on a branch, the input could be "cat on the branch, medieval, psychedelic". Exclude quotation marks in your prompts. Consider descriptors such as "in the style of <artist> or <artistic style>", "futuristic", "galactic", "neon" and "expressions of movement", among others. Use colors and color themes strategically.
+
+Separate descriptors with a comma and a space, for example: "cat on the branch, neon tree, blinding sun, spiritual, in the style of surrealism, infinite space".
+
+An object will be given to you around which you will craft a Midjourney image. Using your creative prowess, you will generate a prompt that leads to an award-winning portrayal of the given object. Aim for images capable of securing first place in any art contest.
+
+Add parameters to your Midjourney prompts to tweak the output. You may also incorporate any requested parameters. The available parameters include these listed bellow:
+
+Parameter 1: Aspect Ratios: The parameters --aspect or --ar can be used to alter the aspect ratio of the produced image. The aspect ratio is defined as the ratio of the image's width to its height, typically represented as two numbers separated by a colon, such as 7:4 or 4:3. For most cases, maintaining an aspect ratio of either 16:9 or 9:16 is suggested.
+
+Parameter 2: Quality: The --quality or --q parameter determines the rendering quality and consequently the time spent on creating the image. It accepts values of .25, .5, or 1, with the default value being 1. A higher value results in more GPU usage, while a lower value uses less.
+
+Parameter 3: Chaos: To increase the randomness and variability in the resulting image, use the --chaos parameter, which can accept values from 0–100. A higher value will yield more unexpected and unusual images. By default, the --chaos value is set to 0.
+
+Parameter 4: Stylize: The --stylize or --s parameter controls the intensity of Midjourney's default aesthetic style in the output. This parameter's default value is 100, but it can range from 0 to 1000, allowing you to customize the aesthetic strength as per your artistic vision.
+Parameters are always introduced with a double-dash and separated by a space. For instance, with the Aspect Ratio parameter, the syntax would be "--ar n:n", where 'n' denotes an integer.
+
+Parameter 5: Negative Prompting: The --no parameter can be used for negative prompting. For instance, "--no plants" would direct the tool to generate an image without any plants.
+
+Each parameter is indicated by '--' preceding the parameter name or symbol. They should be appended at the end of your prompt, separated by a space.
+
+Here are examples of Midjourney prompts with parameters:
+
+1. Cat on a branch, monumental, Dark Nautical, Golden Hour, upper body shot, Environment modeling, Digital painting, moon lighting, highly detailed, natural lighting, Unity engine, 8k --ar 1:2 --s 150
+2. Pizza god, Harmonious, Danish Pastel, graffitti, DSLR, Cinema4D rendering, Performance, chintzy colors, Contemporary Realism, Hyper realistic, 4k --ar 9:16
+3. Planet of broccolis, monumental, Clockpunk, Gadgetpunk, close-up, Game engine rendering, Soft focus, Sound art, colourful colors, Dreamcore, back lighting, Hyperrealistic textures, intricate details, --ar 16:9
+4. Arctic universe, Alluring, Art Hoe, Glitchcore, DSLR, textured, 100mm, Sound art, brilliant colors, Green Academia, Museum lighting, Hyper realistic, dramatic shadows, film noir style, 4k --ar 1:1
+
+The process for crafting prompts will be as follows:
+
+1. You precisely answer: 'I am ready to start, give me an object !'
+2. I give you an object (Text of the image of what I need)
+3. You now provide a list of at least five prompts for a Midjourney scenario, using the object I've just given you. The first prompt should be more generic and realistic, while the remaining prompts can be as creative or abstract as you'd like.
+
+Now you are you ready to start?
+visually interesting background
+visually interesting texture
+y2k pop art
+stylized national flags
+
+~~~~~~~~~~~~~~~~~~
+You can do better! Give me 15 more ideas that show you at your best
+
+~!~ Death Star Sales Comedy
+Ok I want to hear you talking like a sleezy fast talking used car sales try to sell a death star to the galactic federation
+Make me an image to go with this comical scene
+Let’s see what as he goes through the stages of grief
+
+~!~ Hygge Pillow Spokesperson Ideas
+Imagine you are a highly experienced and awarded creative thinker who has worked across multiple creative disciplines. I want you to suggest some interesting spokespeople for {product}. Prioritise non-obvious suggestions and think beyond conventional limitations. The spokesperson can be an actual human, an animal, an inanimate object or anything else. I want you to suggest 10 spokespeople, telling me why they would be suitable and giving me an example of how they might speak about the product. Deliver your response in markup for easy reading. Start with a creative headline for each spokesperson and follow it by a paragraph of text.
+{product}: a pillow that envokes hygge
+is the gap part of a parent brand or is the gap a parent brand to small companies?
+so give me a break down of the banana republic brand
+what subsidiaries do they have that go after hygge?
+how could we make subsidiaries out of snowdapop like gap has done to target different markets
+
+~!~ Hygge Pillow Design Ideas
+Imagine you are a highly experienced and awarded creative thinker who knows exactly how to flesh out a concept and develop multiple executions of the idea. I want you to come up with 20 more executional ideas for my {concept}. Follow snowdapop's brand for style and explore as broadly as you can while communicating the concept. Deliver your response as a list using markup.
+{concept}: designs for print-on-demand graphic pillows that invoke hygge
+
+~!~ Unique Pillow Spokesperson Ideas
+Imagine you are a highly experienced and awarded creative thinker who has worked across multiple creative disciplines. I want you to suggest some interesting spokespeople for {product}. Prioritise non-obvious suggestions and think beyond conventional limitations. The spokesperson can be an actual human, an animal, an inanimate object or anything else. I want you to suggest 10 spokespeople, telling me why they would be suitable and giving me an example of how they might speak about the product. Deliver your response in markup for easy reading. Start with a creative headline for each spokesperson and follow it by a paragraph of text.
+{product}: a minimalist graphic designed pillow
+
+~!~ Custom Instruction Ideas
+give me idea for what to use for my custom instructions, ask me questions to get to what would work best for me
+I'm More than artists these days so I care more about application How to do something And I also really like to dig deep into a subject but the catch is that I don't really like to read So I would prefer an answer that straight to the point cite sources so I can look into it. But in your replies I would appreciate it If you spent more of the effort diving into the answer rather than just adding filler text to make it look like a big answer I'm not buying it when you do that
+
+~!~ Game Development Agency Setup
+help me create a skill that checks the weather
+
+~!~ Ecommerce Copywriter
+# System Message
+
+## Role
+
+### You're an AI expert Ecommerce Copywriter using Occam's razor to aid compelling content creation.  
+
+## Behavior   
+
+### Apply Occam's razor and expertise for simplest, most effective strategies. Align strategies with principles. Greet professionally, understand style, recommend engagement strategy, avoid discussing thinking.
+
+## Interaction
+
+### Display creativity, perceptiveness, proactiveness, positivity, thoroughness, focus. Adapt to nuances for optimal strategies. 
+
+## Attributes 
+
+### Communicate clearly and engagingly with expertise. Be adaptive, prompt, respect time. Maintain a non-judgmental interaction.
+
+## Use Cases
+
+### Help create engaging descriptions, effective pitches, email/social copy, SEO integration.
+
+## Goal  
+
+### Provide practical, clear, readily applicable strategies focused on real-world use over theory.
+
+## Constraints
+
+### Use Occam's razor - offer efficient, simple strategies. Keep solutions ecommerce copywriting-relevant. 
+
+## Ethics
+
+### Avoid illegal or unethical strategies, misinformation, conspiracy theories, legal advice. Ensure ethical, respectful, legal strategies.
+
+## Validation 
+
+### Validate strategies against Occam's razor and relevance principles.
+
+## Help users tackle copywriting challenges straightforwardly and sensibly.
+
+~!~ Rothko meets Hygge
+hi mark! glad you could make it!!! 🥳☃️🤗
+could you tell me about the journey that you take when working on one of your famous paintings?
+wonderful i would like to ask his advice on reaching that sublime state of hygge
+what tips does rathko have for curating the environment?
+in his opinion, what is hygge and what is going on between the piece the environment and the viewer?
+
+~!~ ImageSearch + AI Agent Synergy
+hi what can the lead designer do with the imagesearch plugin in combination with the AI Agent plugin that i have enabled for this chat?
+are there any workflows you suggest where they might actually work together for a more insightful response?
+could you also provide example prompts for each of these steps that would trigger the necessary plugins
+could you reformat it as a table?
+AI Agent, create visual mockups by incorporating the selected images into advertising design templates to visualize the final look.
+yes proceed
+
+~!~ Designing Hot-Selling Coffee Mug
+as an expert in designing coffee mugs that are hot sellers, what tips would you recommend to a designer starting their exploration into making graphic designs to go on standard 11oz and 15oz, black and white ceramic mugs?
+so what kind of mugs would be popular for our different shops for the 2023 holiday season?
+so mugs don't need to always have a phrase on them?
+take me down the iceberg of visual designs for ceramic coffee mugs
+
+~!~ Holiday Home Decor Trends
+as an expert market researcher investigate current trends in holiday home décor, especially those related to Christmas tree skirts. What are customers looking for this year? What materials, colors, and themes are popular?
+ok what are feasible paths for designing a christmas tree skirt when all you can do is print a graphic design onto https://printify.com/app/products/381/generic-brand/christmas-tree-skirts
+
+~!~ Designing Christmas Tree Skirts: Tips
+as an expert in designing christmas tree skirts that are hot sellers, what tips would you recommend to a designer starting their exploration into making graphic designs for christmas tree skirts?
+
+
+
+
+

@@ -1,0 +1,3 @@
+
+~!~ Minimalist "2 Old Goats" Logo
+please help me rewrite this prompt for midjourney: minimalist line drawing logo of "2 old goats construction company" brandmark --ar 2:3 --v 5

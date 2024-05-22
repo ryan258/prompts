@@ -1,3 +1,11 @@
 ~!~ Table Comparison: Small vs Large
 ok rewrite this etsy product description
 
+~!~ ELI5
+Explain the basics of how photosynthesis works in simple terms, as if I am five years old (ELI5). Include:
+
+The objective or purpose of photosynthesis.
+The roles or components involved in photosynthesis (e.g., plants, sunlight, chlorophyll).
+How photosynthesis operates or functions.
+The basic rules or principles of photosynthesis.
+The tools or equipment used in photosynthesis (e.g., leaves, sunlight, water).

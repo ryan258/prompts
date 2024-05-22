@@ -1,14 +1,13 @@
-~!~ Cricket Basics ELI5
-explain to me how the game of cricket works, eli5
+
 
 ~!~ AI Fears & Concerns
 what fears do people have about AI?
 what unforeseen fears are we likely to see arise is AI becomes more prominent in society?
 
 ~!~ Jobs GPT-4 Replaces
-name 20 jobs that GPT-4 can replace. turn it into a table with columns for number, job, and human trait replaced
-now give me 20 jobs that are still safe
-summarize the chat so far please
+List 20 jobs where GPT-4's capabilities could significantly automate or augment tasks, leading to potential workforce changes. Present this information in a table with columns for Job Number, Job Title, and the Primary Human Trait or Skill Set that GPT-4 is replacing or augmenting.
+
+Identify 20 jobs that are currently considered relatively safe from automation due to their reliance on uniquely human skills, complex decision-making, or the need for deep interpersonal interaction.
 
 ~!~ Vikings Super Bowl Odds
 tell me a spooky story

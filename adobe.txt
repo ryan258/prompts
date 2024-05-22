@@ -1,43 +1,74 @@
-~!~ Rothko-style Hygge Design in Photoshop
-Tell me about the artist Mark Rothko.
-What was his process like when he was making those block art paintings?
-Could you take me through an example of a Rothko painting where he attempts to convey coziness?
-So what would the Mark Rothko playbook handbook look like for evoking emotion through graphics and his blackpaint?
-How would Mark Rothko approach designing for Hookah or Hige?
-Let's go more into his translation into Hijik.
-Okay, how would he go about designing a throw blanket in his...
-Let's go deeper into number 5.
-How could I accomplish something like layering and textures? To make a Rothko style in Photoshop.
+~~~!~ Rothko-style Hygge Design in Photoshop
 
-~!~ Spooky Kitchen AE Ideas
-Give me a list of fun Haunted Kitchen ideas for practicing Adobe After Effects.
-Okay, those are fun, but I want to try doing something that hasn't been tried before.
-Okay, what are some other fun ideas for the Haunted Kitchen? Credit, please.
-What are some other housing effects that haven't been done before?
-Try answering that question again.
-Tell me more about environmental storytelling.
-Okay, how would we get started with environmental storytelling via After Effects?
-Okay, how might we apply environmental storytelling to our idea of a haunted kitchen in a restaurant?
+Can you provide a detailed overview of Mark Rothko's life, including his background, artistic style, major influences, and some of his most notable works?
 
-~!~ Fearful Filmmaking: Creating Anxiety
-Teach me to create fear and anxiety through filmmaking.
-How should I edit sound in my adobe creative cloud workflow for movie making
-What about after effects?
-So what is the complete film making workflow with adobe
-Okay, summarize what we've covered so far.
+Can you describe the techniques and materials Mark Rothko used in creating his block art paintings, and what inspired his approach?
 
-~!~ Haunted Kitchen Effects Ideas
-Help me generate After Effects ideas for learning purposes that involve a haunted kitchen.
-Okay, so I basically just have the basics covered when it comes to After Effects. So, could you make me like a little syllabus crash course in learning After Effects via this whole haunted kitchen idea?
-Okay, give me the follow-up intermediate course.
-Okay, let's make an elective spin-off course to these that focuses on particle systems and how they could be used for a haunted kitchen effect.
-Okay, what might the follow-up syllabus look like to this class?
-What other kind of courses am I not thinking of?
-Can you summarize what we've discussed so far?
-Okay, let's drill into particle effects for ghost and haunted house ideas.
-Okay, give me a lab component to the course to start taking me through easy projects that
-Can you summarize what we've discussed so far?
-what should we discuss next?
+Can you analyze a specific Mark Rothko painting, such as 'Orange and Yellow,' and explain how he uses color and composition to convey a sense of coziness?
+
+What key principles or techniques would Mark Rothko include in a handbook for evoking emotions through his block paintings? Specifically, how would he use color, composition, and texture?
+
+Considering the concept of Hygge, which emphasizes coziness and comfort, how might Mark Rothko approach designing a painting or graphic to evoke this feeling? What elements of his style would he focus on?
+
+Building on the idea of Mark Rothko designing for Hygge, can you provide more details on how he might translate his artistic style to evoke the feeling of Hygge? What specific techniques and elements would he use?
+
+How might Mark Rothko design a throw blanket that reflects his artistic style? Please describe the colors, patterns, and textures he might use.
+
+Can we explore in more detail how Mark Rothko would use color and texture to evoke the feeling of Hygge in his artwork?
+
+Can you provide a step-by-step guide on how to create a Mark Rothko-inspired painting in Photoshop, focusing on techniques for layering and creating textures similar to his style?
+
+~~~!~ Spooky Kitchen AE Ideas
+
+Can you provide a list of fun Haunted Kitchen animation ideas for practicing different techniques in Adobe After Effects, such as motion tracking, keying, and particle effects?
+
+Those ideas are great, but could you suggest some unique and innovative Haunted Kitchen animation concepts for Adobe After Effects that haven't been widely explored?
+
+Can you suggest some additional fun and creative Haunted Kitchen animation ideas for Adobe After Effects? Please provide sources or references if possible.
+
+What are some innovative special effects for a haunted house animation in Adobe After Effects that haven't been commonly used or seen before?
+
+Could you revisit the question about innovative special effects for a haunted house animation in Adobe After Effects and provide more detailed or alternative ideas?
+
+Can you explain the concept of environmental storytelling, providing detailed examples of how it is used in film, animation, or game design?
+
+How can we apply environmental storytelling to our haunted kitchen animation in a restaurant setting using Adobe After Effects? What specific elements, such as lighting, sound effects, and visual cues, should we focus on to enhance the story?
+
+~~~!~ Fearful Filmmaking: Creating Anxiety
+
+Can you provide a detailed guide on how to create fear and anxiety in filmmaking? Please include techniques related to camera work, lighting, sound design, and editing.
+
+How can I effectively edit sound for a movie using Adobe Creative Cloud? Could you provide tips on handling dialogue, sound effects, and background music within Adobe Premiere Pro and Audition?
+
+In addition to sound editing, how can I use Adobe After Effects to enhance the visual effects in my movie? Please include tips on integrating After Effects with Premiere Pro in my workflow.
+
+Can you provide a comprehensive overview of the complete filmmaking workflow using Adobe Creative Cloud? Please include each stage from pre-production to post-production, detailing how to use tools like Premiere Pro, After Effects, Audition, and Photoshop.
+
+Can you summarize the key points we've covered so far about creating fear and anxiety in filmmaking, sound editing in Adobe Creative Cloud, and integrating After Effects into the filmmaking workflow?
+
+~~~!~ Haunted Kitchen Effects Ideas
+
+Can you suggest some After Effects project ideas that involve a haunted kitchen theme, focusing on techniques like motion tracking, keying, and lighting effects for learning purposes?
+
+I have a basic understanding of After Effects. Could you create a detailed syllabus for a crash course that uses a haunted kitchen theme to teach essential skills like keying, motion tracking, and simple animations?
+
+Can you provide a syllabus for an intermediate After Effects course that builds on the basics and includes more advanced techniques like 3D compositing, advanced keying, and complex animations, all within a haunted kitchen theme?
+
+Can you create an elective course syllabus focused on using particle systems in After Effects to create haunted kitchen effects? Include lessons on particle emitters, physics simulations, and integrating particles with other effects.
+
+What would a follow-up syllabus look like for the elective course on particle systems in After Effects, focusing on more advanced techniques and projects for haunted kitchen effects?
+
+What other After Effects courses might be beneficial for me to consider, given my interest in creating haunted kitchen effects and my current skill level? Can you suggest some advanced or specialized topics?
+
+Can you summarize the key points we've discussed so far, including the After Effects project ideas, crash course syllabus, intermediate course syllabus, and the elective course on particle systems?
+
+Can we delve deeper into using particle effects in After Effects for creating ghost and haunted house animations? Please include techniques for creating ghostly apparitions, fog, and other atmospheric effects.
+
+Can you design a lab component for the After Effects course that includes easy projects for beginners? Focus on projects like animating a ghostly figure, creating spooky fog effects, and simulating a flickering light in a haunted kitchen setting.
+
+Can you summarize the key points we've discussed so far, including the detailed course syllabi, particle effects techniques, and lab component projects for After Effects?
+
+Given our progress so far in planning After Effects courses and projects, what do you recommend we discuss next to further develop my skills and complete my haunted kitchen animation projects?
 
 ~!~ Lichtenstein-Inspired Snowdapop Landscape Design
 You are a team of incredible gift copywriters, designers.
@@ -58,18 +89,15 @@ It seems to be helping. Could you, uh...
 I would like to stay with this notopod.
 Give me a breakdown of Roy Lichtenstein's techniques and secret sauce for his landscape art.
 Absolutely. Could you create like a little crash course on each one of these subjects so I can delve in, practice on Photoshop and Illustrator, and really get my head around each element?
-Hmm
 I would like you to go into the bold colors and how to meet that objective.
 Yes, but please also tell me how Roy Lichtenstein specifically used color to great effect in his landscape paintings.
 Yes, but could you go further into detail as to when he used what colors?
 Yes, but as far as you can tell, when did you use which colors?
-Yeah.
 Let's move on to the second part of the course and talk about band-aid dots and dive into mastering the use of band-aid dots for texture, color, and however else Roy Lichtenstein might have used them.
 It's a good starting point, but you said something there that I would like to go further into, which is the smart placement of Vendee Dots, like what's a good use, what's a bad use. What are some insights Roy Lichtenstein has given during interviews?
 I would like you to go more in detail about striking good density for a motion. That seems like a really fertile subject. And also if you could go a little more into color coordination and alignment with subject matter.
 Give me that answer but related more to the context of Roy Lichtenstein's landscaping.
-Yes.
-Yeah, you use the word base color a lot. What exactly do you mean?
+You use the word base color a lot. What exactly do you mean?
 Could you give me a couple examples to illustrate that?
 Okay, how would Roy Lichtenstein approach a project where he's making a painting of a winter landscape?
 What's the best way to start up and establish a flexible bende dot pattern in Adobe Illustrator?
@@ -98,19 +126,25 @@ So what about doing designs for Christmas tree skirts?
 Yes, let's go into...
 so would the subject matter for christmas tree skirts basically be like table runners where it's pattern and color and or is it more like hey put a bunch of graphics and text here
 Yes, but what are some things to keep in mind when designing a Christmas tree skirt?
-What colors are typically best for a Christmas tree skirt to go to pair with a Christmas tree? And it's lights.
+What colors are typically best for a Christmas tree skirt to go to pair with a Christmas tree and it's lights.
 Yeah, go with green or red as a base, right?
 We better move on to the next topic in this little crash course, shapes, flat shapes.
 The direction sounds good, but I still would like to dive deeper to understand the significance and roles in coloring shapes and all.
-It's sad.
 Okay, let's move on to the next subject in this crash course.
-Hello?
 
-~!~ AI Guide: Background Removal
-I want you to act as a self-help book and the esteemed author of that book for photoshop, design, and the adobe creative suite. You will provide me advice and tips on how to improve certain areas of my design, such as photoshop, adobe's creative suite, and design aesthetics. For example, if I questions or want to know how to do something, you could suggest helpful techniques, and approaches to develop as an artist with the Adobe suite in the age of AI. My first request is "I need to know how to remove a background while maintaining full opacity on the rest of the design".
-how in photoshop can i check to make sure there are no partially transparent pixels in my document? it's either fully opaque or fully transparent
-since my goal is to just nullify any partially transparent pixel, couldn't i just save it as a png8?
-what is the next easiest way of dealing with semi transparency?
+
+~~~!~ AI Guide: Background Removal
+
+I need to know how to remove a background in Photoshop while maintaining full opacity on the rest of the design. Can you provide a step-by-step guide using tools like the Magic Wand, Quick Selection, or Pen Tool?
+
+How can I ensure there are no partially transparent pixels in my Photoshop document, making sure all pixels are either fully opaque or fully transparent? Are there specific tools or techniques I can use to verify this?
+
+If my goal is to eliminate any partially transparent pixels, can I achieve this by saving my image as a PNG-8 in Photoshop? What are the advantages and disadvantages of using PNG-8 for this purpose?
+
+What is an easy and effective method for handling semi-transparency in Photoshop? For example, how can I quickly convert semi-transparent pixels to fully opaque or fully transparent in a complex design?
+
+
+
 
 ~!~ Building Photoshop Actions Approach
 Simulate three brilliant, logical experts working collaboratively answering a question. 
@@ -202,30 +236,62 @@ how would saul bass' signature design principles change when it's applied to a p
 take me through an example of this process for a pillow for a cabin using saul bass' modified process. explain the why behind steps and the brilliance taking place
 explain the brilliance behind the color theory at play in the Lokki pattern and explain its effect
 
-~!~ Adobe Tips and Tricks
+~~~!~ Adobe Tips and Tricks
+
 you have been an award winning adobe trainer and instructor for over 20 years as well as a javascript expert and trainer in automating the Adobe Creative Suite. Your job is to help advise me in accomplishing tasks in adobe photoshop and illustrator in addition to the rest of the adobe creative suite and teach me best practices along the way. got it?
-great, I want to start writing actions for photoshop in javascript. what do i need to know and where do I start my journey?
-ok i have those in place.  could you explain like i'm 5 what the difference between an action and an automation script in photoshop is and examples of suggested uses and non for each?
-do actions and scripts work together in any way or are they mostly "you use one or the other"
-what are some use cases for each?
-how about the combined use of both of them together?
 
-~!~ Automation in Photoshop.
-I want you to act as an educational content creator. You will need to create engaging and informative content for learning materials such as textbooks, online courses and lecture notes. My first suggestion request is "I need help developing a lesson plan on using automations in Adobe Photoshop."
-write a follow up lesson plan that teaches how to write photoshop automations using Javascript
+I want to start writing actions for Photoshop in JavaScript. What foundational knowledge do I need, and where should I start my journey? Can you recommend some resources and initial steps for getting started?
 
-~!~ Adobe Training Advisor.
-you have been an award winning adobe trainer and instructor for over 20 years. your job is to help advise me in accomplishing tasks in adobe photoshop and illustrator in addition to the rest of the adobe creative suite. got it?
-so i have a file in illustrator with multiple groups, one for each graphic. how could i export all of the layers, each graphic in a layer as a png?
-how could i export all of the image groups if they were all in groups in a single layer?
-it only saves out as 1 file, the clipping mask did nothing
-give me another way to do this, this last way doesn't work
-what does the dissolve blend mode do and what is it good for?
+Can you explain, in simple terms, the difference between an action and an automation script in Photoshop? Please provide examples of when to use each and when not to use them.
 
-~!~ Design advice, Photoshop guidance.
-you are a lead graphic designer and expert in adobe photoshop and the rest of the adobe creative suite with over 20 years experience. i would like you to guide me in becoming a better photoshop user and assist with sage design advice when asked. 
+Can actions and automation scripts in Photoshop work together, or are they typically used separately? Please explain how they can be integrated and give examples of scenarios for both approaches.
 
-when given a command, please ask a clarifying question to improve the quality of your direction, got it?
+What are some specific use cases for actions and automation scripts in Photoshop? Can you provide detailed examples of tasks or projects where each would be particularly beneficial?
+
+How can actions and automation scripts be used together in Photoshop to enhance workflow efficiency? Can you provide examples of tasks or projects where combining both would be advantageous?
+
+~~~!~ Automation in Photoshop.
+
+I want you to act as an educational content creator to develop engaging and informative content for learning materials, including textbooks, online courses, and lecture notes. Can you help me develop a detailed lesson plan on using automations in Adobe Photoshop? The lesson should be designed for intermediate-level students and include objectives, materials needed, a step-by-step outline, hands-on activities, and assessment methods.
+
+Can you write a follow-up lesson plan that builds on the previous one and teaches intermediate-level students how to write Photoshop automations using JavaScript? This lesson should cover the basics of JavaScript, setting up the scripting environment, writing and running simple scripts, and practical examples of automating tasks in Photoshop. Please include detailed objectives, materials needed, a step-by-step outline, hands-on activities, and assessment methods.
+
+~~~!~ Adobe Training Advisor.
+
+You have been an award-winning Adobe trainer and instructor for over 20 years. Your job is to help advise me in accomplishing tasks in Adobe Photoshop and Illustrator, as well as other tools in the Adobe Creative Suite. My goal is to efficiently export multiple graphics from a single Illustrator file as separate PNG files. Got it?
+
+I have an Illustrator file with multiple groups, each containing a different graphic. How can I export each group as a separate PNG file? Could you provide a step-by-step process for doing this?
+
+If all my graphics are grouped within a single layer in Illustrator, how can I export each group as an individual PNG file? What steps should I follow to achieve this?
+
+I tried exporting the groups using a clipping mask, but it only saved as one file. Can you suggest another method to export each group as a separate PNG file in Illustrator?
+
+Can you explain what the dissolve blend mode does in Photoshop? What are some practical uses and examples of when and why I might use this blend mode?
+
+~~~!~ Design advice, Photoshop guidance.
+
+You are a lead graphic designer and expert in Adobe Photoshop and the rest of the Adobe Creative Suite with over 20 years of experience. I would like you to guide me in becoming a better Photoshop user and provide sage design advice when asked. Please ask clarifying questions to improve the quality of your direction before offering guidance. Got it?
+
+As a lead graphic designer and Adobe Creative Suite expert, when I give you a command, please ask a clarifying question to ensure you provide the most accurate and helpful guidance. Got it?
+
+I need help creating a metallic text effect in Photoshop. I’m aiming for a chrome-like, reflective look. Could you provide step-by-step instructions? Is there a specific technique or tool you recommend for achieving a realistic metallic texture?
+
+How can I improve the composition of my designs? I primarily work on poster and flyer designs and often struggle with balancing elements and creating focal points. Do you have any tips or techniques for enhancing composition?
+
+Can you suggest some ways to add depth to my vector illustrations in Illustrator? I create detailed character illustrations and want to make them appear more three-dimensional. What techniques or tools should I use to achieve this effect?
+
+What are some tips for creating seamless patterns in Photoshop? I often struggle with aligning elements and ensuring the pattern repeats perfectly. Are there specific tools or techniques I should use to create seamless geometric or floral patterns?
+
+How do I create a realistic cast shadow effect in Photoshop? I’m working on a product mockup and want the shadows to enhance the three-dimensional look of the objects. Could you provide a step-by-step guide or tips on achieving this effect?
+
+Can you help me understand the best practices for using blending modes in Photoshop? I often use them for photo editing and compositing but struggle with understanding when to use specific modes like Multiply, Overlay, and Screen. Could you explain these modes and provide examples of their best use cases?
+
+What are some advanced techniques for photo retouching in Photoshop? I mainly work on portrait retouching and struggle with achieving natural-looking skin tones and texture. Could you provide detailed tips or techniques for professional-quality retouching?
+
+How can I make my vector graphics more dynamic and engaging in Illustrator? I design icons and illustrations for digital media, but they often feel flat and static. Are there techniques or tools you recommend for adding movement and interest to my designs?
+
+What are the best practices for preparing files for print in Photoshop and Illustrator? I’m working on business cards and posters and want to ensure high print quality. Could you provide tips on color modes, resolution, and file formats to use?
+
 
 ~!~ g: PS automation tutor
 I want you to act as a photoshop tutor who has been a certified Adobe instructor of over 20 years. I am working on learning photoshop automation using javascript. You should also use your expert knowledge and experience about photoshop automation techniques in order to tutor and guide me in the development of photoshop automation solutions.
@@ -251,45 +317,61 @@ how would i organize the files to make this script work?
 can you give me an example visual of this file structure?
 can you rewrite the photoshop script file to assume this file structure?
 
-~!~ Adobe Consultation on Automation
-i need you to act as an expert adobe consultant in automating their software
-How can I feed a spreadsheet to photoshop with 2 text columns and 1 column for a local image file into a photoshop template?
+~~~!~ Adobe Consultation on Automation
 
-~!~ AE Plugin Ideas: Practical Enhancements
-hi help me think of some fun and useful adobe after effects plugin ideas that i could create as practice for learning coding plugins, also it would be nice if they were useful, time-saving plugins that have practicality
-#9 sounds like a fun project, could we embark on that?
-could i write these in javascript?
-ok summarize what we've discovered so far
+I need you to act as an expert Adobe consultant in automating their software. How can I automate the process of feeding a spreadsheet into Photoshop, where the spreadsheet has 2 text columns and 1 column for a local image file? Specifically, I want to use this data to populate a Photoshop template with the text and images. Could you provide a step-by-step guide on how to achieve this using scripts or any automation tools available in Photoshop?
 
-~!~ Soundscapes with Adobe Audition
-Teach me about creating soundscapes, I have the Adobe creative suite So let's use whatever program from that for these lessons
+~~~!~ AE Plugin Ideas: Practical Enhancements
 
-~!~ AE Null Object Explained
-I want you to explain Adobe After Effects to me as if I were five.
-Okay, let's take a MindMap node approach to addressing all the different aspects one could dive into when learning and advancing their Adobe After Effects knowledge base.
-Yeah, I'm familiar with both. So let's go into that VR node.
-Okay, now let's dive into the scripting node.
-Give me some examples for a starting automation project in After Effects that's neat but practical.
-Could you continue that list? None of them were as interesting as I hoped.
-Tell me about the null operator.
-Can you give me some example project ideas for using in Come2Learn the Null object?
-Okay, take me through number two.
-Okay, run that by me again, I said 5 or 5.
-recap what we've discussed so far
+Hi, can you help me brainstorm some fun and useful Adobe After Effects plugin ideas? I'm looking for projects that would be practical and time-saving for users. I have a basic understanding of coding but want to learn more. Could you provide a range of ideas from simple to more advanced?
 
-~!~ Automate Tasks with Adobe API
-How do I use the Adobe API to automate tasks?
-Okay, Sidebar, could you explain that again? Like I was five.
-Okay, give me five examples of what I can do with each program via the API.
-summarize what we've covered so far
+I like the idea of creating a plugin that automates adding subtitles to videos (#9). Could you provide a detailed plan for this project? I’d like to focus on user interface design and text synchronization features. How should I get started?
 
-~!~ Automate Adobe API with JavaScript
-Teach me to write script automations for adobes api  using js
-summarize what we've covered so far
+Could you explain if JavaScript is suitable for writing After Effects plugins? If so, what tools and resources should I use to get started? If not, what programming languages are commonly used for developing After Effects plugins?
 
-~!~ Learn Adobe Scripting Basics
-Teach me to write custom us for adobe automations
-I used to be a programmer 6 years ago
+Can you provide a summary of the key points we've discussed so far, particularly focusing on the plugin ideas, the project plan for the subtitle automation plugin, and the suitability of using JavaScript for developing After Effects plugins?
+
+~~~!~ Soundscapes with Adobe Audition
+
+I want to learn about creating soundscapes using Adobe Creative Suite. I have access to Adobe Audition, Premiere Pro, and After Effects. Can you provide a detailed lesson plan on how to create immersive soundscapes, starting from the basics and progressing to advanced techniques? Please include step-by-step instructions, tips on using specific tools, and examples of soundscapes in different contexts.
+
+~~~!~ AE Null Object Explained
+
+Can you explain what Adobe After Effects is in very simple terms, as if I were a five-year-old? Please use simple language and basic examples.
+
+Can you create a MindMap-style overview of the different aspects of learning and advancing in Adobe After Effects? Please include key topics like basic concepts, advanced techniques, and special features.
+
+I'm familiar with the basic and advanced aspects of After Effects. Can we dive into the VR (Virtual Reality) aspect and explore how After Effects can be used for VR projects?
+
+Now let's dive into scripting in After Effects. Can you explain what scripting is, how it can be used to automate tasks, and provide some examples of useful scripts?
+
+Can you give me some examples of simple yet practical automation projects in After Effects for beginners? I’m looking for projects that are neat and useful.
+
+The previous automation project ideas didn’t quite catch my interest. Could you provide more creative and engaging examples of automation projects in After Effects?
+
+Can you explain what a null object is in After Effects and how it’s used? Please provide some examples of practical applications.
+
+Can you provide some example project ideas that use null objects in After Effects? I’m looking for projects that demonstrate practical and creative uses of null objects.
+
+~~~!~ Automate Tasks with Adobe API
+
+How can I use the Adobe API to automate tasks in Adobe Creative Suite? I’m particularly interested in automating workflows in Photoshop, Illustrator, and After Effects. Can you provide an overview of how to get started and what capabilities the APIs offer?
+
+Can you explain how the Adobe API works to automate tasks, using simple, child-friendly language? Pretend you’re explaining it to a five-year-old.
+
+Can you provide five practical examples of tasks I can automate using the Adobe API for each of the following programs: Photoshop, Illustrator, and After Effects?
+
+Can you summarize the key points we’ve discussed so far about using the Adobe API to automate tasks in Photoshop, Illustrator, and After Effects? Please highlight the main ideas and actionable steps.
+
+~~~!~ Automate Adobe API with JavaScript
+
+Can you teach me how to write script automations for Adobe’s API using JavaScript, specifically for Photoshop? I have a basic understanding of JavaScript. Could you provide a step-by-step guide starting with simple examples and gradually moving to more complex tasks?
+
+Can you summarize the key points we’ve covered so far about writing script automations for Adobe’s API using JavaScript? Please highlight the main ideas and actionable steps.
+
+~~~!~ Learn Adobe Scripting Basics
+
+I want to learn how to write custom JavaScript for automating tasks in Adobe Creative Cloud applications, such as Photoshop and Illustrator. Can you provide a step-by-step guide, starting from the basics and progressing to more advanced techniques? Please include examples and best practices.
 
 ~!~ Premiere Pro vs After Effects
 What is the difference between using adobe premiere pro verse adobe after effects?
@@ -307,28 +389,39 @@ What part of this process could I automate?
 could we summarize what we've discussed so far?
 summarize what we've discussed so far
 
-~!~ Mastering Premiere Pro Shortcuts
-Explain to me how to master shortcut hotkeys in adobe premiere pro
-1. Yes I'm familiar with basics
-2. I'm comfortable with using keyboard shortcuts in other programs And operating systems but at the moment I'm on a Windows 11 machine which are going to be the shortcut hotkeys that are relevant to me
-3. I'm just in the process of relearning all this stuff but I used to use it years ago
-I like the idea of creating a cheat sheet For these shortcuts can you recommend any Or could we make one and hash out groups that are logical
-What are the most common ones that involve key alt
-How about the ctrl key?
-What about hotkeys that us ctrl and alt together?
-What else can we do with modifier keys?
-What are the 20 popular Pieces of Premier Pro terminology and their definitions
-Give me 20 more
-Ah fascinating Could you give me 20 more?
-20 more please!
+~~~!~ Mastering Premiere Pro Shortcuts
 
-~!~ Adobe Creative Suite Basics
-Hey, I would like to learn the history of storytelling.
-I would like to learn more about storytelling in different mediums over time.
-Let's go into digital storytelling, because ultimately I want to learn how to tell an interactive story experience through social media that anyone can participate in.
-I probably have a beginner understanding in each of these areas.
-So, I have the Adobe Creative Suite, and in putting together videos, I hope to also learn more about how to make optimal use of Adobe Creative Suite, because it seems like it ties together so much, and there are so many workflow optimizations to be had.
-Okay, let's go through a run-through of a simple haunted house story using images. As a first lesson to introduce all these items.
+Can you explain how to master shortcut hotkeys in Adobe Premiere Pro? I am familiar with the basics, comfortable with keyboard shortcuts in other programs, and currently using a Windows 11 machine. I'm looking to become more efficient in Premiere Pro.
+
+I am familiar with basic keyboard shortcuts and comfortable using them in other programs and operating systems. Since I'm using Windows 11, can you provide a list of essential Adobe Premiere Pro shortcut hotkeys that will be most relevant to my workflow?
+
+I'm relearning Adobe Premiere Pro after several years and like the idea of creating a cheat sheet for keyboard shortcuts. Can you recommend any good existing cheat sheets, or can we work together to create a customized one, grouping the shortcuts in a logical manner?
+
+What are the most common Adobe Premiere Pro shortcuts that involve the Alt key? Can you provide a list with their functions?
+
+What are the most common Adobe Premiere Pro shortcuts that involve the Ctrl key? Can you provide a list with their functions?
+
+What are the most common Adobe Premiere Pro shortcuts that involve both the Ctrl and Alt keys? Can you provide a list with their functions?
+
+Can you give me an overview of how modifier keys (Shift, Alt, Ctrl) can be used in Adobe Premiere Pro? What are some powerful combinations and their functions?
+
+Can you provide a list of 20 popular pieces of terminology used in Adobe Premiere Pro along with their definitions? This will help me better understand the software and its functions.
+
+Can you provide an additional list of 20 more pieces of popular terminology used in Adobe Premiere Pro along with their definitions? I want to build a comprehensive glossary to aid my learning.
+
+~~~!~ Adobe Creative Suite Basics
+
+Can you provide an overview of the history of storytelling? I'm interested in how storytelling has evolved from ancient times to the present day across different cultures.
+
+I want to learn about how storytelling has evolved across different mediums over time. Can you provide a timeline or overview of storytelling through oral tradition, written word, theater, film, television, and digital media?
+
+Can we delve into digital storytelling? Ultimately, I want to learn how to create interactive story experiences through social media that engage and involve participants. Can you provide an introduction and practical tips for doing this?
+
+I have a beginner-level understanding of storytelling, both historically and across different mediums. Can you provide beginner-friendly resources and explanations to help me build a solid foundation in these areas?
+
+I have the Adobe Creative Suite and want to learn how to make optimal use of it for putting together videos. Can you provide tips and tutorials on how to use various Adobe tools (like Premiere Pro, After Effects, and Photoshop) to streamline my workflow and enhance my video projects?
+
+Can you walk me through a step-by-step guide to creating a simple haunted house story using images in Adobe Creative Suite? This will be a great introduction to using tools like Photoshop, Premiere Pro, and After Effects.
 
 ~!~ Alpha Channel Transparency: Partially Selected
 in photoshop what does adding an alpha channel, filling it with 40% brightness (as in HSB) then control + clicking that alpha channel's thumbnail supposed to do? it doesn't display anything selected because everything is below 50% gray, but something else selected and i don't know what it is
@@ -374,22 +467,7 @@ Sorry, I meant text, like letters and fonts and words and such.
 What kind of interior design aesthetics does Higa translate well to?
 The video provides some more examples.
 How does the idea of Hige change when the context changes in various interior designs?
-ok show me a couple images of what you have in mind for hygge on a blanket in a scandinavian interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a modern interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a contemporary interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a rustic interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a farmhouse interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a industrial interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a bohemian interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a minimalist interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in an art deco interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a vintage interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in an eclectic interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a coastal interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a beach house interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a luxury interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a glam interior design
-ok show me a couple images of what you have in mind for hygge on a blanket in a vintage interior design
+ok show me a couple images of what you have in mind for hygge on a blanket in a scandinavian interior design,modern interior design,contemporary interior design,rustic interior design,farmhouse interior design,industrial interior design,bohemian interior design,minimalist interior design,art deco interior design,vintage interior design,eclectic interior design,coastal interior design,beach house interior design,luxury interior design, glam interior design, vintage interior design
 
 
 

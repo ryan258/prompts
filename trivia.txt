@@ -14,15 +14,21 @@ give me 20 fun ideas for quizzes
 let's keep these text question answer based quizes
 what adobe products would be best for making youtube video quiz games?
 
-~!~ Bar Trivia Game Sheet
-create a 25 question bar trivia game night sheet
-whats the answer key to this quiz?
-let's make another quiz specifically about graphic design vocab
-and the answer key
-now let's make a quiz on 15 state capitals
+~~~!~ Bar Trivia Game Sheet
 
-~!~ Country Hints Table
-give me 60 countries and hint that represents the country in a table of 3 columns; number on the first column (this is style 1), hint on the second column (one word), and the country names in the third column. Don't repeat any country.
+Can you create a 25-question bar trivia game night sheet? Please include questions from a variety of categories such as general knowledge, movies, sports, history, and science.
+
+Can you provide the answer key to the 25-question bar trivia game night sheet you created?
+
+Can you create a quiz with 15 questions specifically about graphic design vocabulary? Please include a variety of terms and concepts related to graphic design.
+
+Can you provide the answer key to the graphic design vocabulary quiz you created?
+
+Can you create a quiz with 15 questions about the capitals of U.S. states? Please include a mix of well-known and lesser-known state capitals.
+
+~~~!~ Country Hints Table
+
+Can you provide a table with 60 unique countries and a one-word hint representing each country? The table should have three columns: the first column for numbers (1 to 60), the second column for one-word hints, and the third column for the country names. Please make sure no country is repeated.
 
 ~!~ ChiveTV Video Submission Terms
 How much does chivetv pay for videos?

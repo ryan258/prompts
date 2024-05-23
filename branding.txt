@@ -31,13 +31,17 @@ are there other more effecient ways of communicating this data to you or is xml 
 i just want to make sure that i'm giving you my brand data in a way that you can use in your working memory
 so how would you rate the formatting of the document i uploaded and what kind of improvements do you suggest i make?
 
-~!~ Social Signaling Iceberg
-take me down the metaphorical iceberg of social signaling
-ok let's go down a new iceberg where we focus on the symbolism of signaling
+~~~!~ Social Signaling Iceberg
 
-~!~ Luxury Brand Social Signaling
-take me down the metaphorical iceberg of social signaling tactics used by luxury brands
-let hop over to a new iceberg and expand on the brand storytelling luxury brands use
+Can you explain the concept of social signaling, starting with basic ideas and moving to more complex and deeper aspects? Please provide examples to illustrate each level of the metaphorical iceberg.
+
+Now, can we explore the symbolism of social signaling in a similar iceberg format? Please explain the symbolic meanings and implications at each level, providing examples to illustrate these concepts.
+
+~~~!~ Luxury Brand Social Signaling
+
+Can you explain the social signaling tactics used by luxury brands, starting with basic tactics and moving to more complex and subtle ones? Please provide examples to illustrate each level of the metaphorical iceberg.
+
+Now, can we explore the brand storytelling techniques used by luxury brands in a similar iceberg format? Please explain the storytelling methods and strategies at each level, providing examples to illustrate these concepts.
 
 ~!~ Better Tools for Brand Analysis
 The swot analysis seems antiquated
@@ -52,13 +56,15 @@ Could you generate the image, then show me another take the. Another and another
 Oh sure you can
 Really? Try again, you’re the best you can do it
 
-~!~ Image Analysis for Branding
-can you derive a color palette?
 
-~!~ Boosting Online Sales Strategy
-How can we boost online sales?
-how do we work backwards from the customers' big 'why' and reverse engineer our brand all the way to the mission statement?
-could we walk through an example using snowdapop's hygge home decor
+
+~~~!~ Boosting Online Sales Strategy
+
+What are some effective strategies and tactics to boost online sales? Please include suggestions for website optimization, marketing, and customer engagement.
+
+Can you explain how to work backwards from the customers' big 'why' and reverse engineer our brand all the way to the mission statement? Please provide a step-by-step process and include examples or case studies to illustrate this approach.
+
+Can we apply the strategies and processes we've discussed to an example using Snowdapop's hygge home decor? Please provide a detailed walkthrough, including specific steps and expected outcomes.
 
 ~!~ Lifestyle Brand Architecture Diagram
 show me the architecture of a lifestyle brand

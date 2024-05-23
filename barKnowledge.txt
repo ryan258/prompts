@@ -4,17 +4,20 @@
 what fears do people have about AI?
 what unforeseen fears are we likely to see arise is AI becomes more prominent in society?
 
-~!~ Jobs GPT-4 Replaces
-List 20 jobs where GPT-4's capabilities could significantly automate or augment tasks, leading to potential workforce changes. Present this information in a table with columns for Job Number, Job Title, and the Primary Human Trait or Skill Set that GPT-4 is replacing or augmenting.
+~~~!~ Jobs GPT-4 Replaces
 
-Identify 20 jobs that are currently considered relatively safe from automation due to their reliance on uniquely human skills, complex decision-making, or the need for deep interpersonal interaction.
+Can you list 20 jobs where GPT-4's capabilities could significantly automate or augment tasks, leading to potential workforce changes? Please present this information in a table with columns for Job Number, Job Title, and the Primary Human Trait or Skill Set that GPT-4 is replacing or augmenting.
+
+Additionally, identify 20 jobs that are currently considered relatively safe from automation due to their reliance on uniquely human skills, complex decision-making, or the need for deep interpersonal interaction. Provide a brief explanation for each job on why it is considered safe from automation.
 
 ~!~ Vikings Super Bowl Odds
 tell me a spooky story
 
-~!~ NFL Merch
-What does the merchandising split between the NFL and the individual teams look like?
-So why would it be that coaches on the sideline are wearing their teams logo but for some reason they’re grayscale and this is it unique to one team we’re watching a single game we’re both teams on the sidelines. The coaches have lined some weird grayscale logo team attire.
+~~~!~ NFL Merch
+
+Can you explain how the merchandising revenue is split between the NFL and the individual teams? Please provide details on the percentage of revenue that goes to the league versus the teams, and include any specific examples or data to illustrate this split.
+
+I noticed that during a recent game, coaches on the sidelines were wearing their team's logo in grayscale instead of the usual colors. This was the case for both teams in the game. Can you explain why coaches might wear grayscale team logos and whether this is a common practice or specific to certain events or games?
 
 ~!~ Asphalt Racetrack Costs: Missouri
 If I wanted to build an asphalt racetrack in southern Missouri what should I take into consideration?

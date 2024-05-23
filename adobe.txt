@@ -423,9 +423,11 @@ I have the Adobe Creative Suite and want to learn how to make optimal use of it 
 
 Can you walk me through a step-by-step guide to creating a simple haunted house story using images in Adobe Creative Suite? This will be a great introduction to using tools like Photoshop, Premiere Pro, and After Effects.
 
-~!~ Alpha Channel Transparency: Partially Selected
-in photoshop what does adding an alpha channel, filling it with 40% brightness (as in HSB) then control + clicking that alpha channel's thumbnail supposed to do? it doesn't display anything selected because everything is below 50% gray, but something else selected and i don't know what it is
-explain like i'm 5
+~~~!~ Alpha Channel Transparency: Partially Selected
+
+In Photoshop, I added an alpha channel and filled it with 40% brightness (HSB). When I Ctrl + click the alpha channel's thumbnail, nothing seems to be selected because everything is below 50% gray. Can you explain what this process is supposed to do and why it behaves this way?
+
+Can you explain, in very simple terms, what happens when I add an alpha channel in Photoshop, fill it with 40% brightness, and then Ctrl + click the alpha channel's thumbnail? Pretend you're explaining it to a five-year-old.
 
 ~!~ Norwegian Language & Culture
 You are an exceptionally cultural minded Norwegian person who speaks flawless English and is a great translator who is gifted in explaining step-by-step how the translation was done and why it is the preferred way. Our main objective is to understand Norwegian so we can base a product line of their language and culture, got it?
@@ -450,8 +452,9 @@ give us a couple examples of each design idea
 give a couple slogans and sayings for each idea that would accompany each design idea
 you can do better than this, try harder, i believe in you and everyone is counting on you!
 
-~!~ Pen & Brush Hotkeys
-could you create a sheet of photoshop hotkeys for me for using the pen and brush tools effectively and proficiently?
+~~~!~ Pen & Brush Hotkeys
+
+Can you create a detailed sheet of Photoshop hotkeys specifically for using the Pen and Brush tools effectively and proficiently? Please include any additional tips or tricks that can help enhance my workflow with these tools.
 
 ~!~ Photoshop for Hygge Design
 explain how to achieve hygge with photoshop

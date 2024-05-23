@@ -1,19 +1,27 @@
-~!~ ecobee3 Features and Benefits
-what can a ecobee3 do for me?
-neat, so how do i install it?
-oh i'm sorry it was the ecobee3 lite! how does that change things?
+~~~!~ ecobee3 Features and Benefits
 
-~!~ Reconnect My Home Cloud
-how do i reconnect a my home cloud to the network?
-how can i log into my routers interface
-how the fuck do i access this god damn drive through the fucking finder!?
+Can you provide a detailed overview of the features and benefits of the ecobee3? How can it improve my home's energy efficiency and comfort?
+
+Great, so how do I install the ecobee3? Can you provide a step-by-step guide and any important tips or precautions to keep in mind during installation?
+
+Oh, I'm sorry, it was the ecobee3 lite! How does that change things? Can you compare the ecobee3 and the ecobee3 lite, highlighting the differences in features, installation, and benefits?
+
+~~~!~ Reconnect My Home Cloud
+
+Can you provide a step-by-step guide on how to reconnect my [specific brand/model] home cloud to the network? What troubleshooting steps should I follow if I encounter issues?
+
+How can I log into my router's interface? Can you provide a detailed guide, including how to find the default IP address, username, and password?
+
+How do I access a network drive through Finder on my Mac? Can you provide a step-by-step guide on how to connect and access it?
 
 ~!~ Set Up My Cloud
 how should i set up my "my cloud home"?
 
-~!~ Program Custom Google Home Commands
-ok how can i program my own commands into my google home?
-ok so if i want to make something like a garage storage locator app with my google home, what kind of intents and entities should i begin with?
+~~~!~ Program Custom Google Home Commands
+
+How can I program custom commands into my Google Home? Can you provide a detailed guide, including necessary tools, platforms (like Google Assistant and Actions on Google), and step-by-step instructions?
+
+I want to create a garage storage locator app using my Google Home. What kind of intents and entities should I start with? Please provide specific examples of intents and entities that would be relevant for this application.
 
 ~!~ Garage Inventory with Google
 so i have this idea for a garage management system where it inventories your garage with a google sheet, but then you can ask your google home in the garage where a certain item it. of course each item would be delegated to a designated storage space in the garage
@@ -29,11 +37,16 @@ The API returned an error: Error: The caller does not have permission
 ok #1 fixed it, hello garage data!  this is SO exciting!
 now how can we connect this to our google home in the garage and put this to use!
 
-~!~ Maximize Google Home Automation
-Give me some set up ideas for a ho e automation security system
-Ok I have some google hames what can I make happen with those home automation wise
-How can I make the most out of my home automation that consists of several google homes, color lights, Rokus and smart tvs, computers and 1 alexa
+~~~!~ Maximize Google Home Automation
 
-~!~ Home Automation Hub Choices.
-Give me 20 unique and fun home automation project ideas
-What would be the corner stone of my home automation?
+Can you provide some setup ideas for a home automation security system? Please include specific components, configurations, and tips on integrating various security devices and platforms for optimal security.
+
+I have several Google Home devices. Can you provide detailed examples of how I can use them for home automation? I'm interested in functionalities like lighting control, entertainment, security, and setting up routines.
+
+How can I maximize the use of my home automation setup that includes several Google Homes, color lights, Rokus, smart TVs, computers, and 1 Alexa? Please provide specific strategies for integrating and controlling these devices seamlessly.
+
+~~~!~ Home Automation Hub Choices.
+
+Can you provide 20 unique and fun home automation project ideas? Please include a variety of projects that range in complexity and incorporate different aspects of home automation, such as lighting, security, and entertainment.
+
+What should be the cornerstone of a comprehensive home automation setup? Can you recommend the essential components or systems that form the foundation of an effective home automation system, and suggest the best devices to use?
